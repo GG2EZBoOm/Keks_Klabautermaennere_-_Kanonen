@@ -1,0 +1,10910 @@
+{
+  "castle_0_graben_keep": {
+    "bounds": [
+      54,
+      231,
+      256,
+      659
+    ],
+    "file": "castle_0_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 235.77773333333337
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_0_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_0_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_0_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_0_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_0_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_graben_tor_x_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_0_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_0_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_graben_turm_x_s": {
+    "bounds": [
+      40,
+      101,
+      132,
+      285
+    ],
+    "file": "castle_0_graben_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_hafen_keep": {
+    "bounds": [
+      46,
+      237,
+      259,
+      662
+    ],
+    "file": "castle_0_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 242.0609333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_0_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_0_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_0_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_0_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_0_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_0_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_0_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_hafen_turm_x_s": {
+    "bounds": [
+      40,
+      101,
+      132,
+      285
+    ],
+    "file": "castle_0_hafen_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_land_keep": {
+    "bounds": [
+      49,
+      240,
+      259,
+      662
+    ],
+    "file": "castle_0_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 244.70273333333333
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_0_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_0_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_0_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_0_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_0_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_0_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_0_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_land_turm_x_s": {
+    "bounds": [
+      40,
+      101,
+      132,
+      285
+    ],
+    "file": "castle_0_land_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_graben_keep": {
+    "bounds": [
+      35,
+      198,
+      277,
+      646
+    ],
+    "file": "castle_10_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 272.04893333333337
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_10_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_10_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_10_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_10_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_10_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_10_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_10_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_graben_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_10_graben_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_hafen_keep": {
+    "bounds": [
+      35,
+      168,
+      277,
+      643
+    ],
+    "file": "castle_10_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 241.5611333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_10_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_10_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_10_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_10_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_10_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_10_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_10_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_hafen_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_10_hafen_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_land_keep": {
+    "bounds": [
+      44,
+      197,
+      268,
+      655
+    ],
+    "file": "castle_10_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 266.47973333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_10_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_10_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_10_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_10_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_10_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_10_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_10_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_land_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_10_land_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_graben_keep": {
+    "bounds": [
+      38,
+      82,
+      280,
+      646
+    ],
+    "file": "castle_11_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          128,
+          38,
+          32
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 87.26573333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_11_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_11_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_11_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_11_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_11_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_11_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_11_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_graben_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_11_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          128,
+          38,
+          32
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_hafen_keep": {
+    "bounds": [
+      39,
+      94,
+      266,
+      649
+    ],
+    "file": "castle_11_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 98.5469333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_11_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_11_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_11_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_11_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_11_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_hafen_tor_x_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_11_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_11_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_hafen_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_11_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_land_keep": {
+    "bounds": [
+      42,
+      87,
+      259,
+      646
+    ],
+    "file": "castle_11_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 91.90673333333328
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_11_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_11_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_11_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_11_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_11_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_11_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_11_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_land_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_11_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_graben_keep": {
+    "bounds": [
+      48,
+      111,
+      259,
+      658
+    ],
+    "file": "castle_12_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 116.11561733333332
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_12_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_12_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_12_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_12_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_12_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_graben_tor_x_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_12_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_12_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_graben_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_12_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_hafen_keep": {
+    "bounds": [
+      54,
+      121,
+      253,
+      657
+    ],
+    "file": "castle_12_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 125.59182533333345
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_12_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_12_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_12_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_12_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_12_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_12_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_hafen_tor_y_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_12_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_hafen_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_12_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_land_keep": {
+    "bounds": [
+      51,
+      118,
+      259,
+      656
+    ],
+    "file": "castle_12_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 122.3845373333333
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_12_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_12_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_12_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_12_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_12_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_land_tor_x_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_12_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_12_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_land_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_12_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_graben_keep": {
+    "bounds": [
+      39,
+      276,
+      258,
+      648
+    ],
+    "file": "castle_13_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 281.1881333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_13_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_13_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_13_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_13_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_13_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_13_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_13_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_graben_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_13_graben_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_hafen_keep": {
+    "bounds": [
+      32,
+      230,
+      258,
+      652
+    ],
+    "file": "castle_13_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 234.92093333333335
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_13_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_13_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_13_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_13_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_13_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_13_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_13_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_hafen_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_13_hafen_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_land_keep": {
+    "bounds": [
+      43,
+      251,
+      259,
+      650
+    ],
+    "file": "castle_13_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 255.91253333333339
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_13_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_13_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_13_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_13_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_13_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_13_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_land_tor_y_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_13_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_land_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_13_land_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_graben_keep": {
+    "bounds": [
+      51,
+      263,
+      258,
+      660
+    ],
+    "file": "castle_14_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 267.4079333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_14_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_14_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_14_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_14_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_14_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_14_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_14_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_graben_turm_x_s": {
+    "bounds": [
+      40,
+      101,
+      132,
+      285
+    ],
+    "file": "castle_14_graben_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_hafen_keep": {
+    "bounds": [
+      51,
+      226,
+      253,
+      657
+    ],
+    "file": "castle_14_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          128,
+          38,
+          32
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 230.4941333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_14_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_14_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_14_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_14_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_14_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_hafen_tor_x_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_14_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_14_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_hafen_turm_x_s": {
+    "bounds": [
+      40,
+      101,
+      132,
+      285
+    ],
+    "file": "castle_14_hafen_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_land_keep": {
+    "bounds": [
+      54,
+      227,
+      258,
+      662
+    ],
+    "file": "castle_14_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          128,
+          38,
+          32
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 232.06493333333336
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_14_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_14_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_14_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_14_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_14_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_14_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_14_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_land_turm_x_s": {
+    "bounds": [
+      40,
+      101,
+      132,
+      285
+    ],
+    "file": "castle_14_land_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_graben_keep": {
+    "bounds": [
+      44,
+      232,
+      275,
+      649
+    ],
+    "file": "castle_15_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          128,
+          38,
+          32
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 242.84633333333338
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_15_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_15_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_15_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_15_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_15_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_15_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_graben_tor_y_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_15_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_graben_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_15_graben_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_hafen_keep": {
+    "bounds": [
+      38,
+      272,
+      260,
+      646
+    ],
+    "file": "castle_15_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 277.33253333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_15_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_15_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_15_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_15_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_15_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_15_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_15_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_hafen_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_15_hafen_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_land_keep": {
+    "bounds": [
+      46,
+      240,
+      260,
+      650
+    ],
+    "file": "castle_15_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 246.13073333333338
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_15_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_15_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_15_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_15_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_15_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_15_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_15_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_land_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_15_land_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_graben_keep": {
+    "bounds": [
+      51,
+      96,
+      258,
+      662
+    ],
+    "file": "castle_16_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 101.18873333333327
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_16_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_16_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_16_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_16_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_16_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_16_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_16_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_graben_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_16_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_hafen_keep": {
+    "bounds": [
+      54,
+      107,
+      253,
+      660
+    ],
+    "file": "castle_16_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 112.25573333333328
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_16_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_16_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_16_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_16_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_16_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_16_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_16_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_hafen_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_16_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_land_keep": {
+    "bounds": [
+      54,
+      104,
+      253,
+      663
+    ],
+    "file": "castle_16_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 109.32833333333332
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_16_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_16_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_16_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_16_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_16_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_16_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_16_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_land_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_16_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_graben_keep": {
+    "bounds": [
+      41,
+      146,
+      271,
+      642
+    ],
+    "file": "castle_17_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          128,
+          38,
+          32
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 150.76746533333338
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_17_graben_mauer_x_n": {
+    "bounds": [
+      24,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_17_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_graben_mauer_x_s": {
+    "bounds": [
+      24,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_17_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_17_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_17_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_17_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_17_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_graben_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_17_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          128,
+          38,
+          32
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_hafen_keep": {
+    "bounds": [
+      29,
+      166,
+      283,
+      654
+    ],
+    "file": "castle_17_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 171.18929333333338
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_17_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_17_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_17_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_17_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_17_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_17_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_hafen_tor_y_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_17_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_hafen_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_17_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_land_keep": {
+    "bounds": [
+      40,
+      153,
+      272,
+      656
+    ],
+    "file": "castle_17_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 157.57474133333338
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_17_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_17_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_17_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_17_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_17_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_17_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_17_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_land_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_17_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_graben_keep": {
+    "bounds": [
+      16,
+      162,
+      296,
+      650
+    ],
+    "file": "castle_18_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 166.5283013333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_18_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_18_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_18_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_18_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_18_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_18_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_18_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_graben_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_18_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_hafen_keep": {
+    "bounds": [
+      30,
+      109,
+      282,
+      649
+    ],
+    "file": "castle_18_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 113.47810133333331
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_18_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_18_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_18_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_18_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_18_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_18_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_hafen_tor_y_s": {
+    "bounds": [
+      21,
+      87,
+      151,
+      275
+    ],
+    "file": "castle_18_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_hafen_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_18_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_land_keep": {
+    "bounds": [
+      27,
+      150,
+      285,
+      649
+    ],
+    "file": "castle_18_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 154.8786773333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_18_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_18_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_18_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_18_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_18_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_18_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_18_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_land_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_18_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_graben_keep": {
+    "bounds": [
+      51,
+      105,
+      263,
+      660
+    ],
+    "file": "castle_19_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 110.04233333333335
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_19_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_19_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_19_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_19_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_19_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_19_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_19_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_graben_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_19_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_hafen_keep": {
+    "bounds": [
+      54,
+      117,
+      258,
+      656
+    ],
+    "file": "castle_19_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 121.89473333333333
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_19_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_19_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_19_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_19_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_19_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_19_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_19_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_hafen_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_19_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_land_keep": {
+    "bounds": [
+      54,
+      94,
+      258,
+      657
+    ],
+    "file": "castle_19_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 99.26093333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_19_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_19_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_19_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_19_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_19_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_19_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_19_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_land_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_19_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_graben_keep": {
+    "bounds": [
+      17,
+      89,
+      295,
+      650
+    ],
+    "file": "castle_1_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 94.2629333333333
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_1_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_1_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_1_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_1_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_1_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_1_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_1_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_graben_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_1_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_hafen_keep": {
+    "bounds": [
+      23,
+      147,
+      289,
+      652
+    ],
+    "file": "castle_1_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 152.31970133333337
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_1_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_1_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_1_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_1_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_1_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_hafen_tor_x_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_1_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_hafen_tor_y_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_1_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_hafen_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_1_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_land_keep": {
+    "bounds": [
+      19,
+      148,
+      293,
+      650
+    ],
+    "file": "castle_1_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 153.07225733333337
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_1_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_1_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_1_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_1_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_1_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_1_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_1_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_land_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_1_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_graben_keep": {
+    "bounds": [
+      34,
+      72,
+      258,
+      646
+    ],
+    "file": "castle_20_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 77.12693333333333
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_20_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_20_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_20_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_20_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_20_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_20_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_20_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_graben_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_20_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_hafen_keep": {
+    "bounds": [
+      45,
+      103,
+      253,
+      646
+    ],
+    "file": "castle_20_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 108.11453333333333
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_20_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_20_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_20_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_20_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_20_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_20_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_20_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_hafen_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_20_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_land_keep": {
+    "bounds": [
+      47,
+      85,
+      259,
+      651
+    ],
+    "file": "castle_20_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 89.7647333333333
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_20_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_20_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_20_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_20_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_20_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_20_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_20_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_land_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_20_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_graben_keep": {
+    "bounds": [
+      51,
+      172,
+      260,
+      658
+    ],
+    "file": "castle_21_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 176.77277333333333
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_21_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_21_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_21_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_21_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_21_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_21_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_21_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_graben_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_21_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_hafen_keep": {
+    "bounds": [
+      54,
+      129,
+      263,
+      662
+    ],
+    "file": "castle_21_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 133.49009333333336
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_21_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_21_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_21_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_21_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_21_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_21_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_21_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_hafen_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_21_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_land_keep": {
+    "bounds": [
+      51,
+      163,
+      260,
+      664
+    ],
+    "file": "castle_21_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 168.03341333333336
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_21_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_21_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_21_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_21_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_21_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_21_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_21_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_land_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_21_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_graben_keep": {
+    "bounds": [
+      49,
+      169,
+      259,
+      652
+    ],
+    "file": "castle_22_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 233.99273333333338
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_22_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_22_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_22_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_graben_mauer_y_o": {
+    "bounds": [
+      24,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_22_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_graben_mauer_y_w": {
+    "bounds": [
+      24,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_22_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_graben_tor_x_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_22_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_22_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_graben_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_22_graben_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_hafen_keep": {
+    "bounds": [
+      27,
+      188,
+      285,
+      648
+    ],
+    "file": "castle_22_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 265.8371333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_22_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_22_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_22_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_22_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_22_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_22_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_22_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_hafen_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_22_hafen_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_land_keep": {
+    "bounds": [
+      33,
+      163,
+      279,
+      650
+    ],
+    "file": "castle_22_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 238.34813333333338
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_22_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_22_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_22_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_22_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_22_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_land_tor_x_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_22_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_22_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_land_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_22_land_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_graben_keep": {
+    "bounds": [
+      51,
+      167,
+      258,
+      662
+    ],
+    "file": "castle_23_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 172.26029333333338
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_23_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_23_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_23_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_23_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_23_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_23_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_23_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_graben_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_23_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_hafen_keep": {
+    "bounds": [
+      54,
+      171,
+      258,
+      660
+    ],
+    "file": "castle_23_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 176.3015333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_23_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_23_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_23_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_23_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_23_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      151,
+      275
+    ],
+    "file": "castle_23_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      151,
+      275
+    ],
+    "file": "castle_23_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_hafen_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_23_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_land_keep": {
+    "bounds": [
+      54,
+      170,
+      253,
+      665
+    ],
+    "file": "castle_23_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 175.28765333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_23_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_23_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_23_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_23_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_23_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_23_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_land_tor_y_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_23_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_land_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_23_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_graben_keep": {
+    "bounds": [
+      54,
+      258,
+      256,
+      656
+    ],
+    "file": "castle_24_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 262.7669333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_24_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_24_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_24_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_24_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_24_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_24_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_24_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_graben_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_24_graben_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_hafen_keep": {
+    "bounds": [
+      51,
+      234,
+      259,
+      647
+    ],
+    "file": "castle_24_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 239.27633333333344
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_24_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_24_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_24_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_24_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_24_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_24_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_24_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_hafen_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_24_hafen_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_land_keep": {
+    "bounds": [
+      51,
+      265,
+      258,
+      640
+    ],
+    "file": "castle_24_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 269.8355333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_24_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_24_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_24_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_24_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_24_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_24_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_24_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_land_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_24_land_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_graben_keep": {
+    "bounds": [
+      30,
+      170,
+      282,
+      650
+    ],
+    "file": "castle_25_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 174.74215733333332
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_25_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_25_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_25_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_25_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_25_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_25_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_25_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_graben_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_25_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_hafen_keep": {
+    "bounds": [
+      27,
+      197,
+      285,
+      651
+    ],
+    "file": "castle_25_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          128,
+          38,
+          32
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 201.69137333333336
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_25_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_25_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_25_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_25_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_25_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_25_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_25_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_hafen_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_25_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          128,
+          38,
+          32
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_land_keep": {
+    "bounds": [
+      37,
+      185,
+      275,
+      649
+    ],
+    "file": "castle_25_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 190.1145773333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_25_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_25_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_25_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_25_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_25_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_25_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_25_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_land_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_25_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_graben_keep": {
+    "bounds": [
+      51,
+      155,
+      259,
+      665
+    ],
+    "file": "castle_2_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 159.65105333333338
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_2_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_2_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_2_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      148,
+      213
+    ],
+    "file": "castle_2_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      148,
+      213
+    ],
+    "file": "castle_2_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_2_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_2_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_graben_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_2_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_hafen_keep": {
+    "bounds": [
+      51,
+      138,
+      259,
+      662
+    ],
+    "file": "castle_2_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 142.75781333333336
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_2_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_2_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_2_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_2_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_2_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_2_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_2_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_hafen_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_2_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_land_keep": {
+    "bounds": [
+      54,
+      172,
+      258,
+      663
+    ],
+    "file": "castle_2_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 176.87273333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_2_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_2_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_2_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_2_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_2_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_2_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_2_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_land_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_2_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_graben_keep": {
+    "bounds": [
+      51,
+      196,
+      261,
+      655
+    ],
+    "file": "castle_3_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 200.8931213333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_3_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_3_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_3_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_3_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_3_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_3_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_3_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_graben_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_3_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_hafen_keep": {
+    "bounds": [
+      44,
+      178,
+      268,
+      656
+    ],
+    "file": "castle_3_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 182.89460933333336
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_3_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_3_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_3_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_3_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_3_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_3_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_3_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_hafen_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_3_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_land_keep": {
+    "bounds": [
+      51,
+      181,
+      261,
+      645
+    ],
+    "file": "castle_3_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 186.22184933333344
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_3_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_3_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_3_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_3_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_3_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_3_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_land_tor_y_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_3_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_land_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_3_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_graben_keep": {
+    "bounds": [
+      31,
+      163,
+      281,
+      648
+    ],
+    "file": "castle_4_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 238.2767333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_4_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_4_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_4_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      148,
+      213
+    ],
+    "file": "castle_4_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      148,
+      213
+    ],
+    "file": "castle_4_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_4_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_4_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_graben_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_4_graben_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_hafen_keep": {
+    "bounds": [
+      34,
+      154,
+      278,
+      650
+    ],
+    "file": "castle_4_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 228.49493333333342
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_4_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_4_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_4_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_4_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_4_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_4_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_4_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_hafen_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_4_hafen_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_land_keep": {
+    "bounds": [
+      19,
+      160,
+      293,
+      646
+    ],
+    "file": "castle_4_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          128,
+          38,
+          32
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 241.20413333333343
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_4_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_4_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_4_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_4_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_4_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_4_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_4_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_land_turm_x_s": {
+    "bounds": [
+      26,
+      96,
+      146,
+      293
+    ],
+    "file": "castle_4_land_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_graben_keep": {
+    "bounds": [
+      51,
+      156,
+      259,
+      659
+    ],
+    "file": "castle_5_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 160.70777333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_5_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_5_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_5_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_5_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_5_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_5_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_graben_tor_y_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_5_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_graben_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_5_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_hafen_keep": {
+    "bounds": [
+      48,
+      156,
+      254,
+      658
+    ],
+    "file": "castle_5_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 160.3650533333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_5_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_5_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_5_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_5_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_5_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_5_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_5_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_hafen_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_5_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          166,
+          120,
+          40
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_land_keep": {
+    "bounds": [
+      51,
+      130,
+      258,
+      657
+    ],
+    "file": "castle_5_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          128,
+          38,
+          32
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 134.8609733333333
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_5_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_5_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_5_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_5_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_5_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_5_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_5_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_land_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_5_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          128,
+          38,
+          32
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_graben_keep": {
+    "bounds": [
+      42,
+      122,
+      253,
+      650
+    ],
+    "file": "castle_6_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 126.82133333333326
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_6_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_6_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_6_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_6_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_6_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_6_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_6_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_graben_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_6_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_hafen_keep": {
+    "bounds": [
+      49,
+      145,
+      253,
+      652
+    ],
+    "file": "castle_6_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 149.38373333333337
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_6_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_6_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_6_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_6_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_6_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_6_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_6_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_hafen_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_6_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_land_keep": {
+    "bounds": [
+      39,
+      107,
+      259,
+      653
+    ],
+    "file": "castle_6_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 111.39893333333333
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_6_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_6_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_6_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_6_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_6_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_6_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_6_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_land_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_6_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_graben_keep": {
+    "bounds": [
+      54,
+      83,
+      258,
+      662
+    ],
+    "file": "castle_7_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 87.83693333333336
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_7_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_7_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_7_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_7_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_7_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_7_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_7_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_graben_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_7_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          40,
+          62,
+          98
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_hafen_keep": {
+    "bounds": [
+      51,
+      89,
+      263,
+      661
+    ],
+    "file": "castle_7_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 93.62033333333332
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_7_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_7_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_7_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_7_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_7_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_7_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_7_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_hafen_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_7_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_land_keep": {
+    "bounds": [
+      51,
+      84,
+      259,
+      661
+    ],
+    "file": "castle_7_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 88.76513333333335
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_7_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_7_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_7_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_7_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_7_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_7_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_7_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_land_turm_x_s": {
+    "bounds": [
+      39,
+      23,
+      133,
+      285
+    ],
+    "file": "castle_7_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 28.733333333333302
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_graben_keep": {
+    "bounds": [
+      37,
+      167,
+      275,
+      650
+    ],
+    "file": "castle_8_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 171.52630133333335
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_8_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_8_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_8_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_8_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_8_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      151,
+      275
+    ],
+    "file": "castle_8_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_graben_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_8_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_graben_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_8_graben_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_hafen_keep": {
+    "bounds": [
+      44,
+      202,
+      268,
+      650
+    ],
+    "file": "castle_8_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 206.89357733333338
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_8_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_8_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_8_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_hafen_mauer_y_o": {
+    "bounds": [
+      24,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_8_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_hafen_mauer_y_w": {
+    "bounds": [
+      24,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_8_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_8_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_8_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_hafen_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_8_hafen_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_land_keep": {
+    "bounds": [
+      37,
+      186,
+      275,
+      649
+    ],
+    "file": "castle_8_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 190.66150133333338
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_8_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_8_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_8_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_8_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_8_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_8_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_8_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_land_turm_x_s": {
+    "bounds": [
+      26,
+      33,
+      146,
+      293
+    ],
+    "file": "castle_8_land_turm_x_s.png",
+    "flags": [
+      {
+        "color": [
+          98,
+          46,
+          66
+        ],
+        "height": 14.08,
+        "width": 35.2,
+        "x": 86.33333333333333,
+        "y": 38.813333333333304
+      }
+    ],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_graben_keep": {
+    "bounds": [
+      54,
+      231,
+      258,
+      663
+    ],
+    "file": "castle_9_graben_keep.png",
+    "flags": [
+      {
+        "color": [
+          70,
+          70,
+          74
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 235.70633333333342
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_9_graben_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_9_graben_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_graben_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_9_graben_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_graben_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_9_graben_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_graben_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_9_graben_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_graben_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_9_graben_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_graben_tor_y_s": {
+    "bounds": [
+      21,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_9_graben_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_graben_turm_x_s": {
+    "bounds": [
+      40,
+      101,
+      132,
+      285
+    ],
+    "file": "castle_9_graben_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_hafen_keep": {
+    "bounds": [
+      51,
+      232,
+      258,
+      661
+    ],
+    "file": "castle_9_hafen_keep.png",
+    "flags": [
+      {
+        "color": [
+          128,
+          38,
+          32
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 236.56313333333335
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_9_hafen_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_9_hafen_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_hafen_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_9_hafen_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_hafen_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_9_hafen_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_hafen_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_9_hafen_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_hafen_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_9_hafen_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_hafen_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_9_hafen_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_hafen_turm_x_s": {
+    "bounds": [
+      40,
+      101,
+      132,
+      285
+    ],
+    "file": "castle_9_hafen_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_land_keep": {
+    "bounds": [
+      51,
+      258,
+      258,
+      665
+    ],
+    "file": "castle_9_land_keep.png",
+    "flags": [
+      {
+        "color": [
+          52,
+          84,
+          44
+        ],
+        "height": 14.96,
+        "width": 37.400000000000006,
+        "x": 156.33333333333334,
+        "y": 262.7669333333334
+      }
+    ],
+    "height": 676,
+    "origin_x": 156.3,
+    "origin_y": 520.1,
+    "unit": 68,
+    "width": 312
+  },
+  "castle_9_land_mauer_x_n": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_9_land_mauer_x_n.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_land_mauer_x_s": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_9_land_mauer_x_s.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_land_mauer_y_o": {
+    "bounds": [
+      25,
+      73,
+      147,
+      213
+    ],
+    "file": "castle_9_land_mauer_y_o.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_land_mauer_y_w": {
+    "bounds": [
+      25,
+      64,
+      147,
+      213
+    ],
+    "file": "castle_9_land_mauer_y_w.png",
+    "flags": [],
+    "height": 236,
+    "origin_x": 86,
+    "origin_y": 150,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_land_tor_x_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_9_land_tor_x_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_land_tor_y_s": {
+    "bounds": [
+      22,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_9_land_tor_y_s.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_land_turm_x_s": {
+    "bounds": [
+      40,
+      101,
+      132,
+      285
+    ],
+    "file": "castle_9_land_turm_x_s.png",
+    "flags": [],
+    "height": 316,
+    "origin_x": 86,
+    "origin_y": 231,
+    "unit": 64,
+    "width": 172
+  }
+}

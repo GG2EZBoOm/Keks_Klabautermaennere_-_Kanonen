@@ -1,0 +1,2189 @@
+{
+  "holzfaeller": {
+    "basis": "produktion_holzfaeller_basis.png",
+    "datei": "produktion_holzfaeller_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 144,
+        "y": 160,
+        "w": 48,
+        "h": 64,
+        "ay": 0
+      },
+      {
+        "x": 240,
+        "y": 224,
+        "w": 48,
+        "h": 80,
+        "ay": 396
+      }
+    ]
+  },
+  "bergwerk": {
+    "basis": "produktion_bergwerk_basis.png",
+    "datei": "produktion_bergwerk_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 256,
+        "w": 32,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 144,
+        "y": 80,
+        "w": 48,
+        "h": 48,
+        "ay": 300
+      },
+      {
+        "x": 160,
+        "y": 288,
+        "w": 32,
+        "h": 48,
+        "ay": 600
+      }
+    ]
+  },
+  "farm": {
+    "basis": "produktion_farm_basis.png",
+    "datei": "produktion_farm_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 80,
+        "y": 288,
+        "w": 128,
+        "h": 80,
+        "ay": 0
+      }
+    ]
+  },
+  "jaeger": {
+    "basis": "produktion_jaeger_basis.png",
+    "datei": "produktion_jaeger_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 208,
+        "y": 128,
+        "w": 32,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 256,
+        "y": 256,
+        "w": 32,
+        "h": 48,
+        "ay": 300
+      }
+    ]
+  },
+  "schaffarm": {
+    "basis": "produktion_schaffarm_basis.png",
+    "datei": "produktion_schaffarm_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 48,
+        "y": 256,
+        "w": 160,
+        "h": 96,
+        "ay": 0
+      }
+    ]
+  },
+  "rinderfarm": {
+    "basis": "produktion_rinderfarm_basis.png",
+    "datei": "produktion_rinderfarm_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 48,
+        "y": 256,
+        "w": 128,
+        "h": 96,
+        "ay": 0
+      }
+    ]
+  },
+  "hanffarm": {
+    "basis": "produktion_hanffarm_basis.png",
+    "datei": "produktion_hanffarm_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 128,
+        "y": 288,
+        "w": 96,
+        "h": 80,
+        "ay": 0
+      },
+      {
+        "x": 144,
+        "y": 96,
+        "w": 48,
+        "h": 48,
+        "ay": 492
+      }
+    ]
+  },
+  "brauerei": {
+    "basis": "produktion_brauerei_basis.png",
+    "datei": "produktion_brauerei_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 144,
+        "y": 80,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      }
+    ]
+  },
+  "ziegelei": {
+    "basis": "produktion_ziegelei_basis.png",
+    "datei": "produktion_ziegelei_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 256,
+        "w": 48,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 144,
+        "y": 80,
+        "w": 48,
+        "h": 64,
+        "ay": 204
+      }
+    ]
+  },
+  "schmiede": {
+    "basis": "produktion_schmiede_basis.png",
+    "datei": "produktion_schmiede_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 160,
+        "y": 80,
+        "w": 32,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 160,
+        "y": 272,
+        "w": 48,
+        "h": 48,
+        "ay": 300
+      }
+    ]
+  },
+  "toepferei": {
+    "basis": "produktion_toepferei_basis.png",
+    "datei": "produktion_toepferei_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 176,
+        "y": 288,
+        "w": 32,
+        "h": 48,
+        "ay": 0
+      }
+    ]
+  },
+  "weberei": {
+    "basis": "produktion_weberei_basis.png",
+    "datei": "produktion_weberei_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 144,
+        "y": 64,
+        "w": 48,
+        "h": 64,
+        "ay": 0
+      }
+    ]
+  },
+  "salzmine": {
+    "basis": "produktion_salzmine_basis.png",
+    "datei": "produktion_salzmine_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 208,
+        "y": 160,
+        "w": 48,
+        "h": 144,
+        "ay": 0
+      }
+    ]
+  },
+  "pechhuette": {
+    "basis": "produktion_pechhuette_basis.png",
+    "datei": "produktion_pechhuette_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 192,
+        "y": 208,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      }
+    ]
+  },
+  "imkerei": {
+    "basis": "produktion_imkerei_basis.png",
+    "datei": "produktion_imkerei_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 64,
+        "y": 240,
+        "w": 112,
+        "h": 80,
+        "ay": 0
+      }
+    ]
+  },
+  "fischer": {
+    "basis": "produktion_fischer_basis.png",
+    "datei": "produktion_fischer_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 128,
+        "y": 256,
+        "w": 64,
+        "h": 64,
+        "ay": 0
+      }
+    ]
+  },
+  "rathaus": {
+    "basis": "stadt_rathaus_basis.png",
+    "datei": "stadt_rathaus_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 208,
+        "y": 80,
+        "w": 64,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 288,
+        "y": 400,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      }
+    ]
+  },
+  "kirche": {
+    "basis": "stadt_kirche_basis.png",
+    "datei": "stadt_kirche_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 48,
+        "y": 384,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 160,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 204
+      },
+      {
+        "x": 320,
+        "y": 256,
+        "w": 48,
+        "h": 32,
+        "ay": 408
+      }
+    ]
+  },
+  "markthalle": {
+    "basis": "stadt_markthalle_basis.png",
+    "datei": "stadt_markthalle_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 48,
+        "y": 336,
+        "w": 96,
+        "h": 64,
+        "ay": 0
+      },
+      {
+        "x": 176,
+        "y": 400,
+        "w": 48,
+        "h": 32,
+        "ay": 396
+      },
+      {
+        "x": 240,
+        "y": 400,
+        "w": 64,
+        "h": 32,
+        "ay": 600
+      },
+      {
+        "x": 320,
+        "y": 336,
+        "w": 96,
+        "h": 64,
+        "ay": 804
+      }
+    ]
+  },
+  "mint": {
+    "basis": "stadt_mint_basis.png",
+    "datei": "stadt_mint_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 48,
+        "y": 240,
+        "w": 48,
+        "h": 64,
+        "ay": 0
+      },
+      {
+        "x": 128,
+        "y": 320,
+        "w": 32,
+        "h": 32,
+        "ay": 396
+      },
+      {
+        "x": 208,
+        "y": 80,
+        "w": 48,
+        "h": 64,
+        "ay": 600
+      }
+    ]
+  },
+  "gilde": {
+    "basis": "stadt_gilde_basis.png",
+    "datei": "stadt_gilde_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 128,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 128,
+        "y": 320,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      }
+    ]
+  },
+  "kneipe": {
+    "basis": "stadt_kneipe_basis.png",
+    "datei": "stadt_kneipe_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 208,
+        "y": 272,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 272,
+        "y": 352,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      },
+      {
+        "x": 320,
+        "y": 144,
+        "w": 48,
+        "h": 48,
+        "ay": 504
+      }
+    ]
+  },
+  "werft": {
+    "basis": "stadt_werft_basis.png",
+    "datei": "stadt_werft_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 336,
+        "y": 304,
+        "w": 64,
+        "h": 80,
+        "ay": 0
+      },
+      {
+        "x": 464,
+        "y": 320,
+        "w": 48,
+        "h": 64,
+        "ay": 492
+      }
+    ]
+  },
+  "waffenschmiede": {
+    "basis": "stadt_waffenschmiede_basis.png",
+    "datei": "stadt_waffenschmiede_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 64,
+        "y": 336,
+        "w": 32,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 112,
+        "y": 336,
+        "w": 64,
+        "h": 64,
+        "ay": 300
+      },
+      {
+        "x": 144,
+        "y": 80,
+        "w": 80,
+        "h": 80,
+        "ay": 696
+      }
+    ]
+  },
+  "arsenal": {
+    "basis": "stadt_arsenal_basis.png",
+    "datei": "stadt_arsenal_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 224,
+        "y": 96,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      }
+    ]
+  },
+  "rathaus_stadt_1": {
+    "basis": "rathaus_stadt_1_basis.png",
+    "datei": "rathaus_stadt_1_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 192,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 336,
+        "y": 208,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_2": {
+    "basis": "rathaus_stadt_2_basis.png",
+    "datei": "rathaus_stadt_2_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 240,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 224,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      }
+    ]
+  },
+  "rathaus_stadt_3": {
+    "basis": "rathaus_stadt_3_basis.png",
+    "datei": "rathaus_stadt_3_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 80,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 176,
+        "y": 272,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_4": {
+    "basis": "rathaus_stadt_4_basis.png",
+    "datei": "rathaus_stadt_4_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 224,
+        "y": 224,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 288,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      }
+    ]
+  },
+  "rathaus_stadt_5": {
+    "basis": "rathaus_stadt_5_basis.png",
+    "datei": "rathaus_stadt_5_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 160,
+        "y": 256,
+        "w": 48,
+        "h": 32,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_6": {
+    "basis": "rathaus_stadt_6_basis.png",
+    "datei": "rathaus_stadt_6_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 160,
+        "y": 208,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      },
+      {
+        "x": 208,
+        "y": 464,
+        "w": 32,
+        "h": 32,
+        "ay": 504
+      }
+    ]
+  },
+  "rathaus_stadt_7": {
+    "basis": "rathaus_stadt_7_basis.png",
+    "datei": "rathaus_stadt_7_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 160,
+        "y": 272,
+        "w": 48,
+        "h": 32,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_8": {
+    "basis": "rathaus_stadt_8_basis.png",
+    "datei": "rathaus_stadt_8_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 192,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 320,
+        "y": 192,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_9": {
+    "basis": "rathaus_stadt_9_basis.png",
+    "datei": "rathaus_stadt_9_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 240,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 224,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      }
+    ]
+  },
+  "rathaus_stadt_10": {
+    "basis": "rathaus_stadt_10_basis.png",
+    "datei": "rathaus_stadt_10_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 80,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 176,
+        "y": 272,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_11": {
+    "basis": "rathaus_stadt_11_basis.png",
+    "datei": "rathaus_stadt_11_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 224,
+        "y": 208,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 288,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      }
+    ]
+  },
+  "rathaus_stadt_12": {
+    "basis": "rathaus_stadt_12_basis.png",
+    "datei": "rathaus_stadt_12_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 160,
+        "y": 240,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_13": {
+    "basis": "rathaus_stadt_13_basis.png",
+    "datei": "rathaus_stadt_13_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 160,
+        "y": 224,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      },
+      {
+        "x": 208,
+        "y": 464,
+        "w": 32,
+        "h": 32,
+        "ay": 504
+      }
+    ]
+  },
+  "rathaus_stadt_14": {
+    "basis": "rathaus_stadt_14_basis.png",
+    "datei": "rathaus_stadt_14_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 160,
+        "y": 256,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_15": {
+    "basis": "rathaus_stadt_15_basis.png",
+    "datei": "rathaus_stadt_15_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 192,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 320,
+        "y": 208,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_16": {
+    "basis": "rathaus_stadt_16_basis.png",
+    "datei": "rathaus_stadt_16_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 240,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 224,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      }
+    ]
+  },
+  "rathaus_stadt_17": {
+    "basis": "rathaus_stadt_17_basis.png",
+    "datei": "rathaus_stadt_17_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 80,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 176,
+        "y": 256,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_18": {
+    "basis": "rathaus_stadt_18_basis.png",
+    "datei": "rathaus_stadt_18_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 224,
+        "y": 208,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 288,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      }
+    ]
+  },
+  "rathaus_stadt_19": {
+    "basis": "rathaus_stadt_19_basis.png",
+    "datei": "rathaus_stadt_19_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 160,
+        "y": 240,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_20": {
+    "basis": "rathaus_stadt_20_basis.png",
+    "datei": "rathaus_stadt_20_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 160,
+        "y": 192,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      },
+      {
+        "x": 208,
+        "y": 464,
+        "w": 32,
+        "h": 32,
+        "ay": 504
+      }
+    ]
+  },
+  "rathaus_stadt_21": {
+    "basis": "rathaus_stadt_21_basis.png",
+    "datei": "rathaus_stadt_21_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 160,
+        "y": 256,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_22": {
+    "basis": "rathaus_stadt_22_basis.png",
+    "datei": "rathaus_stadt_22_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 192,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 336,
+        "y": 192,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_23": {
+    "basis": "rathaus_stadt_23_basis.png",
+    "datei": "rathaus_stadt_23_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 240,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 224,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      }
+    ]
+  },
+  "rathaus_stadt_24": {
+    "basis": "rathaus_stadt_24_basis.png",
+    "datei": "rathaus_stadt_24_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 80,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 176,
+        "y": 256,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_25": {
+    "basis": "rathaus_stadt_25_basis.png",
+    "datei": "rathaus_stadt_25_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 224,
+        "y": 208,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 288,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      }
+    ]
+  },
+  "rathaus_stadt_26": {
+    "basis": "rathaus_stadt_26_basis.png",
+    "datei": "rathaus_stadt_26_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 160,
+        "y": 240,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_27": {
+    "basis": "rathaus_stadt_27_basis.png",
+    "datei": "rathaus_stadt_27_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 160,
+        "y": 224,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      },
+      {
+        "x": 208,
+        "y": 464,
+        "w": 32,
+        "h": 32,
+        "ay": 504
+      }
+    ]
+  },
+  "rathaus_stadt_28": {
+    "basis": "rathaus_stadt_28_basis.png",
+    "datei": "rathaus_stadt_28_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 160,
+        "y": 256,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_29": {
+    "basis": "rathaus_stadt_29_basis.png",
+    "datei": "rathaus_stadt_29_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 192,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 320,
+        "y": 208,
+        "w": 64,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "rathaus_stadt_30": {
+    "basis": "rathaus_stadt_30_basis.png",
+    "datei": "rathaus_stadt_30_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 240,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 224,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      }
+    ]
+  },
+  "rathaus_stadt_31": {
+    "basis": "rathaus_stadt_31_basis.png",
+    "datei": "rathaus_stadt_31_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 80,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 176,
+        "y": 272,
+        "w": 48,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "kirche_stadt_1": {
+    "basis": "kirche_stadt_1_basis.png",
+    "datei": "kirche_stadt_1_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 128,
+        "y": 304,
+        "w": 96,
+        "h": 64,
+        "ay": 0
+      },
+      {
+        "x": 128,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 396
+      }
+    ]
+  },
+  "kirche_stadt_2": {
+    "basis": "kirche_stadt_2_basis.png",
+    "datei": "kirche_stadt_2_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 64,
+        "y": 288,
+        "w": 96,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 96,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      },
+      {
+        "x": 176,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 504
+      },
+      {
+        "x": 192,
+        "y": 352,
+        "w": 96,
+        "h": 48,
+        "ay": 708
+      }
+    ]
+  },
+  "kirche_stadt_3": {
+    "basis": "kirche_stadt_3_basis.png",
+    "datei": "kirche_stadt_3_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 64,
+        "y": 432,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 192,
+        "y": 336,
+        "w": 96,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "kirche_stadt_4": {
+    "basis": "kirche_stadt_4_basis.png",
+    "datei": "kirche_stadt_4_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 208,
+        "y": 224,
+        "w": 80,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "kirche_stadt_5": {
+    "basis": "kirche_stadt_5_basis.png",
+    "datei": "kirche_stadt_5_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 432,
+        "w": 48,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 176,
+        "y": 224,
+        "w": 96,
+        "h": 48,
+        "ay": 204
+      },
+      {
+        "x": 224,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 504
+      }
+    ]
+  },
+  "kirche_stadt_6": {
+    "basis": "kirche_stadt_6_basis.png",
+    "datei": "kirche_stadt_6_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 176,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 204
+      },
+      {
+        "x": 240,
+        "y": 208,
+        "w": 80,
+        "h": 48,
+        "ay": 408
+      }
+    ]
+  },
+  "kirche_stadt_7": {
+    "basis": "kirche_stadt_7_basis.png",
+    "datei": "kirche_stadt_7_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 192,
+        "y": 240,
+        "w": 80,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "kirche_stadt_8": {
+    "basis": "kirche_stadt_8_basis.png",
+    "datei": "kirche_stadt_8_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 128,
+        "y": 336,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 128,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      },
+      {
+        "x": 192,
+        "y": 336,
+        "w": 48,
+        "h": 48,
+        "ay": 504
+      }
+    ]
+  },
+  "kirche_stadt_9": {
+    "basis": "kirche_stadt_9_basis.png",
+    "datei": "kirche_stadt_9_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 128,
+        "y": 304,
+        "w": 96,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 128,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      }
+    ]
+  },
+  "kirche_stadt_10": {
+    "basis": "kirche_stadt_10_basis.png",
+    "datei": "kirche_stadt_10_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 64,
+        "y": 288,
+        "w": 96,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 96,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      },
+      {
+        "x": 176,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 504
+      },
+      {
+        "x": 192,
+        "y": 352,
+        "w": 96,
+        "h": 48,
+        "ay": 708
+      }
+    ]
+  },
+  "kirche_stadt_11": {
+    "basis": "kirche_stadt_11_basis.png",
+    "datei": "kirche_stadt_11_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 64,
+        "y": 432,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 192,
+        "y": 320,
+        "w": 96,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "kirche_stadt_12": {
+    "basis": "kirche_stadt_12_basis.png",
+    "datei": "kirche_stadt_12_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 208,
+        "y": 224,
+        "w": 80,
+        "h": 32,
+        "ay": 204
+      }
+    ]
+  },
+  "kirche_stadt_13": {
+    "basis": "kirche_stadt_13_basis.png",
+    "datei": "kirche_stadt_13_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 432,
+        "w": 48,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 176,
+        "y": 208,
+        "w": 96,
+        "h": 48,
+        "ay": 204
+      },
+      {
+        "x": 224,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 504
+      }
+    ]
+  },
+  "kirche_stadt_14": {
+    "basis": "kirche_stadt_14_basis.png",
+    "datei": "kirche_stadt_14_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 176,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 204
+      },
+      {
+        "x": 240,
+        "y": 208,
+        "w": 80,
+        "h": 48,
+        "ay": 408
+      }
+    ]
+  },
+  "kirche_stadt_15": {
+    "basis": "kirche_stadt_15_basis.png",
+    "datei": "kirche_stadt_15_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 192,
+        "y": 240,
+        "w": 80,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "kirche_stadt_16": {
+    "basis": "kirche_stadt_16_basis.png",
+    "datei": "kirche_stadt_16_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 128,
+        "y": 336,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 128,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      },
+      {
+        "x": 192,
+        "y": 336,
+        "w": 48,
+        "h": 48,
+        "ay": 504
+      }
+    ]
+  },
+  "kirche_stadt_17": {
+    "basis": "kirche_stadt_17_basis.png",
+    "datei": "kirche_stadt_17_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 128,
+        "y": 304,
+        "w": 96,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 128,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      }
+    ]
+  },
+  "kirche_stadt_18": {
+    "basis": "kirche_stadt_18_basis.png",
+    "datei": "kirche_stadt_18_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 64,
+        "y": 272,
+        "w": 96,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 96,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      },
+      {
+        "x": 176,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 504
+      },
+      {
+        "x": 192,
+        "y": 336,
+        "w": 96,
+        "h": 48,
+        "ay": 708
+      }
+    ]
+  },
+  "kirche_stadt_19": {
+    "basis": "kirche_stadt_19_basis.png",
+    "datei": "kirche_stadt_19_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 64,
+        "y": 432,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 192,
+        "y": 320,
+        "w": 96,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "kirche_stadt_20": {
+    "basis": "kirche_stadt_20_basis.png",
+    "datei": "kirche_stadt_20_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 208,
+        "y": 208,
+        "w": 80,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "kirche_stadt_21": {
+    "basis": "kirche_stadt_21_basis.png",
+    "datei": "kirche_stadt_21_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 432,
+        "w": 48,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 176,
+        "y": 208,
+        "w": 96,
+        "h": 48,
+        "ay": 204
+      },
+      {
+        "x": 224,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 504
+      }
+    ]
+  },
+  "kirche_stadt_22": {
+    "basis": "kirche_stadt_22_basis.png",
+    "datei": "kirche_stadt_22_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 176,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 204
+      },
+      {
+        "x": 240,
+        "y": 208,
+        "w": 80,
+        "h": 48,
+        "ay": 408
+      }
+    ]
+  },
+  "kirche_stadt_23": {
+    "basis": "kirche_stadt_23_basis.png",
+    "datei": "kirche_stadt_23_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 192,
+        "y": 240,
+        "w": 80,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "kirche_stadt_24": {
+    "basis": "kirche_stadt_24_basis.png",
+    "datei": "kirche_stadt_24_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 128,
+        "y": 320,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 128,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      },
+      {
+        "x": 192,
+        "y": 336,
+        "w": 48,
+        "h": 48,
+        "ay": 504
+      }
+    ]
+  },
+  "kirche_stadt_25": {
+    "basis": "kirche_stadt_25_basis.png",
+    "datei": "kirche_stadt_25_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 128,
+        "y": 288,
+        "w": 96,
+        "h": 64,
+        "ay": 0
+      },
+      {
+        "x": 128,
+        "y": 416,
+        "w": 32,
+        "h": 32,
+        "ay": 396
+      }
+    ]
+  },
+  "kirche_stadt_26": {
+    "basis": "kirche_stadt_26_basis.png",
+    "datei": "kirche_stadt_26_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 64,
+        "y": 272,
+        "w": 96,
+        "h": 48,
+        "ay": 0
+      },
+      {
+        "x": 96,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 300
+      },
+      {
+        "x": 176,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 504
+      },
+      {
+        "x": 192,
+        "y": 336,
+        "w": 96,
+        "h": 48,
+        "ay": 708
+      }
+    ]
+  },
+  "kirche_stadt_27": {
+    "basis": "kirche_stadt_27_basis.png",
+    "datei": "kirche_stadt_27_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 64,
+        "y": 432,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 192,
+        "y": 320,
+        "w": 96,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "kirche_stadt_28": {
+    "basis": "kirche_stadt_28_basis.png",
+    "datei": "kirche_stadt_28_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 208,
+        "y": 208,
+        "w": 80,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "kirche_stadt_29": {
+    "basis": "kirche_stadt_29_basis.png",
+    "datei": "kirche_stadt_29_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 432,
+        "w": 48,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 176,
+        "y": 208,
+        "w": 96,
+        "h": 48,
+        "ay": 204
+      },
+      {
+        "x": 224,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 504
+      }
+    ]
+  },
+  "kirche_stadt_30": {
+    "basis": "kirche_stadt_30_basis.png",
+    "datei": "kirche_stadt_30_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 176,
+        "y": 480,
+        "w": 32,
+        "h": 32,
+        "ay": 204
+      },
+      {
+        "x": 240,
+        "y": 192,
+        "w": 80,
+        "h": 48,
+        "ay": 408
+      }
+    ]
+  },
+  "kirche_stadt_31": {
+    "basis": "kirche_stadt_31_basis.png",
+    "datei": "kirche_stadt_31_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 96,
+        "y": 448,
+        "w": 32,
+        "h": 32,
+        "ay": 0
+      },
+      {
+        "x": 192,
+        "y": 224,
+        "w": 80,
+        "h": 48,
+        "ay": 204
+      }
+    ]
+  },
+  "weingut": {
+    "basis": "produktion_weingut_basis.png",
+    "datei": "produktion_weingut_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 48,
+        "y": 240,
+        "w": 144,
+        "h": 96,
+        "ay": 0
+      }
+    ]
+  },
+  "burgmarkt": {
+    "basis": "stadt_markthalle_basis.png",
+    "datei": "stadt_markthalle_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 48,
+        "y": 336,
+        "w": 96,
+        "h": 64,
+        "ay": 0
+      },
+      {
+        "x": 176,
+        "y": 400,
+        "w": 48,
+        "h": 32,
+        "ay": 396
+      },
+      {
+        "x": 240,
+        "y": 400,
+        "w": 64,
+        "h": 32,
+        "ay": 600
+      },
+      {
+        "x": 320,
+        "y": 336,
+        "w": 96,
+        "h": 64,
+        "ay": 804
+      }
+    ]
+  }
+}

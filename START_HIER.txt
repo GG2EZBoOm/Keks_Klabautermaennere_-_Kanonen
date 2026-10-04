@@ -1,6 +1,10 @@
 Keks, Klabautermänner & Kanonen – Die Hanse
 PORTABLER WINDOWS-CLIENT
 
+Copyright (c) 2026 Kekish Games. Alle Rechte vorbehalten.
+Es gilt die proprietaere Lizenz in LICENSE.txt. Lizenzen fremder Bestandteile
+gelten weiterhin separat, unter anderem LICENSE-json.txt.
+
 SCHNELLSTART
 1. Rechtsklick auf die ZIP-Datei > Alle extrahieren. Nicht im ZIP starten.
 2. Den entpackten Ordner oeffnen und abbild_client.exe doppelt anklicken.
@@ -49,6 +53,11 @@ neben der EXE lassen). Karte ziehen oder Pfeile/WASD, Mausrad zoomt, Klick waehl
 ein eigenes Schiff, F zeigt es. B oeffnet das eigene Schiff als natives 3D-Modell
 (ziehen: drehen, F: Ansicht, Leertaste: Segel). Sinkvorschau ist rein lokal.
 TAB/Y/U/R/O/Z/V/K siehe Hinweise im Panel.
+Ausgewaehltes Schiff: Rechtsklick auf eine bekannte Stadt startet die Hafenfahrt;
+Rechtsklick auf freies Meer setzt ein Wasserziel. Unterwegs ist so ein Kurswechsel
+moeglich. Der Spielserver prueft Wasserroute, Besatzung und Verfuegbarkeit.
+Leertaste oeffnet beim ausgewaehlten Hafenschiff die Handelstabelle. Kaufen und
+Verkaufen senden den Handel direkt; es gibt keine weitere Bestaetigung.
 F8 oder Charakter zeigt die eigene Figur mit Ausruestung, Portraet/Ganzkoerper
 und Bewegung. F9 oder Szenen oeffnet den lokalen 3D-Szenenkatalog; Leertaste
 pausiert, R spielt erneut ab. Den Ordner szenen/ vollstaendig beibehalten.
@@ -59,7 +68,14 @@ Entscheidungen bestaetigen, Ergebnisse mit Weiter abschliessen. Fuer diese
 Menues muss auch der Server die neuen Ereignis-Datenendpunkte unterstuetzen.
 Stadtmarker anklicken oder C: Stadtansicht. Ziehen/WASD und Mausrad bewegen die
 Stadtkamera, Gebaeude anklicken zeigt Details. C/Escape kehrt zur Weltkarte zurueck.
-Feld anklicken und B: Baukatalog. H: Markt/Lager. M: Stadtton an/aus.
+Rechtsklick auf eine freie Kachel: Baukatalog fuer genau dieses Feld.
+Das Baumenue zeigt Arbeitskosten, Materialbedarf und Bauzeit ohne Emojis.
+Produktionsgebaeude tragen das Warenbild ihrer produzierten Ressource.
+Oben die Materialquelle waehlen; ein Klick auf das Gebaeude sendet den Bauauftrag.
+Andere Spieler erscheinen mit Figur/Wappen und Namensschild nur online und in
+Sichtweite: 100 Kartenpixel um den eigenen Charakter, 90 um eigene Schiffe.
+Ohne aktuelle Online-Bestaetigung des Servers werden fremde Figuren ausgeblendet.
+Alternativ Feld anklicken und B. H: Markt/Lager. M: Stadtton an/aus.
 Auftraege im Menue pruefen und bestaetigen; das Mausrad scrollt durch die Liste.
 Den Ordner stadt/ mit den Stadtgrafiken neben der EXE lassen.
 

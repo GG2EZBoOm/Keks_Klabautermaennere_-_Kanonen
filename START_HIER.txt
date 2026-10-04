@@ -18,7 +18,10 @@ gelten weiterhin separat, unter anderem LICENSE-json.txt.
 SCHNELLSTART
 1. Rechtsklick auf die ZIP-Datei > Alle extrahieren. Nicht im ZIP starten.
 2. Den entpackten Ordner oeffnen und abbild_client.exe doppelt anklicken.
-3. Im Hauptmenue Discord verbinden und die Anmeldung im Browser bestaetigen.
+3. Im Hauptmenue Discord verbinden oder Mit E-Mail anmelden waehlen.
+   Bei Discord die Anmeldung im Browser bestaetigen. Bei E-Mail einen Code
+   anfordern und den Code aus der Nachricht eingeben. Beim ersten Verknuepfen
+   eines bestehenden Spielkontos wird zusaetzlich dessen Kontocode benoetigt.
 4. Zum Spiel zurueckkehren und Mehrspieler anklicken.
    Dein Discord-Konto muss vom Betreiber fuer die Spielwelt freigeschaltet sein.
    Fuer Mehrspieler muss der aktualisierte Spielserver erreichbar sein.
@@ -73,9 +76,10 @@ und Bewegung. F9 oder Szenen oeffnet den lokalen 3D-Szenenkatalog; Leertaste
 pausiert, R spielt erneut ab. Den Ordner szenen/ vollstaendig beibehalten.
 Charaktere und Szenen rendert die EXE selbst mit DirectX 11 oder Vulkan, ohne Node/Browser.
 Ereignisse in der Kopfleiste: Reiseentscheidungen, Jagd, Schmiede und Kapelle.
-Die passende Szene oeffnet sich automatisch; Szene anzeigen oeffnet sie erneut.
-Entscheidungen bestaetigen, Ergebnisse mit Weiter abschliessen. Fuer diese
-Menues muss auch der Server die neuen Ereignis-Datenendpunkte unterstuetzen.
+Bei Jagden stehen Szene und Entscheidungen im selben Fenster. Der Mauszeiger
+ueber einer Entscheidung zeigt die moeglichen Auswirkungen. Ein Klick entscheidet
+direkt; das Ergebnis erscheint dort und die Jagd geht ohne Zwischenfenster weiter.
+Fuer diese Menues muss auch der Server die Ereignis-Datenendpunkte unterstuetzen.
 Stadtmarker anklicken oder C: Stadtansicht. Ziehen/WASD und Mausrad bewegen die
 Stadtkamera, Gebaeude anklicken zeigt Details. C/Escape kehrt zur Weltkarte zurueck.
 Rechtsklick auf eine freie Kachel: Baukatalog fuer genau dieses Feld.

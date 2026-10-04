@@ -1,6 +1,14 @@
 {
   "name": "English",
   "texte": {
+    "Stadtmarkt ↔ Schiff": "City market ↔ Ship",
+    "Eigenes Lager ↔ Schiff": "Own warehouse ↔ Ship",
+    "Aufs Schiff laden": "Load onto ship",
+    "Ins Lager entladen": "Unload into warehouse",
+    "Ø Kosten": "Avg. cost",
+    "Kostenloses Umladen am aktuellen Hafen. Die Einkaufskosten bleiben erhalten. Max: so viel wie Bestand und Laderaum erlauben.": "Free transfers at the current port. Purchase costs are preserved. Max: as much as stock and cargo space allow.",
+    "Keine Ware im eigenen Lager oder kein Laderaum frei.": "No goods in your warehouse or no free cargo space.",
+    "Diese Ware ist nicht an Bord.": "These goods are not aboard.",
     "Die Adresse oder der Kontocode wurde geändert. Bitte fordere einen neuen E-Mail-Code an.": "The email address or account code has changed. Please request a new email code.",
     "Auflösung": "Resolution",
     "Passe dein Spielerlebnis an.": "Make the game your own.",
@@ -3526,6 +3534,10 @@
     "Angemeldet. Der Zugang konnte auf diesem PC nicht gespeichert werden.": "Signed in. Your sign-in could not be saved on this PC."
   },
   "muster": {
+    "Eigenes Lager {1}": "Own warehouse {1}",
+    "Stadtmarkt {1}": "City market {1}",
+    "{1}× {2} in {3} aus deinem Lager aufs Schiff geladen.": "Loaded {1}× {2} from your warehouse onto the ship in {3}.",
+    "{1}× {2} in {3} vom Schiff in dein Lager entladen.": "Unloaded {1}× {2} from the ship into your warehouse in {3}.",
     "+ Kontor {1}": "+ office {1}",
     "+ {1} Lagerhaus": "+ {1} warehouse",
     "1 bis {1} Waren sind erlaubt.": "1 to {1} goods are allowed.",

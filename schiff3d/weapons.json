@@ -1,0 +1,12 @@
+{
+  "capacities": {"flussschiff":2,"kraier":3,"kogge":4,"holk":6,"karacke":8,"galeone":15},
+  "types": {
+    "kleine_blide":{"name":"Kleine Blide","family":"blide","slots":1,"scale":1},
+    "grosse_blide":{"name":"Große Blide","family":"blide","slots":2,"scale":1.3},
+    "kleines_werk":{"name":"Kleines Werk","family":"werk","slots":1,"scale":1},
+    "grosses_werk":{"name":"Großes Werk","family":"werk","slots":2,"scale":1.3},
+    "bombarde":{"name":"Bombarde","family":"bombarde","slots":2,"scale":1.15},
+    "kanone":{"name":"Kanone","family":"kanone","slots":1,"scale":1},
+    "entermesser":{"name":"Entermesser","family":"rack","slots":0,"scale":1}
+  }
+}

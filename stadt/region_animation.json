@@ -1,0 +1,374 @@
+{
+  "rathaus_nord": {
+    "basis": "region_rathaus_nord_basis.png",
+    "datei": "region_rathaus_nord_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 224,
+        "y": 144,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      }
+    ]
+  },
+  "kirche_nord": {
+    "basis": "region_kirche_nord_basis.png",
+    "datei": "region_kirche_nord_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 224,
+        "y": 464,
+        "w": 32,
+        "h": 48,
+        "ay": 0
+      }
+    ]
+  },
+  "kneipe_nord": {
+    "basis": "region_kneipe_nord_basis.png",
+    "datei": "region_kneipe_nord_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 448,
+        "w": 80,
+        "h": 64,
+        "ay": 0
+      },
+      {
+        "x": 208,
+        "y": 448,
+        "w": 48,
+        "h": 64,
+        "ay": 396
+      },
+      {
+        "x": 240,
+        "y": 272,
+        "w": 48,
+        "h": 48,
+        "ay": 792
+      }
+    ]
+  },
+  "mint_nord": {
+    "basis": "region_mint_nord_basis.png",
+    "datei": "region_mint_nord_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 144,
+        "y": 400,
+        "w": 48,
+        "h": 48,
+        "ay": 0
+      }
+    ]
+  },
+  "markthalle_nord": {
+    "basis": "region_markthalle_nord_basis.png",
+    "datei": "region_markthalle_nord_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 64,
+        "y": 432,
+        "w": 160,
+        "h": 96,
+        "ay": 0
+      },
+      {
+        "x": 240,
+        "y": 256,
+        "w": 48,
+        "h": 48,
+        "ay": 588
+      }
+    ]
+  },
+  "rathaus_sonne": {
+    "basis": "region_rathaus_sonne_basis.png",
+    "datei": "region_rathaus_sonne_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 224,
+        "y": 176,
+        "w": 48,
+        "h": 64,
+        "ay": 0
+      }
+    ]
+  },
+  "kirche_sonne": {
+    "basis": "region_kirche_sonne_basis.png",
+    "datei": "region_kirche_sonne_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 224,
+        "y": 464,
+        "w": 32,
+        "h": 48,
+        "ay": 0
+      }
+    ]
+  },
+  "kneipe_sonne": {
+    "basis": "region_kneipe_sonne_basis.png",
+    "datei": "region_kneipe_sonne_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 448,
+        "w": 80,
+        "h": 64,
+        "ay": 0
+      },
+      {
+        "x": 208,
+        "y": 448,
+        "w": 48,
+        "h": 64,
+        "ay": 396
+      },
+      {
+        "x": 224,
+        "y": 256,
+        "w": 48,
+        "h": 48,
+        "ay": 792
+      }
+    ]
+  },
+  "mint_sonne": {
+    "basis": "region_mint_sonne_basis.png",
+    "datei": "region_mint_sonne_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 144,
+        "y": 384,
+        "w": 48,
+        "h": 64,
+        "ay": 0
+      }
+    ]
+  },
+  "markthalle_sonne": {
+    "basis": "region_markthalle_sonne_basis.png",
+    "datei": "region_markthalle_sonne_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 64,
+        "y": 432,
+        "w": 160,
+        "h": 96,
+        "ay": 0
+      },
+      {
+        "x": 224,
+        "y": 240,
+        "w": 48,
+        "h": 48,
+        "ay": 588
+      }
+    ]
+  },
+  "rathaus_insel": {
+    "basis": "region_rathaus_insel_basis.png",
+    "datei": "region_rathaus_insel_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 224,
+        "y": 160,
+        "w": 48,
+        "h": 64,
+        "ay": 0
+      }
+    ]
+  },
+  "kirche_insel": {
+    "basis": "region_kirche_insel_basis.png",
+    "datei": "region_kirche_insel_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 224,
+        "y": 464,
+        "w": 32,
+        "h": 48,
+        "ay": 0
+      }
+    ]
+  },
+  "kneipe_insel": {
+    "basis": "region_kneipe_insel_basis.png",
+    "datei": "region_kneipe_insel_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 112,
+        "y": 448,
+        "w": 80,
+        "h": 64,
+        "ay": 0
+      },
+      {
+        "x": 208,
+        "y": 448,
+        "w": 48,
+        "h": 64,
+        "ay": 396
+      },
+      {
+        "x": 240,
+        "y": 304,
+        "w": 48,
+        "h": 48,
+        "ay": 792
+      }
+    ]
+  },
+  "mint_insel": {
+    "basis": "region_mint_insel_basis.png",
+    "datei": "region_mint_insel_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 144,
+        "y": 384,
+        "w": 48,
+        "h": 64,
+        "ay": 0
+      }
+    ]
+  },
+  "markthalle_insel": {
+    "basis": "region_markthalle_insel_basis.png",
+    "datei": "region_markthalle_insel_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 64,
+        "y": 432,
+        "w": 160,
+        "h": 96,
+        "ay": 0
+      },
+      {
+        "x": 240,
+        "y": 288,
+        "w": 48,
+        "h": 48,
+        "ay": 588
+      }
+    ]
+  },
+  "burgmarkt_nord": {
+    "basis": "region_markthalle_nord_basis.png",
+    "datei": "region_markthalle_nord_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 64,
+        "y": 432,
+        "w": 160,
+        "h": 96,
+        "ay": 0
+      },
+      {
+        "x": 240,
+        "y": 256,
+        "w": 48,
+        "h": 48,
+        "ay": 588
+      }
+    ]
+  },
+  "burgmarkt_sonne": {
+    "basis": "region_markthalle_sonne_basis.png",
+    "datei": "region_markthalle_sonne_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 64,
+        "y": 432,
+        "w": 160,
+        "h": 96,
+        "ay": 0
+      },
+      {
+        "x": 224,
+        "y": 240,
+        "w": 48,
+        "h": 48,
+        "ay": 588
+      }
+    ]
+  },
+  "burgmarkt_insel": {
+    "basis": "region_markthalle_insel_basis.png",
+    "datei": "region_markthalle_insel_animation.png",
+    "frames": 48,
+    "dauer": 4.8,
+    "spalten": 8,
+    "patches": [
+      {
+        "x": 64,
+        "y": 432,
+        "w": 160,
+        "h": 96,
+        "ay": 0
+      },
+      {
+        "x": 240,
+        "y": 288,
+        "w": 48,
+        "h": 48,
+        "ay": 588
+      }
+    ]
+  }
+}

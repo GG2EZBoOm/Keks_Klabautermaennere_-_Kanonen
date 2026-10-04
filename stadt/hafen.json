@@ -1,0 +1,357 @@
+{
+  "version": 1,
+  "geometry": {
+    "flussschiff": {
+      "0": {
+        "anchor": [
+          0.4952102198107217,
+          0.7867746060389862
+        ],
+        "projectedLength": 0.8529984529241594,
+        "length": 7.8
+      },
+      "1": {
+        "anchor": [
+          0.504358660846998,
+          0.7825540727850466
+        ],
+        "projectedLength": 0.8522555401978616,
+        "length": 7.8
+      },
+      "2": {
+        "anchor": [
+          0.5039017673454337,
+          0.765716487520915
+        ],
+        "projectedLength": 0.8076756468423583,
+        "length": 7.8
+      },
+      "3": {
+        "anchor": [
+          0.49586759025040333,
+          0.7661537126921533
+        ],
+        "projectedLength": 0.8080163213173623,
+        "length": 7.8
+      }
+    },
+    "kraier": {
+      "0": {
+        "anchor": [
+          0.5006806326175155,
+          0.7968268071231326
+        ],
+        "projectedLength": 0.7689313532488434,
+        "length": 8.3
+      },
+      "1": {
+        "anchor": [
+          0.4992690814425886,
+          0.7949279371033766
+        ],
+        "projectedLength": 0.7732137286348211,
+        "length": 8.3
+      },
+      "2": {
+        "anchor": [
+          0.49938008960002594,
+          0.7837924009940216
+        ],
+        "projectedLength": 0.7003316186713833,
+        "length": 8.3
+      },
+      "3": {
+        "anchor": [
+          0.5006609789110823,
+          0.7836825088776815
+        ],
+        "projectedLength": 0.6992269702344545,
+        "length": 8.3
+      }
+    },
+    "kogge": {
+      "0": {
+        "anchor": [
+          0.5060982320713674,
+          0.8062596156676378
+        ],
+        "projectedLength": 0.6953944207736801,
+        "length": 9
+      },
+      "1": {
+        "anchor": [
+          0.493998167773704,
+          0.8048011859025685
+        ],
+        "projectedLength": 0.6990129225509509,
+        "length": 9
+      },
+      "2": {
+        "anchor": [
+          0.49416726918888254,
+          0.7850437480023833
+        ],
+        "projectedLength": 0.6651187453114247,
+        "length": 9
+      },
+      "3": {
+        "anchor": [
+          0.5057145104707818,
+          0.7845695017485919
+        ],
+        "projectedLength": 0.6655495379607459,
+        "length": 9
+      }
+    },
+    "holk": {
+      "0": {
+        "anchor": [
+          0.5053880696040972,
+          0.8020748552620531
+        ],
+        "projectedLength": 0.7040336220510955,
+        "length": 10.6
+      },
+      "1": {
+        "anchor": [
+          0.4951595237313978,
+          0.8021261241789257
+        ],
+        "projectedLength": 0.7082130883088985,
+        "length": 10.6
+      },
+      "2": {
+        "anchor": [
+          0.49526615580564415,
+          0.7733769370136178
+        ],
+        "projectedLength": 0.703054437597617,
+        "length": 10.6
+      },
+      "3": {
+        "anchor": [
+          0.5048003063410619,
+          0.7734527132457166
+        ],
+        "projectedLength": 0.702335801268991,
+        "length": 10.6
+      }
+    },
+    "karacke": {
+      "0": {
+        "anchor": [
+          0.49888472076881624,
+          0.8002148054527174
+        ],
+        "projectedLength": 0.7242440200478522,
+        "length": 11.8
+      },
+      "1": {
+        "anchor": [
+          0.5013404644849051,
+          0.7997239036130855
+        ],
+        "projectedLength": 0.7271159153355564,
+        "length": 11.8
+      },
+      "2": {
+        "anchor": [
+          0.5011030234154564,
+          0.7718627459407696
+        ],
+        "projectedLength": 0.7162852945528209,
+        "length": 11.8
+      },
+      "3": {
+        "anchor": [
+          0.49867970666329464,
+          0.7720728472094756
+        ],
+        "projectedLength": 0.7161743625740095,
+        "length": 11.8
+      }
+    },
+    "galeone": {
+      "0": {
+        "anchor": [
+          0.494593874614588,
+          0.7893653967029832
+        ],
+        "projectedLength": 0.7702021668658232,
+        "length": 14
+      },
+      "1": {
+        "anchor": [
+          0.5061576316072953,
+          0.788629787466063
+        ],
+        "projectedLength": 0.7736966249218049,
+        "length": 14
+      },
+      "2": {
+        "anchor": [
+          0.5052224934090053,
+          0.764502316951991
+        ],
+        "projectedLength": 0.7440404084804352,
+        "length": 14
+      },
+      "3": {
+        "anchor": [
+          0.49408183184409954,
+          0.7638659635824123
+        ],
+        "projectedLength": 0.7436084228415125,
+        "length": 14
+      }
+    }
+  },
+  "sources": {
+    "schiff_assets/model.js": "7ce7b502059975badfc6b1860dcb50d53ce77cae017134c6535fa4512314bba6",
+    "schiff_assets/renderer.js": "453c8b5f4aa592fc058eb55806b0d8df863a68cffb330951dba127427dab97fa",
+    "schiff_assets/heraldry.js": "3fed32a937825cc3d70435271b969a7aae60e643b889fdf1eea51a3259705cfa",
+    "schiff_assets/heraldry.json": "4354ec31ca9f11fa34bfa8ce130953b796e754a8ef073f58da1ae2351988b5ef",
+    "schiff_assets/weapons.js": "b903278aca722d495be855607d65a561305c22105ab270a87db0006da6dfcefe",
+    "schiff_assets/weapons.json": "33d4bb5917090306278a4c1f48dbf8260decd6933c9ae81494864175ab2fe97b",
+    "szenen_assets/reference-assets.js": "d29f7acce88efc9ae64da904b9b695687a5ef355c7542f7072e881cd5673d471",
+    "szenen_assets/actors.js": "64307bb50f68a3df335b7d53efbc9a4991318a704043996c29251067cf5ef69a",
+    "charakter_assets/renderer.js": "f09ad302e9049aeac2232a850172bb7676f5e546c30a8504b8b454ed2015dd9e",
+    "charakter_assets/body.js": "8b088c996dccce9c6a475244540afe23e698b453023bb1f65f29c5c4fb234a2c",
+    "charakter_assets/hands.js": "58fa20716d2945a64f1e5eed320142972e1ee20e83b474406ae2e4d1de5eb0bc",
+    "charakter_assets/equipment.js": "55a64bb09286f1b089a682f5e8b9b7d8d96540557558744b2ef7f6e041361e98",
+    "charakter_assets/item-details.js": "d168da94b44dfcf2106a4257243269ecbb7f9a701259e446885b78ae1d481616",
+    "charakter_assets/artefacts.js": "589ea82c1cf0ca396c3cb0d76077ba937f8ce2876a355c14d43057c649855c72",
+    "charakter_assets/poses.js": "43e9693d1dca5ab4939bdf2842622c6cecd4584dcd83972b905f88442805002b",
+    "charakter_assets/mounts.js": "33d9dff8aa9be43c5d64d6a07dfd772a66ddcdb674291d3875f9863db5fb59b3",
+    "charakter_assets/hair.js": "db86616a8e7171f1c2cec991d76ea564fdf927e657795424a5379278bf390b3b",
+    "charakter_assets/anatomy.js": "4f9456b1f6cf1e7fbec58253cc213c15c525b98d841092c3dd18ec37c49a9d74",
+    "charakter_assets/seating.js": "6c4f36557958f7e0bb27ebe417c0dd28d6b6ef2e4ebd915befb806e0234c1198",
+    "charakter_assets/head.json": "e3e5e250d8570600b8e0c3e7733b4b0f734f0b5e3f5a1dd8a1c0c8e6d0eafebf",
+    "charakter_assets/head-female.json": "22e1c2d1b8be30bd0e80ee9d985802b072d4c59a779b1932fb67e1ddc26810eb",
+    "charakter_assets/hands.json": "a4553eeaf290a4f202531204ec556ee193b0cad1fcf31c7b0abfcefc4a90dd90",
+    "charakter_assets/vendor/three.module.js": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a",
+    "charakter_assets/vendor/three.core.js": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+  },
+  "files": {
+    "flussschiff_0.png": "dd782fed2d7c9df5769a7ac9a0e5a9718ae13e64018d33aed9a6a28bd04d5956",
+    "livery/flussschiff_0.png": "49f8432e83c309e5ae6dbc0a0dec071fb86764d1536bc751f85c77df5f21ef84",
+    "livery/flussschiff_0_uv.png": "c4b52d0d2babc3e02e482b99243f4a2a73eff9620faed7ce6e0ccc743633d9ea",
+    "weapons/flussschiff_0.png": "c1df20ad74df3815eae4ffa236d51028b24ba55fe5eaf8caf07be4f756a64a9d",
+    "weapons/flussschiff_0.json": "14d1697112ee52e1d5858a1d476f79da90a51e620caf675bace9f2df83230c66",
+    "flussschiff_1.png": "957801077256cb33cc50c70192b2df77e5fcb5965318091fccbc389f43442c69",
+    "livery/flussschiff_1.png": "5cd5332c8e798f51224696b0bf47f72f50e8fe1e0d9d06dcef4046c96ca5c4d2",
+    "livery/flussschiff_1_uv.png": "f12888e384567a2c47dc83e4c7506e6d5f641726d944349bce3438f5cb97879a",
+    "weapons/flussschiff_1.png": "ceaa36f63c8081418488fdde965feaec03e2d4a494709df92428a6aba8f66184",
+    "weapons/flussschiff_1.json": "f84c135642818f34ceeb0fe9949c603e5c923f6c113c402fca9fa139af62dfc6",
+    "flussschiff_2.png": "e2bfaa1e306f631f33602a920f7458f44e17adcdd62d1315a9d4284f09506dd3",
+    "livery/flussschiff_2.png": "ee6368602ab585ad9a0b1a73513abc03c4f98293684f7c5645fd84250c260dd0",
+    "livery/flussschiff_2_uv.png": "c074c6cfe2978b98a5431e11e8526daa5fe89c5e9fb0eb5c798694290057aa99",
+    "weapons/flussschiff_2.png": "a0a68b30ae4937e1fe3c82b3f18a2e5f83255517f39333cf0c4e0ca74829ab8c",
+    "weapons/flussschiff_2.json": "ccf347df85d5f00638ca06979fb8badabe840dbb3a13173ca4a581dd50053362",
+    "flussschiff_3.png": "bb636340c94e45955c65ad864c64093dc34b1005ecc5f32e99eadc60cefe37a5",
+    "livery/flussschiff_3.png": "6d4fd3abb82f2a64d7512110bded23b9a1fcc397764677e9523c8fa22a9ec3e1",
+    "livery/flussschiff_3_uv.png": "cc88a4fbfe7b51f2764d19cbedd1ae39bf2b397e3c6c9998da1a6512083ba56c",
+    "weapons/flussschiff_3.png": "bd7282a9acc69353dcaddf045d0006b3bbb89e375936a0d8f614605c0cd867b1",
+    "weapons/flussschiff_3.json": "6d0c953d840d1f515df4877695020545e2edac40a9ff9094cdb647e0eaf170ff",
+    "kraier_0.png": "99b43d4af5931c177a78acaedbbde6951a87db9de83f4a0ba2708c1ea6c3f8b9",
+    "livery/kraier_0.png": "5874091d2f6da9c8565bc57b7e85ee785b83155b248203efc1b82d5f9b455a16",
+    "livery/kraier_0_uv.png": "94828ac91aa01db22f6679eaf0d758d278d2195753f2491bd3849f666bba58c5",
+    "weapons/kraier_0.png": "7d97ec66d87978664509ead9bcaee3bcff5482df3a3e8893d01ce260e400dc88",
+    "weapons/kraier_0.json": "fe12e0eda4e123e013926c7b788738138914d8d0bc5d78bcf05b1533247a75f9",
+    "kraier_1.png": "1918a537b2f6acfe3458a75dbf7aa60791c782d1cae8459b141b51118a9c102c",
+    "livery/kraier_1.png": "ad4a05a73c4a4c16a74acca51a4c2784d025345010b4b5b48d2c6bd1260a0744",
+    "livery/kraier_1_uv.png": "a762c03f8a122c929e75b8f384300bb6cabd5a13e34cbbd83a66cb5c790d324a",
+    "weapons/kraier_1.png": "8d07b97cd2ee471c62cfdd44daf76f4ba2286f39ffab661e2b5c8349510e3a41",
+    "weapons/kraier_1.json": "bc588a1bd5b0da166fe88cf6d69bd27ec0135ae2a2e67ccfc801a4dbad15c4e2",
+    "kraier_2.png": "598a6e1bb9304b0ea6668ce6eef50419be8898a7ba605f57ab049c4ba6ca1d87",
+    "livery/kraier_2.png": "06c1332243c137b1c1978a72b7ed9a1b34633c1efb3518822bf1a96afc82001d",
+    "livery/kraier_2_uv.png": "3b88c156ee3a5abcddcd0445ab9003df5d3a8a978fd1d8cdba43403d5228fa3c",
+    "weapons/kraier_2.png": "17f95a3ef1295613380a97bdf329c13186e27829fe9493f1bc8fb75fa7849e2b",
+    "weapons/kraier_2.json": "353a21f5ddcb9f4dcb1d8642b02c6e679480ba4b4b59b55cf2b317a545b5cbac",
+    "kraier_3.png": "0676591dd5d124cb1db3b51bcd6b72db370c7b3800fa65d006f9b6e456c45a97",
+    "livery/kraier_3.png": "5fa57daf62d972c1b8977a9ae1ce733a4debafd78b722b3ebde1930af82042c8",
+    "livery/kraier_3_uv.png": "aa2635fada38147b3bc0a9ca0b962c1a1a7c86b35209e0c4e4b4711539e122ee",
+    "weapons/kraier_3.png": "954272cdc16e794268fce251ba958a7059fbaf2f8901d247fa6b18e74df5dd24",
+    "weapons/kraier_3.json": "52acd8638162de671918e70ac53a10ee045cea7f40d5e6cc3bd9c2dcb35532c2",
+    "kogge_0.png": "9f4e26b8408519c574d4f11569306e2437376176f2101c42739f1554b1739808",
+    "livery/kogge_0.png": "2e1f66f930f0a317da1e9a80bd250b13cc5a0bdd84dd9b53fc69969239f73626",
+    "livery/kogge_0_uv.png": "4b49ddcd07a2a3cfa309fa46d11e38e29130e5bdd5c7b26d0de4f5b51c2e35bb",
+    "weapons/kogge_0.png": "31a33b9f4c6536287a140a5abe5bc9545e665cbcd8555e7c69ca17a051ad3b63",
+    "weapons/kogge_0.json": "136b1422427ea0b215c6354a2a9735aea04def74f75a7f8012e128deed909aef",
+    "kogge_1.png": "b4471e94e931b28b714cba19ad8ad1617fb81d983973d8e1027595ee1356bb9e",
+    "livery/kogge_1.png": "720adc70ec00ddb8fbe104c1ae4d7147b198ead6406748d732566e3c91c2a9f1",
+    "livery/kogge_1_uv.png": "1597f3e7768671bfefcfdb1ac4b7a8ae5af75b805c4d3da7d62d42e3f75b2da7",
+    "weapons/kogge_1.png": "d2b22faceb4a3b10e05d5cbfc67daa1e88bd28d7c7b0b523d8dd08c0f972fbc0",
+    "weapons/kogge_1.json": "4d4b39e351302ea1b64253195df613305334b57e53e4d6f534ef315c32765a80",
+    "kogge_2.png": "280973938fcd4a076d37e9e969d7be796c5d4863ddea668df995651add251475",
+    "livery/kogge_2.png": "073f88158c0d7f614911cc9f0ac85f4a55441623bfe1b1d6305fca3449613561",
+    "livery/kogge_2_uv.png": "d6c40825f77e673a6cbee30a81a5450b6cd5d56af2d6fef61f8d40399109ab8a",
+    "weapons/kogge_2.png": "27841c8180280d6a32f2a553136abc047c38a04dfea4af73948bfbc8e475fe77",
+    "weapons/kogge_2.json": "f0d0b1fc6677b5dbcc4a6c2fd653e1ddb5f0225bddc42be36a31ddd31c70b1ff",
+    "kogge_3.png": "bc0688e4eaaa55f0fc579397fe92862b7ca80b94a7dc86315570d5e8cf0eeb4f",
+    "livery/kogge_3.png": "47e1fecc8d5c77cf5281cc64b9f127d1efd16cc07a09492c837bc64e99babfc6",
+    "livery/kogge_3_uv.png": "b472275294fbd2eab18839216656f97d9b2fe3bf0dd83a7290e21aedeab5f38b",
+    "weapons/kogge_3.png": "417a2c3cb2a3be50146ca17fe08f22c268c27040df955ebcc7514c2419889099",
+    "weapons/kogge_3.json": "bb81ca8c440fe8703729a8d6b4e2e0f7f4bc9de915f5e12c565e707187ab1ea5",
+    "holk_0.png": "ce8c96e3d86cd86a6a1f43edebb9eb85e4020c3388e2469d1cd470b16823f70f",
+    "livery/holk_0.png": "f59831b3db5ed9c6c6446907666e7dfb58f0a843a347c426909b43944186b631",
+    "livery/holk_0_uv.png": "45d8de75a91e8bf7913c6dd47620046173595c67c5dee3af2c0684e037e95f83",
+    "weapons/holk_0.png": "091981204319fa86ad02b1a73c0722e4daf736544f8caaa5a9a672f082184fdf",
+    "weapons/holk_0.json": "09395e122b9168dc84dbb8ef6448b8ad5e2c8d63b114193e954cedf54a785bbb",
+    "holk_1.png": "892c7b4be5dd5d6a1c7c73fd3f8c3e6d4fc3c76bf14b6568abc21324be2180ec",
+    "livery/holk_1.png": "d918c28f316557054b699ba06fde46bccac614ea5d850e497c68fc45caeedf7a",
+    "livery/holk_1_uv.png": "4561e0ddb04f480d17ca7965bc7db780c1e041bfd4fe0a0afff72a96be213490",
+    "weapons/holk_1.png": "65248b3445eff85929fef59831c79876fcc10f7fcb125aecc5d15cd2760f8235",
+    "weapons/holk_1.json": "e899ac55491ea239fefd9ca3f4de452d2a5e902de106bdcf1199cbf784ef6984",
+    "holk_2.png": "288553b97b0d5cd3ce28c4bee91f30b4dea4cd89fa00facff6d23e962a3b6be9",
+    "livery/holk_2.png": "e911b4c4d6b8ba6ef4736dc8bfe4538e9cb02bed774a5029f4ef281b6b07da67",
+    "livery/holk_2_uv.png": "e81141d7c3718ecb52a558cae5288e96d5a5848ebc193267cfc6bb6b6afd8102",
+    "weapons/holk_2.png": "e0068b4efa214c3447bdf5a4b9033d0cb4f516ae89e698bf3f98f5e49a04011a",
+    "weapons/holk_2.json": "5b666dcd33d71186afc2532ef5d31ce5912bca049402ab74afb476b884f7d56a",
+    "holk_3.png": "4c9b2138303b3beec4ff15167bb2cdf6a598124b75d74314138bac6289c195c5",
+    "livery/holk_3.png": "faa0cff77fed54e6617a78b0525e0d9da9ae066a8ac80443fa484187f8614244",
+    "livery/holk_3_uv.png": "239546b02f2356e4b1e363624d8babb94ff0d8490321c0892f10bc1164b2e93a",
+    "weapons/holk_3.png": "16993207ad2a1b06a65e9c878eddc0afa59c5182bd3c3626bfa689a29aea5490",
+    "weapons/holk_3.json": "2589909352c7870b74e76c5678a7cf62f56a5d30a177b4d570128d4907c43b2e",
+    "karacke_0.png": "3d72cb5db02c0c1edc582af8c6472cca8d034dd85528dd88d1c2285cdb28d462",
+    "livery/karacke_0.png": "d5d9f55960c68b09b66c6fc2a65622e92dee0235dba909c2bbf7126b7bb4744c",
+    "livery/karacke_0_uv.png": "3de8a740423482df3b5979f3f8e5f374b8ae1cc4c7709a88673b8badfeffcc37",
+    "weapons/karacke_0.png": "a2030670034aed4fe04a614be8d998f419fa7f60b1dc55629c55cadc57fda26d",
+    "weapons/karacke_0.json": "f81c52c0753af57d30befcc024de628acbf7f4318a043594f3006475b8f5800c",
+    "karacke_1.png": "e9594085eadfc686592e09b19d1bbf502e7435687b26024002dde0ff311ea58a",
+    "livery/karacke_1.png": "fc448faca0cbc3e59f3c87911f8a002a33c46f02dc2000e42d861ddbc344dc26",
+    "livery/karacke_1_uv.png": "dcb6f265a8c2ebda1f414505354f5c37daf2c93422e9e9a2490d7eb07bf9e319",
+    "weapons/karacke_1.png": "2e4943a913044d08b48f47c570b093ea7c84fcf6457aeae6acec5b74aa1f7318",
+    "weapons/karacke_1.json": "cb5d9a51923ea841b99eb8a35cdb63634cf4c0ad92583fc0013eb0fb5456eb50",
+    "karacke_2.png": "a40195a1b0dc86714cf515791162bcdfbfe2cf0701826705e0f2c1b8a7a80bac",
+    "livery/karacke_2.png": "069aa774ef2d27fa0208c1f182513e507d3e01776c26bc31f69b7ab85fca2256",
+    "livery/karacke_2_uv.png": "8a3ead6fafc0f8595c4277727b8b4cc1b5f93f2142ec8dbb7fceacdefccb4278",
+    "weapons/karacke_2.png": "3349cab0033f0b197466eacdde22b8876249a4ada4afcc6c5ba8f987d88c273c",
+    "weapons/karacke_2.json": "77b0a916a8f0f7c9d1d56a64513b0252c11f00ac063490165a70266d1c4b1ee0",
+    "karacke_3.png": "da846c51ddb8eadf259d383fc2135a3d3ddd51bca1e4895ccec17ce8125f6d8c",
+    "livery/karacke_3.png": "e64f7f81b0a889b7a790dfe249c2407da7d4644cbb4743b1e7e27ddcb80de534",
+    "livery/karacke_3_uv.png": "993b85e6dee9fe312f9616d0316febc9d7b0e531e2b7a6417b9518c38df46663",
+    "weapons/karacke_3.png": "6500358c6e344d560da6198b3b9b0e1bc3b1e3f93cc148725d52710bf9caedaf",
+    "weapons/karacke_3.json": "7576aad5f9cdf2fe6f1d6067bd2cc267072506f7e6c74d20fe4612087f3e7028",
+    "galeone_0.png": "100da57c6890c76d6c357093c4cb514ad2d5d94eb6a283ed15a0cca2b19343d9",
+    "livery/galeone_0.png": "6797d189daa1f9eed0969048984b2ba57ffa1f37993d28ff400147dd597d4530",
+    "livery/galeone_0_uv.png": "bbe4ac19689f7b7a9efddf0d1927dfa97c2ce3ceeb679b605287e8216da2cf37",
+    "weapons/galeone_0.png": "1857e0cfa1867586916dad4fc685bbd705f7b62d886ec29d724670cb91b19897",
+    "weapons/galeone_0.json": "f35f53235285cd2edf701bbe093adb57f04618380120709bf37fe0bb0efb3dd4",
+    "galeone_1.png": "6e9bbb525e5383eab90deeb2b62a0a17ba0ba1873b00d9c4f6860962c6a3f770",
+    "livery/galeone_1.png": "69f7e969e6f2a7c92ecf2739304f98e17423f146bd5f20ae76784f43f3a80806",
+    "livery/galeone_1_uv.png": "6a4cb6d38258d4ae8f179286a76df6cf9567176fb0c7ef618dda60bdc342d1c8",
+    "weapons/galeone_1.png": "38c7094fb1342d77ddc2ae2ce474ff83114b50dbe83004febbf77e518bcf5aa6",
+    "weapons/galeone_1.json": "d5cdbff9239f24139762ce383f1238d6d00b6100131bccbfb8d3a5bf14e3103d",
+    "galeone_2.png": "352166166baf203e6b6171fd91b584c9390dd2f45e139ca8a895cfa780b1e6b7",
+    "livery/galeone_2.png": "57b4a9573453f9939fcaf092e3cbe73d808e6360b3253ffe8f2b6b895aa1884f",
+    "livery/galeone_2_uv.png": "7e6f5c5cdd829de4432012d99a68ce64dced10e31e9f4b50eceb8ef8818a6939",
+    "weapons/galeone_2.png": "643a126e83f2e0ccab074899db154d3a3e6d79e174b2112bd768c25a0a1d54c3",
+    "weapons/galeone_2.json": "43a4531b31f3a6a209c3763e081d80388ef45b62c9763e79faee866a0fd4c7d1",
+    "galeone_3.png": "b20ea1adfb17db5379119e05b284a48fca25625f2c38a8941d52094839d9d338",
+    "livery/galeone_3.png": "7e635208ac938ddf938378d327194bf5f1788800cff1e1841a22bfb8b7a61933",
+    "livery/galeone_3_uv.png": "bfaf96a8a9ab38ab895ed7c5aa78c826ff069aa8e7b372c7612e5735b83d73f5",
+    "weapons/galeone_3.png": "a53d9d8fb92f100a18c59040a6f5374e6680bcc250c5e46ca25a4a8086b66cdf",
+    "weapons/galeone_3.json": "684b844bf1a0b33320d5c74110e165580efb284d3e51fc603cc5502f9bbae7a9"
+  }
+}

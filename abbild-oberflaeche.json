@@ -1,6 +1,6 @@
 {
   "charakternamen": true,
-  "grafik": "directx11",
+  "grafik": "vulkan",
   "height": 760,
   "kartenbeschriftungen": true,
   "keys": {

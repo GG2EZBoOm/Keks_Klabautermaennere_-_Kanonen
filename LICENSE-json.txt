@@ -1,21 +1,91 @@
-MIT License 
+# Copyright & License
 
-Copyright (c) 2013-2025 Niels Lohmann
+**Keks, Klabautermänner & Kanonen**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright © 2026 Kekish Games. All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The game **“Keks, Klabautermänner & Kanonen”**, including all associated content, is protected by copyright law.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This includes, in particular, all content created by Kekish Games or for which Kekish Games holds the necessary rights, including:
+
+- Source code, scripts, and software components
+- Game mechanics in their specific technical and creative implementation
+- Graphics, user interfaces, and design elements
+- Maps, buildings, ships, items, and other game content
+- Texts, dialogue, descriptions, and written content
+- Music, sound effects, and voice recordings
+- Logos, names, and other branding elements
+- Databases and other files belonging to the game
+
+## 1. License Grant
+
+The user is granted a limited, non-exclusive, non-transferable, and revocable license to install and use the game for personal use only.
+
+Downloading, purchasing, possessing, or using the game does not transfer any ownership, copyright, intellectual property, or other proprietary rights to the user.
+
+## 2. Prohibited Use
+
+Without prior written permission from Kekish Games, users may not:
+
+- Copy or redistribute the game or substantial parts of it;
+- Sell, rent, sublicense, or otherwise commercially exploit the game;
+- Use source code, graphics, music, sound effects, text, or other game assets in their own projects;
+- Claim any part of the game or its content as their own work;
+- Circumvent technical restrictions, copy protection, or security measures;
+- Decompile, disassemble, reverse engineer, or otherwise attempt to obtain the source code of the game, except where expressly permitted by applicable law;
+- Publicly distribute modified versions of the game;
+- Upload or redistribute the game or its files on third-party websites, file-sharing platforms, or download services without permission.
+
+## 3. Mods and User-Generated Content
+
+Users may create modifications, extensions, or other user-generated content for private and non-commercial purposes.
+
+Such modifications must not redistribute copyrighted game assets beyond what is reasonably necessary for the modification to function.
+
+Commercial use, sale, or monetized distribution of modifications requires prior permission from Kekish Games.
+
+Kekish Games assumes no responsibility for unofficial modifications, third-party content, or any damage caused by their use.
+
+## 4. Videos, Streams, and Screenshots
+
+Users are generally permitted to create and publish screenshots, videos, livestreams, reviews, tutorials, and similar content featuring the game.
+
+Monetization of such content through platforms such as YouTube, Twitch, or similar services is permitted, provided that the content does not falsely claim to be an official publication, product, or endorsement by Kekish Games.
+
+The standalone redistribution of substantial game assets, including music, graphics, sound files, textures, source code, or other files, is not permitted without prior authorization.
+
+## 5. Intellectual Property
+
+All rights not expressly granted under this license remain with Kekish Games and the respective copyright holders.
+
+Third-party libraries, assets, software components, music, fonts, or other materials included in the game may be subject to their own licenses and copyright terms.
+
+Nothing in this license grants rights to third-party intellectual property beyond the rights provided by the respective rights holder.
+
+## 6. Disclaimer
+
+The game is provided “as is” without warranties of any kind, to the extent permitted by applicable law.
+
+Kekish Games does not guarantee that the game will operate without errors, interruptions, compatibility issues, data loss, or other technical problems.
+
+To the maximum extent permitted by applicable law, Kekish Games shall not be liable for indirect, incidental, consequential, or other damages resulting from the use or inability to use the game.
+
+Mandatory statutory rights remain unaffected.
+
+## 7. Termination
+
+The license to use the game may terminate if the user materially violates these license terms.
+
+Upon termination, the user must cease any unauthorized use or distribution of the game and its protected content.
+
+## 8. Changes to This License
+
+Kekish Games reserves the right to update or modify these license terms for future versions of the game.
+
+Any changes will not affect rights already granted where such changes would be prohibited by applicable law.
+
+---
+
+**Copyright © 2026 Kekish Games. All rights reserved.**
+
+Unauthorized reproduction, redistribution, sale, modification, or commercial use of this game or its protected content is prohibited except where expressly permitted by this license or applicable law.

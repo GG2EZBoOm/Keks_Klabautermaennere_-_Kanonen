@@ -1,6 +1,0 @@
-{
-  "octavius": {"name":"Die Octavius","ship_type":"karacke","effect":"ice","sail_color":"#b3c9ca","flag_color":"#92bac2","wood":"#526d74","deck":"#8e9e9f","glow":"#9edcea","damage_percent":32,"sail_amount":0.86,"description":"Eis auf Planken und Takelage, gefrorene Segel und Eiszapfen am Rumpf."},
-  "palatine": {"name":"Die Palatine","ship_type":"karacke","effect":"fire","sail_color":"#554135","flag_color":"#562e24","wood":"#302924","deck":"#4a362b","glow":"#ff6d20","damage_percent":68,"sail_amount":1,"description":"Verkohltes Holz, verbrannte Segel und Feuer zwischen den Masten."},
-  "hollaender": {"name":"Der Fliegende Holländer","ship_type":"galeone","effect":"spectral","sail_color":"#36453f","flag_color":"#659a79","wood":"#34453e","deck":"#505a42","glow":"#63e1b1","damage_percent":72,"sail_amount":1,"description":"Zerrissene dunkle Segel, verwittertes Holz und unheimlich grüne Lichter."},
-  "celeste": {"name":"Die Mary Celeste","ship_type":"karacke","effect":"mist","sail_color":"#aaa58c","flag_color":"#608e55","wood":"#565747","deck":"#706c52","glow":"#a3c882","damage_percent":14,"sail_amount":0.74,"description":"Ein verlassenes Handelsschiff mit blassen Segeln und flachem Geisternebel."}
-}

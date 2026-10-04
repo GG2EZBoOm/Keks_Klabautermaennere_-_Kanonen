@@ -1,0 +1,18 @@
+{
+  "backend": "vulkan-native",
+  "dxc": "1.8.2505.1",
+  "files": {
+    "LICENSE-DXC-LLVM.txt": "729615317e28dd03907e46f0fc3b5e88f7853cee61d1a1471d2749335516b46f",
+    "LICENSE-DXC-MIT.txt": "903df5512f7d02609fed0c780a9b704f5a3eeb6e4d84ebe42a29845c81899a3c",
+    "LICENSE-DXC-MS.txt": "734f72f239fe7b07b4c7203f294c1a7ce27095687278bab7e56d630d7c672963",
+    "LICENSE-NanoSVG.txt": "e82bc3dd03400aecabe12201219ba14750dbc4b36faab58663a7a6068548d372",
+    "LICENSE-Skia.txt": "5f787c1dee3c56547f09ccc2906ab5f5293c4d8dd6c8654e573216c38e908dbd",
+    "LICENSE-SkiaSharp.txt": "89101e35a8c66fd4d6dffc1763259161d35cb564c169714ec227a768c89f2938",
+    "LICENSE-Vulkan-Headers.txt": "1ca3502222d967f3be5751c55f6b7ee735b5383909c3b501495f54b216dbf227",
+    "NOTICES-SkiaSharp.txt": "21504c46c4c58aa64c1055bd2dcbc5f9a136b4b8c412ed3cc6740e22c5b127f5",
+    "dxcompiler.dll": "5888d3e590f5bfd8743484e7f31313996734adec5741506271a5c6368cbe8ba9",
+    "libSkiaSharp.dll": "935ef4a00462e6b0c4dadb870f734fa43679b4f561287fe0d28cbe2ba147e832"
+  },
+  "skia": "4.153.1",
+  "vulkan_minimum": "1.3"
+}

@@ -1,6 +1,12 @@
 {
   "name": "English",
   "texte": {
+    "Spieldateien werden mit dem aktuellen Stand verglichen …": "Comparing game files with the latest version …",
+    "Update wird geladen …": "Downloading update …",
+    "Update wird geladen: {1} von {2} Dateien ({3} von {4} MB) …": "Downloading update: {1} of {2} files ({3} of {4} MB) …",
+    "Update wird eingespielt …": "Installing update …",
+    "Update fertig – Die Hanse startet neu …": "Update complete – Die Hanse is restarting …",
+    "Update nicht möglich – das Spiel startet mit den vorhandenen Dateien.": "Update not possible – the game starts with the existing files.",
     "Stadtmarkt ↔ Schiff": "City market ↔ Ship",
     "Eigenes Lager ↔ Schiff": "Own warehouse ↔ Ship",
     "Aufs Schiff laden": "Load onto ship",

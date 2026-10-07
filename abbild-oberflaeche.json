@@ -1,7 +1,17 @@
 {
   "charakternamen": true,
-  "grafik": "directx11",
+  "grafik": "vulkan",
   "height": 760,
+  "karte_burgen": true,
+  "karte_charakter": true,
+  "karte_doerfer": true,
+  "karte_eigene_schiffe": true,
+  "karte_fremde_schiffe": false,
+  "karte_hafenliste": true,
+  "karte_karren": true,
+  "karte_reiseuhren": true,
+  "karte_strassen": true,
+  "karte_truppen": true,
   "kartenbeschriftungen": true,
   "keys": {
     "buy": 75,
@@ -34,10 +44,14 @@
     "yard": 89
   },
   "musik": 2,
+  "preisfarben": true,
+  "raytracing": 0,
   "sounds": 2,
   "sprache": "de",
+  "stadt_beschriftung": false,
   "stumm": false,
   "ui_skala": 1.100000023841858,
+  "vsync": true,
   "width": 1100,
   "window_mode": 2
 }

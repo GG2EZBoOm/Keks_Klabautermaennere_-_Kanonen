@@ -81,7 +81,7 @@ ueber einer Entscheidung zeigt die moeglichen Auswirkungen. Ein Klick entscheide
 direkt; das Ergebnis erscheint dort und die Jagd geht ohne Zwischenfenster weiter.
 Fuer diese Menues muss auch der Server die Ereignis-Datenendpunkte unterstuetzen.
 Stadtmarker anklicken oder C: Stadtansicht. Ziehen/WASD und Mausrad bewegen die
-Stadtkamera, Gebaeude anklicken zeigt Details. C/Escape kehrt zur Weltkarte zurueck.
+Stadtkamera, Gebaeude anklicken zeigt Details. C kehrt zur Weltkarte zurueck. Escape oeffnet das Spielmenue: Fortsetzen, Optionen, Hauptmenue, Spiel beenden.
 Rechtsklick auf eine freie Kachel: Baukatalog fuer genau dieses Feld.
 Das Baumenue zeigt Arbeitskosten, Materialbedarf und Bauzeit ohne Emojis.
 Produktionsgebaeude tragen das Warenbild ihrer produzierten Ressource.
@@ -97,7 +97,7 @@ Kopfleiste: Karte buendelt Legende, Ressourcenuebersicht, Kulturen & Religionen 
 Krieg & Diplomatie bietet die Untermenues Krieg und Diplomatie.
 Logistik und Familiensitzsaal oeffnen weitere native Fenster. Passt die Leiste nicht ins Fenster, mit den Pfeilen oder dem Mausrad
 ueber der Leiste seitlich scrollen. Zahlenwert anklicken und eintippen;
-erst Bestaetigen schickt den Auftrag. Esc schliesst zuerst das Formular.
+erst Bestaetigen schickt den Auftrag. Escape oeffnet das Spielmenue.
 Logistik bietet Fernreisen, Seehandelsrouten, Landhandel mit Karrenrouten,
 Preisvergleich und Lager. Der Server bestaetigt alle Spielaenderungen.
 

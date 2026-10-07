@@ -1,4 +1,19 @@
 {
+  "castle_0_graben_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_0_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_0_graben_keep": {
     "bounds": [
       54,
@@ -101,6 +116,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_0_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_0_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_0_graben_tor_y_s": {
     "bounds": [
       22,
@@ -113,6 +147,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_0_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -130,6 +183,21 @@
     "origin_y": 231,
     "unit": 64,
     "width": 172
+  },
+  "castle_0_hafen_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_0_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
   },
   "castle_0_hafen_keep": {
     "bounds": [
@@ -233,6 +301,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_0_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_0_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_0_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -245,6 +332,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_0_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -263,7 +369,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_0_land_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_0_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_0_land_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            220.88,
+            427.53
+          ],
+          [
+            200.21,
+            443.44
+          ],
+          [
+            200.21,
+            518.41
+          ],
+          [
+            212.83,
+            521.2
+          ],
+          [
+            220.88,
+            502.5
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       49,
       240,
@@ -350,6 +499,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_0_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_0_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_0_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_0_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_0_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_0_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_0_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_0_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_0_land_tor_x_s": {
     "bounds": [
       22,
@@ -362,6 +571,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_0_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_0_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -380,6 +608,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_0_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_0_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_0_land_turm_x_s": {
     "bounds": [
       40,
@@ -395,7 +642,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_10_graben_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_10_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_10_graben_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            217.36,
+            501.22
+          ],
+          [
+            190.16,
+            514.82
+          ],
+          [
+            190.16,
+            589.79
+          ],
+          [
+            203.76,
+            592.98
+          ],
+          [
+            217.36,
+            576.19
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       35,
       198,
@@ -497,6 +787,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_10_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_10_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_10_graben_tor_y_s": {
     "bounds": [
       22,
@@ -509,6 +818,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_10_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -527,7 +855,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_10_hafen_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_10_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_10_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            217.53,
+            436.58
+          ],
+          [
+            190.33,
+            450.18
+          ],
+          [
+            190.33,
+            525.15
+          ],
+          [
+            203.93,
+            528.34
+          ],
+          [
+            217.53,
+            511.55
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       35,
       168,
@@ -629,6 +1000,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_10_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_10_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_10_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -641,6 +1031,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_10_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -659,7 +1068,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_10_land_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_10_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_10_land_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            135.97,
+            498.71
+          ],
+          [
+            108.77,
+            485.11
+          ],
+          [
+            108.77,
+            560.08
+          ],
+          [
+            122.37,
+            576.87
+          ],
+          [
+            135.97,
+            573.68
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       44,
       197,
@@ -746,6 +1198,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_10_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_10_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_10_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_10_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_10_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_10_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_10_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_10_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_10_land_tor_x_s": {
     "bounds": [
       22,
@@ -758,6 +1270,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_10_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_10_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -776,6 +1307,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_10_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_10_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_10_land_turm_x_s": {
     "bounds": [
       26,
@@ -791,7 +1341,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_11_graben_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_11_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_11_graben_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            119.99,
+            505.52
+          ],
+          [
+            92.79,
+            491.92
+          ],
+          [
+            92.79,
+            566.89
+          ],
+          [
+            106.39,
+            583.69
+          ],
+          [
+            119.99,
+            580.49
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       38,
       82,
@@ -893,6 +1486,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_11_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_11_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_11_graben_tor_y_s": {
     "bounds": [
       22,
@@ -905,6 +1517,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_11_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -935,7 +1566,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_11_hafen_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_11_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_11_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            216.17,
+            492.35
+          ],
+          [
+            188.97,
+            505.95
+          ],
+          [
+            188.97,
+            580.92
+          ],
+          [
+            202.57,
+            584.11
+          ],
+          [
+            216.17,
+            567.32
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       39,
       94,
@@ -1037,6 +1711,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_11_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_11_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_11_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -1049,6 +1742,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_11_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -1079,7 +1791,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_11_land_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_11_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_11_land_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            214.64,
+            474.29
+          ],
+          [
+            187.44,
+            487.89
+          ],
+          [
+            187.44,
+            562.86
+          ],
+          [
+            201.04,
+            566.06
+          ],
+          [
+            214.64,
+            549.26
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       42,
       87,
@@ -1166,6 +1921,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_11_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_11_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_11_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_11_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_11_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_11_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_11_land_schildmauer_y_w": {
+    "bounds": [
+      16,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_11_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_11_land_tor_x_s": {
     "bounds": [
       22,
@@ -1181,6 +1996,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_11_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_11_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_11_land_tor_y_s": {
     "bounds": [
       22,
@@ -1193,6 +2027,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_11_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_11_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -1222,6 +2075,21 @@
     "origin_y": 231,
     "unit": 64,
     "width": 172
+  },
+  "castle_12_graben_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_12_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
   },
   "castle_12_graben_keep": {
     "bounds": [
@@ -1325,6 +2193,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_12_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_12_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_12_graben_tor_y_s": {
     "bounds": [
       22,
@@ -1337,6 +2224,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_12_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -1367,7 +2273,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_12_hafen_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_12_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_12_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            213.67,
+            474.51
+          ],
+          [
+            193.09,
+            490.35
+          ],
+          [
+            193.09,
+            565.32
+          ],
+          [
+            205.97,
+            568.24
+          ],
+          [
+            213.67,
+            549.48
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       54,
       121,
@@ -1469,6 +2418,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_12_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_12_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_12_hafen_tor_y_s": {
     "bounds": [
       21,
@@ -1481,6 +2449,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      21,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_12_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -1511,7 +2498,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_12_land_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_12_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_12_land_keep": {
+    "banners": [
+      {
+        "light": 0.9773,
+        "points": [
+          [
+            114.89,
+            432.06
+          ],
+          [
+            97.73,
+            415.22
+          ],
+          [
+            97.73,
+            490.19
+          ],
+          [
+            103.55,
+            509.31
+          ],
+          [
+            114.89,
+            507.03
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       51,
       118,
@@ -1598,6 +2628,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_12_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_12_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_12_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_12_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_12_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_12_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_12_land_schildmauer_y_w": {
+    "bounds": [
+      16,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_12_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_12_land_tor_x_s": {
     "bounds": [
       21,
@@ -1613,6 +2703,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_12_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_12_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_12_land_tor_y_s": {
     "bounds": [
       22,
@@ -1625,6 +2734,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_12_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_12_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -1655,7 +2783,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_13_graben_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_13_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_13_graben_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            120.26,
+            516.22
+          ],
+          [
+            93.06,
+            502.62
+          ],
+          [
+            93.06,
+            577.59
+          ],
+          [
+            106.66,
+            594.38
+          ],
+          [
+            120.26,
+            591.19
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       39,
       276,
@@ -1757,6 +2928,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_13_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_13_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_13_graben_tor_y_s": {
     "bounds": [
       22,
@@ -1769,6 +2959,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_13_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -1786,6 +2995,21 @@
     "origin_y": 231,
     "unit": 64,
     "width": 172
+  },
+  "castle_13_hafen_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_13_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
   },
   "castle_13_hafen_keep": {
     "bounds": [
@@ -1889,6 +3113,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_13_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_13_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_13_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -1901,6 +3144,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_13_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -1919,7 +3181,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_13_land_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_13_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_13_land_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            190.48,
+            482.07
+          ],
+          [
+            172.98,
+            499.2
+          ],
+          [
+            172.98,
+            574.17
+          ],
+          [
+            181.73,
+            575.6
+          ],
+          [
+            190.48,
+            557.04
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       43,
       251,
@@ -2006,6 +3311,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_13_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_13_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_13_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_13_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_13_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_13_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_13_land_schildmauer_y_w": {
+    "bounds": [
+      16,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_13_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_13_land_tor_x_s": {
     "bounds": [
       22,
@@ -2018,6 +3383,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_13_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_13_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -2036,6 +3420,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_13_land_tor_y_s_pechnase": {
+    "bounds": [
+      21,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_13_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_13_land_turm_x_s": {
     "bounds": [
       26,
@@ -2051,7 +3454,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_14_graben_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_14_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_14_graben_keep": {
+    "banners": [
+      {
+        "light": 0.9773,
+        "points": [
+          [
+            113.9,
+            456.23
+          ],
+          [
+            96.73,
+            439.38
+          ],
+          [
+            96.73,
+            514.35
+          ],
+          [
+            102.61,
+            533.46
+          ],
+          [
+            113.9,
+            531.2
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       51,
       263,
@@ -2153,6 +3599,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_14_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_14_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_14_graben_tor_y_s": {
     "bounds": [
       22,
@@ -2165,6 +3630,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_14_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -2183,7 +3667,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_14_hafen_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_14_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_14_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            213.24,
+            469.22
+          ],
+          [
+            192.66,
+            485.06
+          ],
+          [
+            192.66,
+            560.03
+          ],
+          [
+            205.57,
+            562.96
+          ],
+          [
+            213.24,
+            544.19
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       51,
       226,
@@ -2285,6 +3812,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_14_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_14_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_14_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -2297,6 +3843,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_14_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -2315,7 +3880,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_14_land_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_14_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_14_land_keep": {
+    "banners": [
+      {
+        "light": 0.9773,
+        "points": [
+          [
+            115.25,
+            436.42
+          ],
+          [
+            98.09,
+            419.58
+          ],
+          [
+            98.09,
+            494.55
+          ],
+          [
+            103.89,
+            513.67
+          ],
+          [
+            115.25,
+            511.39
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       54,
       227,
@@ -2402,6 +4010,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_14_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_14_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_14_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_14_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_14_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_14_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_14_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_14_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_14_land_tor_x_s": {
     "bounds": [
       22,
@@ -2414,6 +4082,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_14_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_14_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -2432,6 +4119,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_14_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_14_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_14_land_turm_x_s": {
     "bounds": [
       40,
@@ -2447,7 +4153,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_15_graben_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_15_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_15_graben_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            122.47,
+            500.75
+          ],
+          [
+            95.27,
+            487.15
+          ],
+          [
+            95.27,
+            562.12
+          ],
+          [
+            108.87,
+            578.91
+          ],
+          [
+            122.47,
+            575.72
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       44,
       232,
@@ -2549,6 +4298,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_15_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_15_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_15_graben_tor_y_s": {
     "bounds": [
       21,
@@ -2561,6 +4329,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_graben_tor_y_s_pechnase": {
+    "bounds": [
+      21,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_15_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -2579,7 +4366,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_15_hafen_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_15_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_15_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            216.55,
+            458.51
+          ],
+          [
+            189.35,
+            472.11
+          ],
+          [
+            189.35,
+            547.08
+          ],
+          [
+            202.95,
+            550.28
+          ],
+          [
+            216.55,
+            533.48
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       38,
       272,
@@ -2681,6 +4511,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_15_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_15_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_15_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -2693,6 +4542,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_15_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -2711,7 +4579,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_15_land_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_15_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_15_land_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            213.01,
+            487.41
+          ],
+          [
+            185.81,
+            501.01
+          ],
+          [
+            185.81,
+            575.98
+          ],
+          [
+            199.41,
+            579.18
+          ],
+          [
+            213.01,
+            562.38
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       46,
       240,
@@ -2798,6 +4709,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_15_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_15_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_15_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_15_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_15_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_15_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_15_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_15_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_15_land_tor_x_s": {
     "bounds": [
       22,
@@ -2810,6 +4781,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_15_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_15_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -2828,6 +4818,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_15_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_15_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_15_land_turm_x_s": {
     "bounds": [
       26,
@@ -2843,7 +4852,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_16_graben_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_16_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_16_graben_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            122.27,
+            501.69
+          ],
+          [
+            95.07,
+            488.09
+          ],
+          [
+            95.07,
+            563.06
+          ],
+          [
+            108.67,
+            579.86
+          ],
+          [
+            122.27,
+            576.66
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       51,
       96,
@@ -2945,6 +4997,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_16_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_16_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_16_graben_tor_y_s": {
     "bounds": [
       22,
@@ -2957,6 +5028,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_16_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -2987,7 +5077,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_16_hafen_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_16_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_16_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            211.72,
+            497.66
+          ],
+          [
+            184.52,
+            511.26
+          ],
+          [
+            184.52,
+            586.23
+          ],
+          [
+            198.12,
+            589.42
+          ],
+          [
+            211.72,
+            572.63
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       54,
       107,
@@ -3089,6 +5222,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_16_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_16_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_16_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -3101,6 +5253,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_16_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -3131,7 +5302,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_16_land_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_16_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_16_land_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            214.75,
+            500.56
+          ],
+          [
+            187.55,
+            514.16
+          ],
+          [
+            187.55,
+            589.13
+          ],
+          [
+            201.15,
+            592.33
+          ],
+          [
+            214.75,
+            575.53
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       54,
       104,
@@ -3218,6 +5432,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_16_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      169,
+      255
+    ],
+    "file": "castle_16_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_16_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_16_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_16_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      169,
+      259
+    ],
+    "file": "castle_16_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_16_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_16_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_16_land_tor_x_s": {
     "bounds": [
       22,
@@ -3233,6 +5507,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_16_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_16_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_16_land_tor_y_s": {
     "bounds": [
       22,
@@ -3245,6 +5538,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_16_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_16_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -3275,7 +5587,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_17_graben_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_17_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_17_graben_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            211.55,
+            492.7
+          ],
+          [
+            184.35,
+            506.3
+          ],
+          [
+            184.35,
+            581.27
+          ],
+          [
+            197.95,
+            584.47
+          ],
+          [
+            211.55,
+            567.67
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       41,
       146,
@@ -3377,6 +5732,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_17_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_17_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_17_graben_tor_y_s": {
     "bounds": [
       22,
@@ -3389,6 +5763,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_17_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -3418,6 +5811,21 @@
     "origin_y": 231,
     "unit": 64,
     "width": 172
+  },
+  "castle_17_hafen_grossturm_x_s": {
+    "bounds": [
+      4,
+      54,
+      194,
+      354
+    ],
+    "file": "castle_17_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
   },
   "castle_17_hafen_keep": {
     "bounds": [
@@ -3521,6 +5929,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_17_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_17_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_17_hafen_tor_y_s": {
     "bounds": [
       21,
@@ -3533,6 +5960,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      21,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_17_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -3562,6 +6008,21 @@
     "origin_y": 231,
     "unit": 64,
     "width": 172
+  },
+  "castle_17_land_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_17_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
   },
   "castle_17_land_keep": {
     "bounds": [
@@ -3650,6 +6111,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_17_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_17_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_17_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_17_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_17_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_17_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_17_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_17_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_17_land_tor_x_s": {
     "bounds": [
       22,
@@ -3665,6 +6186,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_17_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_17_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_17_land_tor_y_s": {
     "bounds": [
       22,
@@ -3677,6 +6217,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_17_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_17_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -3707,7 +6266,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_18_graben_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_18_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_18_graben_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            219.06,
+            462.18
+          ],
+          [
+            191.86,
+            475.78
+          ],
+          [
+            191.86,
+            550.75
+          ],
+          [
+            205.46,
+            553.95
+          ],
+          [
+            219.06,
+            537.15
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       16,
       162,
@@ -3809,6 +6411,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_18_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_18_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_18_graben_tor_y_s": {
     "bounds": [
       22,
@@ -3821,6 +6442,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_18_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -3851,7 +6491,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_18_hafen_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      194,
+      354
+    ],
+    "file": "castle_18_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_18_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            127.74,
+            498.23
+          ],
+          [
+            100.54,
+            484.63
+          ],
+          [
+            100.54,
+            559.6
+          ],
+          [
+            114.14,
+            576.39
+          ],
+          [
+            127.74,
+            573.2
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       30,
       109,
@@ -3953,6 +6636,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_18_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_18_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_18_hafen_tor_y_s": {
     "bounds": [
       21,
@@ -3965,6 +6667,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      21,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_18_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -3995,7 +6716,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_18_land_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_18_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_18_land_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            126.48,
+            516.12
+          ],
+          [
+            99.28,
+            502.52
+          ],
+          [
+            99.28,
+            577.49
+          ],
+          [
+            112.88,
+            594.29
+          ],
+          [
+            126.48,
+            591.09
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       27,
       150,
@@ -4082,6 +6846,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_18_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      169,
+      255
+    ],
+    "file": "castle_18_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_18_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_18_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_18_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_18_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_18_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_18_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_18_land_tor_x_s": {
     "bounds": [
       22,
@@ -4097,6 +6921,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_18_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_18_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_18_land_tor_y_s": {
     "bounds": [
       22,
@@ -4109,6 +6952,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_18_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_18_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -4139,7 +7001,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_19_graben_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_19_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_19_graben_keep": {
+    "banners": [
+      {
+        "light": 0.9773,
+        "points": [
+          [
+            103.72,
+            498.67
+          ],
+          [
+            86.47,
+            481.74
+          ],
+          [
+            86.47,
+            556.71
+          ],
+          [
+            92.8,
+            575.76
+          ],
+          [
+            103.72,
+            573.64
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       51,
       105,
@@ -4241,6 +7146,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_19_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_19_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_19_graben_tor_y_s": {
     "bounds": [
       22,
@@ -4253,6 +7177,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_19_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -4283,7 +7226,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_19_hafen_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_19_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_19_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            215.42,
+            485.79
+          ],
+          [
+            194.81,
+            501.65
+          ],
+          [
+            194.81,
+            576.62
+          ],
+          [
+            207.63,
+            579.5
+          ],
+          [
+            215.42,
+            560.76
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       54,
       117,
@@ -4385,6 +7371,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_19_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_19_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_19_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -4397,6 +7402,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_19_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -4427,7 +7451,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_19_land_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_19_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_19_land_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            215.93,
+            446.01
+          ],
+          [
+            195.31,
+            461.88
+          ],
+          [
+            195.31,
+            536.85
+          ],
+          [
+            208.11,
+            539.72
+          ],
+          [
+            215.93,
+            520.98
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       54,
       94,
@@ -4514,6 +7581,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_19_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_19_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_19_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_19_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_19_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_19_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_19_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_19_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_19_land_tor_x_s": {
     "bounds": [
       22,
@@ -4529,6 +7656,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_19_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_19_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_19_land_tor_y_s": {
     "bounds": [
       22,
@@ -4541,6 +7687,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_19_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_19_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -4571,7 +7736,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_1_graben_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_1_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_1_graben_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            218.45,
+            481.09
+          ],
+          [
+            191.25,
+            494.69
+          ],
+          [
+            191.25,
+            569.66
+          ],
+          [
+            204.85,
+            572.85
+          ],
+          [
+            218.45,
+            556.06
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       17,
       89,
@@ -4673,6 +7881,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_1_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_1_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_1_graben_tor_y_s": {
     "bounds": [
       22,
@@ -4685,6 +7912,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_1_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -4715,7 +7961,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_1_hafen_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_1_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_1_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            215.53,
+            493.05
+          ],
+          [
+            188.33,
+            506.65
+          ],
+          [
+            188.33,
+            581.62
+          ],
+          [
+            201.93,
+            584.82
+          ],
+          [
+            215.53,
+            568.02
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       23,
       147,
@@ -4817,6 +8106,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_1_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_1_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_1_hafen_tor_y_s": {
     "bounds": [
       21,
@@ -4829,6 +8137,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      21,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_1_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -4859,7 +8186,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_1_land_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_1_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_1_land_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            122.33,
+            513.79
+          ],
+          [
+            95.13,
+            500.19
+          ],
+          [
+            95.13,
+            575.16
+          ],
+          [
+            108.73,
+            591.96
+          ],
+          [
+            122.33,
+            588.76
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       19,
       148,
@@ -4946,6 +8316,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_1_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_1_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_1_land_schildmauer_x_s": {
+    "bounds": [
+      16,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_1_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_1_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_1_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_1_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_1_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_1_land_tor_x_s": {
     "bounds": [
       22,
@@ -4961,6 +8391,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_1_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_1_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_1_land_tor_y_s": {
     "bounds": [
       22,
@@ -4973,6 +8422,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_1_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_1_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -5002,6 +8470,21 @@
     "origin_y": 231,
     "unit": 64,
     "width": 172
+  },
+  "castle_20_graben_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_20_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
   },
   "castle_20_graben_keep": {
     "bounds": [
@@ -5105,6 +8588,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_20_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_20_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_20_graben_tor_y_s": {
     "bounds": [
       22,
@@ -5117,6 +8619,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_20_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -5147,7 +8668,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_20_hafen_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_20_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_20_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            189.9,
+            443.17
+          ],
+          [
+            172.39,
+            460.29
+          ],
+          [
+            172.39,
+            535.26
+          ],
+          [
+            181.14,
+            536.7
+          ],
+          [
+            189.9,
+            518.14
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       45,
       103,
@@ -5249,6 +8813,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_20_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_20_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_20_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -5261,6 +8844,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_20_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -5291,7 +8893,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_20_land_grossturm_x_s": {
+    "bounds": [
+      4,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_20_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_20_land_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            124.61,
+            496.22
+          ],
+          [
+            97.41,
+            482.62
+          ],
+          [
+            97.41,
+            557.59
+          ],
+          [
+            111.01,
+            574.39
+          ],
+          [
+            124.61,
+            571.19
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       47,
       85,
@@ -5378,6 +9023,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_20_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_20_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_20_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_20_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_20_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_20_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_20_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_20_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_20_land_tor_x_s": {
     "bounds": [
       22,
@@ -5393,6 +9098,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_20_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_20_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_20_land_tor_y_s": {
     "bounds": [
       22,
@@ -5405,6 +9129,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_20_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_20_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -5435,7 +9178,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_21_graben_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_21_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_21_graben_keep": {
+    "banners": [
+      {
+        "light": 0.9773,
+        "points": [
+          [
+            106.96,
+            460.85
+          ],
+          [
+            89.72,
+            443.94
+          ],
+          [
+            89.72,
+            518.91
+          ],
+          [
+            95.93,
+            537.97
+          ],
+          [
+            106.96,
+            535.82
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       51,
       172,
@@ -5537,6 +9323,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_21_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_21_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_21_graben_tor_y_s": {
     "bounds": [
       22,
@@ -5549,6 +9354,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_21_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -5579,7 +9403,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_21_hafen_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_21_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_21_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.9773,
+        "points": [
+          [
+            103.28,
+            442.88
+          ],
+          [
+            86.02,
+            425.95
+          ],
+          [
+            86.02,
+            500.92
+          ],
+          [
+            92.37,
+            519.97
+          ],
+          [
+            103.28,
+            517.85
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       54,
       129,
@@ -5681,6 +9548,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_21_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_21_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_21_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -5693,6 +9579,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_21_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -5722,6 +9627,21 @@
     "origin_y": 231,
     "unit": 64,
     "width": 172
+  },
+  "castle_21_land_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_21_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
   },
   "castle_21_land_keep": {
     "bounds": [
@@ -5810,6 +9730,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_21_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_21_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_21_land_schildmauer_x_s": {
+    "bounds": [
+      16,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_21_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_21_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      169,
+      259
+    ],
+    "file": "castle_21_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_21_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_21_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_21_land_tor_x_s": {
     "bounds": [
       22,
@@ -5825,6 +9805,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_21_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_21_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_21_land_tor_y_s": {
     "bounds": [
       22,
@@ -5837,6 +9836,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_21_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_21_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -5867,7 +9885,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_22_graben_grossturm_x_s": {
+    "bounds": [
+      4,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_22_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_22_graben_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            211.48,
+            474.92
+          ],
+          [
+            184.28,
+            488.52
+          ],
+          [
+            184.28,
+            563.49
+          ],
+          [
+            197.88,
+            566.69
+          ],
+          [
+            211.48,
+            549.89
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       49,
       169,
@@ -5969,6 +10030,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_22_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_22_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_22_graben_tor_y_s": {
     "bounds": [
       22,
@@ -5981,6 +10061,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_22_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -5999,7 +10098,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_22_hafen_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_22_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_22_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            216.68,
+            451.97
+          ],
+          [
+            189.48,
+            465.57
+          ],
+          [
+            189.48,
+            540.54
+          ],
+          [
+            203.08,
+            543.74
+          ],
+          [
+            216.68,
+            526.94
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       27,
       188,
@@ -6101,6 +10243,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_22_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_22_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_22_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -6113,6 +10274,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_22_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -6131,7 +10311,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_22_land_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_22_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_22_land_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            126.21,
+            497.4
+          ],
+          [
+            99.01,
+            483.8
+          ],
+          [
+            99.01,
+            558.77
+          ],
+          [
+            112.61,
+            575.57
+          ],
+          [
+            126.21,
+            572.37
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       33,
       163,
@@ -6218,6 +10441,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_22_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_22_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_22_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_22_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_22_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_22_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_22_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_22_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_22_land_tor_x_s": {
     "bounds": [
       21,
@@ -6230,6 +10513,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_22_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_22_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -6248,6 +10550,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_22_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_22_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_22_land_turm_x_s": {
     "bounds": [
       26,
@@ -6263,7 +10584,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_23_graben_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_23_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_23_graben_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            127.16,
+            471.5
+          ],
+          [
+            99.96,
+            457.9
+          ],
+          [
+            99.96,
+            532.87
+          ],
+          [
+            113.56,
+            549.67
+          ],
+          [
+            127.16,
+            546.47
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       51,
       167,
@@ -6365,6 +10729,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_23_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_23_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_23_graben_tor_y_s": {
     "bounds": [
       22,
@@ -6377,6 +10760,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_23_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -6407,7 +10809,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_23_hafen_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_23_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_23_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            126.01,
+            507.75
+          ],
+          [
+            98.81,
+            494.15
+          ],
+          [
+            98.81,
+            569.12
+          ],
+          [
+            112.41,
+            585.92
+          ],
+          [
+            126.01,
+            582.72
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       54,
       171,
@@ -6509,6 +10954,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_23_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      151,
+      275
+    ],
+    "file": "castle_23_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_23_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -6521,6 +10985,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_23_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -6551,7 +11034,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_23_land_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_23_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_23_land_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            122.44,
+            503.61
+          ],
+          [
+            95.24,
+            490.01
+          ],
+          [
+            95.24,
+            564.98
+          ],
+          [
+            108.84,
+            581.77
+          ],
+          [
+            122.44,
+            578.58
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       54,
       170,
@@ -6638,6 +11164,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_23_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_23_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_23_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_23_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_23_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_23_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_23_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_23_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_23_land_tor_x_s": {
     "bounds": [
       22,
@@ -6653,6 +11239,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_23_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_23_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_23_land_tor_y_s": {
     "bounds": [
       21,
@@ -6665,6 +11270,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_23_land_tor_y_s_pechnase": {
+    "bounds": [
+      21,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_23_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -6695,7 +11319,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_24_graben_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_24_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_24_graben_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            137.02,
+            500.02
+          ],
+          [
+            109.82,
+            486.42
+          ],
+          [
+            109.82,
+            561.39
+          ],
+          [
+            123.42,
+            578.18
+          ],
+          [
+            137.02,
+            574.99
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       54,
       258,
@@ -6797,6 +11464,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_24_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_24_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_24_graben_tor_y_s": {
     "bounds": [
       22,
@@ -6809,6 +11495,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_24_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -6827,7 +11532,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_24_hafen_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_24_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_24_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            211.62,
+            433.95
+          ],
+          [
+            184.42,
+            447.55
+          ],
+          [
+            184.42,
+            522.52
+          ],
+          [
+            198.02,
+            525.72
+          ],
+          [
+            211.62,
+            508.92
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       51,
       234,
@@ -6929,6 +11677,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_24_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_24_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_24_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -6941,6 +11708,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_24_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -6959,7 +11745,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_24_land_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_24_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_24_land_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            215.15,
+            456.54
+          ],
+          [
+            187.95,
+            470.14
+          ],
+          [
+            187.95,
+            545.11
+          ],
+          [
+            201.55,
+            548.31
+          ],
+          [
+            215.15,
+            531.51
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       51,
       265,
@@ -7046,6 +11875,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_24_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      169,
+      255
+    ],
+    "file": "castle_24_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_24_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_24_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_24_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_24_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_24_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_24_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_24_land_tor_x_s": {
     "bounds": [
       22,
@@ -7058,6 +11947,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_24_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_24_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -7076,6 +11984,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_24_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_24_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_24_land_turm_x_s": {
     "bounds": [
       26,
@@ -7091,7 +12018,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_25_graben_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_25_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_25_graben_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            218.83,
+            482.22
+          ],
+          [
+            191.63,
+            495.82
+          ],
+          [
+            191.63,
+            570.79
+          ],
+          [
+            205.23,
+            573.98
+          ],
+          [
+            218.83,
+            557.19
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       30,
       170,
@@ -7193,6 +12163,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_25_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_25_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_25_graben_tor_y_s": {
     "bounds": [
       22,
@@ -7205,6 +12194,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_25_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -7235,7 +12243,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_25_hafen_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_25_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_25_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            220.22,
+            453.65
+          ],
+          [
+            193.02,
+            467.25
+          ],
+          [
+            193.02,
+            542.22
+          ],
+          [
+            206.62,
+            545.41
+          ],
+          [
+            220.22,
+            528.62
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       27,
       197,
@@ -7337,6 +12388,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_25_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_25_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_25_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -7349,6 +12419,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_25_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -7379,7 +12468,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_25_land_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_25_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_25_land_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            215.49,
+            448.04
+          ],
+          [
+            188.29,
+            461.64
+          ],
+          [
+            188.29,
+            536.61
+          ],
+          [
+            201.89,
+            539.8
+          ],
+          [
+            215.49,
+            523.01
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       37,
       185,
@@ -7466,6 +12598,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_25_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      169,
+      255
+    ],
+    "file": "castle_25_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_25_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_25_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_25_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      169,
+      259
+    ],
+    "file": "castle_25_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_25_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_25_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_25_land_tor_x_s": {
     "bounds": [
       22,
@@ -7481,6 +12673,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_25_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_25_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_25_land_tor_y_s": {
     "bounds": [
       22,
@@ -7493,6 +12704,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_25_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_25_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -7523,7 +12753,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_2_graben_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_2_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_2_graben_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            125.6,
+            502.23
+          ],
+          [
+            98.4,
+            488.63
+          ],
+          [
+            98.4,
+            563.6
+          ],
+          [
+            112.0,
+            580.4
+          ],
+          [
+            125.6,
+            577.2
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       51,
       155,
@@ -7625,6 +12898,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_2_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_2_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_2_graben_tor_y_s": {
     "bounds": [
       22,
@@ -7637,6 +12929,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_2_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -7666,6 +12977,21 @@
     "origin_y": 231,
     "unit": 64,
     "width": 172
+  },
+  "castle_2_hafen_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_2_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
   },
   "castle_2_hafen_keep": {
     "bounds": [
@@ -7769,6 +13095,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_2_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_2_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_2_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -7781,6 +13126,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_2_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -7811,7 +13175,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_2_land_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_2_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_2_land_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            217.57,
+            495.56
+          ],
+          [
+            190.37,
+            509.16
+          ],
+          [
+            190.37,
+            584.13
+          ],
+          [
+            203.97,
+            587.32
+          ],
+          [
+            217.57,
+            570.53
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       54,
       172,
@@ -7898,6 +13305,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_2_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      169,
+      255
+    ],
+    "file": "castle_2_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_2_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_2_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_2_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      169,
+      259
+    ],
+    "file": "castle_2_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_2_land_schildmauer_y_w": {
+    "bounds": [
+      16,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_2_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_2_land_tor_x_s": {
     "bounds": [
       22,
@@ -7913,6 +13380,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_2_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_2_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_2_land_tor_y_s": {
     "bounds": [
       22,
@@ -7925,6 +13411,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_2_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_2_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -7955,7 +13460,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_3_graben_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_3_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_3_graben_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            136.95,
+            502.21
+          ],
+          [
+            109.75,
+            488.61
+          ],
+          [
+            109.75,
+            563.58
+          ],
+          [
+            123.35,
+            580.38
+          ],
+          [
+            136.95,
+            577.18
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       51,
       196,
@@ -8057,6 +13605,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_3_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_3_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_3_graben_tor_y_s": {
     "bounds": [
       22,
@@ -8069,6 +13636,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_3_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -8098,6 +13684,21 @@
     "origin_y": 231,
     "unit": 64,
     "width": 172
+  },
+  "castle_3_hafen_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_3_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
   },
   "castle_3_hafen_keep": {
     "bounds": [
@@ -8201,6 +13802,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_3_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_3_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_3_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -8213,6 +13833,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_3_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -8243,7 +13882,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_3_land_grossturm_x_s": {
+    "bounds": [
+      4,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_3_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_3_land_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            212.43,
+            449.92
+          ],
+          [
+            185.23,
+            463.52
+          ],
+          [
+            185.23,
+            538.49
+          ],
+          [
+            198.83,
+            541.69
+          ],
+          [
+            212.43,
+            524.89
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       51,
       181,
@@ -8330,6 +14012,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_3_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_3_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_3_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_3_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_3_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      169,
+      259
+    ],
+    "file": "castle_3_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_3_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_3_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_3_land_tor_x_s": {
     "bounds": [
       22,
@@ -8345,6 +14087,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_3_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_3_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_3_land_tor_y_s": {
     "bounds": [
       21,
@@ -8357,6 +14118,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_3_land_tor_y_s_pechnase": {
+    "bounds": [
+      21,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_3_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -8387,7 +14167,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_4_graben_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_4_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_4_graben_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            214.37,
+            475.27
+          ],
+          [
+            187.17,
+            488.87
+          ],
+          [
+            187.17,
+            563.84
+          ],
+          [
+            200.77,
+            567.03
+          ],
+          [
+            214.37,
+            550.24
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       31,
       163,
@@ -8489,6 +14312,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_4_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_4_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_4_graben_tor_y_s": {
     "bounds": [
       22,
@@ -8501,6 +14343,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_4_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -8519,7 +14380,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_4_hafen_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_4_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_4_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            212.94,
+            481.13
+          ],
+          [
+            185.74,
+            494.73
+          ],
+          [
+            185.74,
+            569.7
+          ],
+          [
+            199.34,
+            572.9
+          ],
+          [
+            212.94,
+            556.1
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       34,
       154,
@@ -8621,6 +14525,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_4_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_4_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_4_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -8633,6 +14556,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_4_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -8650,6 +14592,21 @@
     "origin_y": 231,
     "unit": 64,
     "width": 172
+  },
+  "castle_4_land_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_4_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
   },
   "castle_4_land_keep": {
     "bounds": [
@@ -8738,6 +14695,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_4_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_4_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_4_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_4_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_4_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_4_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_4_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_4_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_4_land_tor_x_s": {
     "bounds": [
       22,
@@ -8750,6 +14767,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_4_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_4_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -8768,6 +14804,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_4_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_4_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_4_land_turm_x_s": {
     "bounds": [
       26,
@@ -8783,7 +14838,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_5_graben_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_5_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_5_graben_keep": {
+    "banners": [
+      {
+        "light": 0.9773,
+        "points": [
+          [
+            109.8,
+            483.42
+          ],
+          [
+            92.59,
+            466.54
+          ],
+          [
+            92.59,
+            541.51
+          ],
+          [
+            98.67,
+            560.59
+          ],
+          [
+            109.8,
+            558.39
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       51,
       156,
@@ -8885,6 +14983,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_5_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_5_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_5_graben_tor_y_s": {
     "bounds": [
       21,
@@ -8897,6 +15014,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_graben_tor_y_s_pechnase": {
+    "bounds": [
+      21,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_5_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -8927,7 +15063,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_5_hafen_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_5_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_5_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            221.72,
+            444.54
+          ],
+          [
+            201.04,
+            460.45
+          ],
+          [
+            201.04,
+            535.42
+          ],
+          [
+            213.64,
+            538.19
+          ],
+          [
+            221.72,
+            519.51
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       48,
       156,
@@ -9029,6 +15208,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_5_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_5_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_5_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -9041,6 +15239,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_5_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -9070,6 +15287,21 @@
     "origin_y": 231,
     "unit": 64,
     "width": 172
+  },
+  "castle_5_land_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_5_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
   },
   "castle_5_land_keep": {
     "bounds": [
@@ -9158,6 +15390,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_5_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_5_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_5_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_5_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_5_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_5_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_5_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_5_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_5_land_tor_x_s": {
     "bounds": [
       22,
@@ -9173,6 +15465,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_5_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_5_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_5_land_tor_y_s": {
     "bounds": [
       22,
@@ -9185,6 +15496,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_5_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_5_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -9215,7 +15545,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_6_graben_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_6_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_6_graben_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            190.89,
+            493.54
+          ],
+          [
+            173.39,
+            510.67
+          ],
+          [
+            173.39,
+            585.64
+          ],
+          [
+            182.14,
+            587.07
+          ],
+          [
+            190.89,
+            568.51
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       42,
       122,
@@ -9317,6 +15690,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_6_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_6_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_6_graben_tor_y_s": {
     "bounds": [
       22,
@@ -9329,6 +15721,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_6_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -9359,7 +15770,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_6_hafen_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      194,
+      354
+    ],
+    "file": "castle_6_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_6_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            125.19,
+            512.23
+          ],
+          [
+            97.99,
+            498.63
+          ],
+          [
+            97.99,
+            573.6
+          ],
+          [
+            111.59,
+            590.4
+          ],
+          [
+            125.19,
+            587.2
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       49,
       145,
@@ -9461,6 +15915,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_6_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_6_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_6_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -9473,6 +15946,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_6_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -9503,7 +15995,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_6_land_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_6_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_6_land_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            120.5,
+            512.49
+          ],
+          [
+            93.3,
+            498.89
+          ],
+          [
+            93.3,
+            573.86
+          ],
+          [
+            106.9,
+            590.66
+          ],
+          [
+            120.5,
+            587.46
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       39,
       107,
@@ -9590,6 +16125,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_6_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_6_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_6_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_6_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_6_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_6_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_6_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_6_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_6_land_tor_x_s": {
     "bounds": [
       22,
@@ -9605,6 +16200,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_6_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_6_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_6_land_tor_y_s": {
     "bounds": [
       22,
@@ -9617,6 +16231,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_6_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_6_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -9646,6 +16279,21 @@
     "origin_y": 231,
     "unit": 64,
     "width": 172
+  },
+  "castle_7_graben_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_7_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
   },
   "castle_7_graben_keep": {
     "bounds": [
@@ -9749,6 +16397,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_7_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_7_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_7_graben_tor_y_s": {
     "bounds": [
       22,
@@ -9761,6 +16428,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_7_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -9791,7 +16477,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_7_hafen_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_7_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_7_hafen_keep": {
+    "banners": [
+      {
+        "light": 0.9773,
+        "points": [
+          [
+            103.63,
+            491.38
+          ],
+          [
+            86.38,
+            474.45
+          ],
+          [
+            86.38,
+            549.42
+          ],
+          [
+            92.71,
+            568.47
+          ],
+          [
+            103.63,
+            566.35
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       51,
       89,
@@ -9893,6 +16622,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_7_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_7_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_7_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -9905,6 +16653,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_7_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -9935,7 +16702,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_7_land_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_7_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_7_land_keep": {
+    "banners": [
+      {
+        "light": 0.63,
+        "points": [
+          [
+            214.78,
+            466.78
+          ],
+          [
+            194.18,
+            482.64
+          ],
+          [
+            194.18,
+            557.61
+          ],
+          [
+            207.02,
+            560.5
+          ],
+          [
+            214.78,
+            541.75
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       51,
       84,
@@ -10022,6 +16832,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_7_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_7_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_7_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_7_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_7_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_7_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_7_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_7_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_7_land_tor_x_s": {
     "bounds": [
       22,
@@ -10037,6 +16907,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_7_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_7_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_7_land_tor_y_s": {
     "bounds": [
       22,
@@ -10049,6 +16938,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_7_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_7_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -10078,6 +16986,21 @@
     "origin_y": 231,
     "unit": 64,
     "width": 172
+  },
+  "castle_8_graben_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_8_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
   },
   "castle_8_graben_keep": {
     "bounds": [
@@ -10181,6 +17104,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_8_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      151,
+      275
+    ],
+    "file": "castle_8_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_8_graben_tor_y_s": {
     "bounds": [
       22,
@@ -10193,6 +17135,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_graben_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_8_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -10222,6 +17183,21 @@
     "origin_y": 231,
     "unit": 64,
     "width": 172
+  },
+  "castle_8_hafen_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_8_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
   },
   "castle_8_hafen_keep": {
     "bounds": [
@@ -10325,6 +17301,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_8_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_8_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_8_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -10337,6 +17332,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_8_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -10367,7 +17381,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_8_land_grossturm_x_s": {
+    "bounds": [
+      5,
+      54,
+      193,
+      354
+    ],
+    "file": "castle_8_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_8_land_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            124.41,
+            507.11
+          ],
+          [
+            97.21,
+            493.51
+          ],
+          [
+            97.21,
+            568.48
+          ],
+          [
+            110.81,
+            585.28
+          ],
+          [
+            124.41,
+            582.08
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       37,
       186,
@@ -10454,6 +17511,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_8_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_8_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_8_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_8_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_8_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_8_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_8_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_8_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_8_land_tor_x_s": {
     "bounds": [
       22,
@@ -10469,6 +17586,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_8_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_8_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_8_land_tor_y_s": {
     "bounds": [
       22,
@@ -10481,6 +17617,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_8_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_8_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -10510,6 +17665,21 @@
     "origin_y": 231,
     "unit": 64,
     "width": 172
+  },
+  "castle_9_graben_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_9_graben_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
   },
   "castle_9_graben_keep": {
     "bounds": [
@@ -10613,6 +17783,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_9_graben_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_9_graben_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_9_graben_tor_y_s": {
     "bounds": [
       21,
@@ -10625,6 +17814,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_graben_tor_y_s_pechnase": {
+    "bounds": [
+      21,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_9_graben_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -10642,6 +17850,21 @@
     "origin_y": 231,
     "unit": 64,
     "width": 172
+  },
+  "castle_9_hafen_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_9_hafen_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
   },
   "castle_9_hafen_keep": {
     "bounds": [
@@ -10745,6 +17968,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_9_hafen_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_9_hafen_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_9_hafen_tor_y_s": {
     "bounds": [
       22,
@@ -10757,6 +17999,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_hafen_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_9_hafen_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },
@@ -10775,7 +18036,50 @@
     "unit": 64,
     "width": 172
   },
+  "castle_9_land_grossturm_x_s": {
+    "bounds": [
+      30,
+      54,
+      168,
+      341
+    ],
+    "file": "castle_9_land_grossturm_x_s.png",
+    "flags": [],
+    "height": 373,
+    "origin_x": 99,
+    "origin_y": 274,
+    "unit": 64,
+    "width": 198
+  },
   "castle_9_land_keep": {
+    "banners": [
+      {
+        "light": 0.9685,
+        "points": [
+          [
+            120.8,
+            462.12
+          ],
+          [
+            93.6,
+            448.52
+          ],
+          [
+            93.6,
+            523.49
+          ],
+          [
+            107.2,
+            540.29
+          ],
+          [
+            120.8,
+            537.09
+          ]
+        ],
+        "ratio": 2.625
+      }
+    ],
     "bounds": [
       51,
       258,
@@ -10862,6 +18166,66 @@
     "unit": 64,
     "width": 172
   },
+  "castle_9_land_schildmauer_x_n": {
+    "bounds": [
+      26,
+      64,
+      168,
+      255
+    ],
+    "file": "castle_9_land_schildmauer_x_n.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_9_land_schildmauer_x_s": {
+    "bounds": [
+      17,
+      85,
+      159,
+      259
+    ],
+    "file": "castle_9_land_schildmauer_x_s.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_9_land_schildmauer_y_o": {
+    "bounds": [
+      26,
+      85,
+      168,
+      259
+    ],
+    "file": "castle_9_land_schildmauer_y_o.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
+  "castle_9_land_schildmauer_y_w": {
+    "bounds": [
+      17,
+      64,
+      159,
+      255
+    ],
+    "file": "castle_9_land_schildmauer_y_w.png",
+    "flags": [],
+    "height": 281,
+    "origin_x": 93,
+    "origin_y": 189,
+    "unit": 64,
+    "width": 185
+  },
   "castle_9_land_tor_x_s": {
     "bounds": [
       22,
@@ -10877,6 +18241,25 @@
     "unit": 64,
     "width": 172
   },
+  "castle_9_land_tor_x_s_pechnase": {
+    "bounds": [
+      14,
+      87,
+      150,
+      275
+    ],
+    "file": "castle_9_land_tor_x_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      -35.2,
+      -15.6
+    ],
+    "unit": 64,
+    "width": 172
+  },
   "castle_9_land_tor_y_s": {
     "bounds": [
       22,
@@ -10889,6 +18272,25 @@
     "height": 296,
     "origin_x": 86,
     "origin_y": 210,
+    "unit": 64,
+    "width": 172
+  },
+  "castle_9_land_tor_y_s_pechnase": {
+    "bounds": [
+      22,
+      87,
+      158,
+      275
+    ],
+    "file": "castle_9_land_tor_y_s_pechnase.png",
+    "flags": [],
+    "height": 296,
+    "origin_x": 86,
+    "origin_y": 210,
+    "pechnase": [
+      35.9,
+      -15.6
+    ],
     "unit": 64,
     "width": 172
   },

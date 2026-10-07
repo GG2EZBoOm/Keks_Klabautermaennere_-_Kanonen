@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "columns": 20,
+  "actions": [
+    "idle",
+    "walk",
+    "charge",
+    "melee",
+    "shoot",
+    "fall"
+  ],
+  "phases": [
+    1,
+    12,
+    12,
+    16,
+    24,
+    16
+  ],
+  "width": 210,
+  "height": 210,
+  "footX": 105,
+  "footY": 178,
+  "maxBorder": 0
+}

@@ -1,0 +1,22 @@
+{
+  "flammen": {
+    "datei": "burg_flammen.png",
+    "bilder": 16,
+    "breite": 48,
+    "hoehe": 72,
+    "fuss": [
+      24,
+      66
+    ]
+  },
+  "rauch": {
+    "datei": "burg_rauch.png",
+    "bilder": 16,
+    "breite": 64,
+    "hoehe": 64,
+    "fuss": [
+      32,
+      48
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "columns": 25,
+  "actions": [
+    "idle",
+    "shoot"
+  ],
+  "phases": [
+    1,
+    96
+  ],
+  "width": 72,
+  "height": 108
+}

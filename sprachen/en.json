@@ -5,6 +5,7 @@
     "An (Monitorfrequenz)": "On (display refresh rate)",
     "Aus (unbegrenzt)": "Off (unlimited)",
     "Spieldateien werden mit dem aktuellen Stand verglichen …": "Comparing game files with the latest version …",
+    "Spieldateien prüfen: {1} von {2} …": "Checking game files: {1} of {2} …",
     "Update wird geladen …": "Downloading update …",
     "Update wird geladen: {1} von {2} Dateien ({3} von {4} MB) …": "Downloading update: {1} of {2} files ({3} of {4} MB) …",
     "Update wird eingespielt …": "Installing update …",

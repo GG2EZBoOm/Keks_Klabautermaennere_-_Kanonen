@@ -1,0 +1,6 @@
+UPDATE: SCHNELLERER SPIELBEITRITT
+
+Spiel schliessen und diesen ZIP-Inhalt in den vorhandenen vollstaendigen Clientordner entpacken. Dateien ersetzen.
+DirectX 11 und Vulkan sind enthalten.
+Unveraenderte Spieldateien werden nach der ersten vollstaendigen Pruefung ueber einen lokalen Cache erkannt.
+Der alte Button Niederlassung und Stadtgruendung in der Stadtuebersicht wurde entfernt. Der Ausbau ist im Rathaus des Gruendungsortes erreichbar.

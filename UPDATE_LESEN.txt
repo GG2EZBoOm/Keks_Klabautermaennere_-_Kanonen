@@ -1,20 +1,18 @@
-LOKALES INTEGRATIONSPAKET – 08.10.2026
+LOKALES CLIENT-UPDATE – 08.10.2026
 
-DirectX 11 und Vulkan: Reiseereignisse, Denkmalaktionen und Grafikoptimierungen.
-Die bisherigen Beitritts-, Stadtgruendungs-, Hanse- und Kirchenkorrekturen bleiben erhalten.
+DirectX 11 und Vulkan. Ressourcen als mittig zentrierte horizontale Leiste, Ereignisoption,
+Stadtstatistiken, Kontorproduktion und Lagerlimits, Matrosenverluste.
+Die früheren Reise-, Denkmal-, Beitritts-, Stadtgründungs-, Hanse- und
+Kirchenänderungen sind enthalten.
 
-Voraussetzung: vorhandener vollstaendiger Client. Dieses ZIP ist ein kumulativer
-Ergaenzungspatch und enthaelt auch die Dateien des Beitritts-Patches.
-Spiel beenden, ZIP neben abbild_client.exe entpacken und Dateien ersetzen.
-Zugangsdaten, Einstellungen und Spielstaende bleiben bestehen.
+Voraussetzung: vorhandener vollständiger Client. Spiel beenden, dieses
+kumulative ZIP neben abbild_client.exe entpacken und Dateien ersetzen.
+Einstellungen, Zugangsdaten und Spielstände werden nicht ersetzt.
 
-Die neuen Spielregeln brauchen ausserdem den dazugehoerigen Serverstand.
-Dieses Paket und die Serverquellen wurden nur lokal zusammengefuehrt.
-Es erfolgte keine Veroeffentlichung und keine Serveraktualisierung.
+Die Spielregeln und neuen Gebäudemenüs benötigen zusätzlich die passenden
+Serverquellen. Quellen und Paket sind hier nur lokal vorbereitet.
+Keine Veröffentlichung, kein Zugriff auf den VPS, kein Serverupdate.
 
-BEKANNTER OFFENER PUNKT DER QUELLARBEITEN:
-Die 38 Reisegegenstaende und 5 neuen Denkmal-Artefakte besitzen Inventarbilder
-und Browsermodelle. Im nativen C++-Charakterkatalog der Quellchats fehlen
-diese Modelle noch; angelegte neue Gegenstaende erscheinen deshalb dort
-noch nicht als eigene 3D-Modelle. Auch ihre native Slot-Vorauswahl muss
-noch an recommended_slot angebunden werden.
+Bekannter übernommener Quellstand: Die 43 neuen Reise- und Denkmalgegenstände
+haben Bilder und Browsermodelle; ihre eigenen nativen 3D-Modelle und die
+native Vorauswahl anhand recommended_slot fehlen noch in den Quellarbeiten.

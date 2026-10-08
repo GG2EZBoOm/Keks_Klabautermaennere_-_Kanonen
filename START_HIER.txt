@@ -81,7 +81,8 @@ ueber einer Entscheidung zeigt die moeglichen Auswirkungen. Ein Klick entscheide
 direkt; das Ergebnis erscheint dort und die Jagd geht ohne Zwischenfenster weiter.
 Fuer diese Menues muss auch der Server die Ereignis-Datenendpunkte unterstuetzen.
 Stadtmarker anklicken oder C: Stadtansicht. Ziehen/WASD und Mausrad bewegen die
-Stadtkamera, Gebaeude anklicken zeigt Details. C kehrt zur Weltkarte zurueck. Escape oeffnet das Spielmenue: Fortsetzen, Optionen, Hauptmenue, Spiel beenden.
+Stadtkamera, Gebaeude anklicken zeigt Details. C kehrt zur Weltkarte zurueck.
+Escape oeffnet ingame das Spielmenue: Fortsetzen, Optionen, Hauptmenue, Spiel beenden.
 Rechtsklick auf eine freie Kachel: Baukatalog fuer genau dieses Feld.
 Das Baumenue zeigt Arbeitskosten, Materialbedarf und Bauzeit ohne Emojis.
 Produktionsgebaeude tragen das Warenbild ihrer produzierten Ressource.

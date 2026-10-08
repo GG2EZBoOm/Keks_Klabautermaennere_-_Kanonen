@@ -1,7 +1,8 @@
 LOKALES CLIENT-UPDATE – 08.10.2026
 
 DirectX 11 und Vulkan. Ressourcen als mittig zentrierte horizontale Leiste, Ereignisoption,
-Stadtstatistiken, Kontorproduktion und Lagerlimits, Matrosenverluste.
+Stadtstatistiken einschließlich Arbeitslosenquote, Kontorproduktion und
+Lagerlimits, Matrosenverluste.
 Die früheren Reise-, Denkmal-, Beitritts-, Stadtgründungs-, Hanse- und
 Kirchenänderungen sind enthalten.
 
@@ -9,8 +10,10 @@ Voraussetzung: vorhandener vollständiger Client. Spiel beenden, dieses
 kumulative ZIP neben abbild_client.exe entpacken und Dateien ersetzen.
 Einstellungen, Zugangsdaten und Spielstände werden nicht ersetzt.
 
+WICHTIG: Ein Upload dieses ZIPs auf GitHub aktualisiert nur die Clients.
+Kontor- und Rathausmenüs werden vom laufenden Spielserver geliefert.
 Die Spielregeln und neuen Gebäudemenüs benötigen zusätzlich die passenden
-Serverquellen. Quellen und Paket sind hier nur lokal vorbereitet.
+Serverquellen und einen Neustart des Serverprozesses. Quellen und Paket sind hier nur lokal vorbereitet.
 Keine Veröffentlichung, kein Zugriff auf den VPS, kein Serverupdate.
 
 Bekannter übernommener Quellstand: Die 43 neuen Reise- und Denkmalgegenstände

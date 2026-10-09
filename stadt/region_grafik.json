@@ -14,7 +14,7 @@
   "kirche_nord": {
     "datei": "region_kirche_nord.png",
     "bboxL": 36,
-    "bboxT": 210,
+    "bboxT": 199,
     "bboxR": 427,
     "bboxB": 608,
     "skalierungsfaktor": 0.9583,

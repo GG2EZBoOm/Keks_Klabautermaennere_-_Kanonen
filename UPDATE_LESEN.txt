@@ -1,7 +1,25 @@
-CLIENT-UPDATE - 09.10.2026
+CLIENT-PATCH WELTKARTE – 09.10.2026
 
-DirectX 11 und Vulkan. Bug melden ist jetzt im Esc-Menue unter Optionen. Der dauerhafte Button ueber dem Spiel entfaellt. Der Menuepunkt zeigt laufende Aufnahmen und gespeicherte Berichte an. F8 bleibt zum Starten und Stoppen verfuegbar.
+Für den aktuellen regulären Client mit dem Update
+Die-Hanse-Client-Update-Bugmeldung-Esc-20261009.zip.
+Dieses ZIP enthält ausschließlich neue/geänderte Dateien gegenüber diesem Stand.
+Eine vollständige vorhandene Clientinstallation ist erforderlich.
 
-Spiel beenden, dieses kumulative ZIP neben abbild_client.exe entpacken und Dateien ersetzen. Vorhandener vollstaendiger Client erforderlich. Einstellungen und Zugaenge bleiben erhalten.
+1. Spiel schließen.
+2. ZIP vollständig in den bestehenden Clientordner neben abbild_client.exe
+   entpacken und vorhandene Dateien ersetzen.
+3. Wie gewohnt abbild_client.exe starten. Die Grafikauswahl in den Optionen
+   startet weiterhin DirectX 11 oder Vulkan.
 
-Enthaelt alle Aenderungen des Client-Updates Schiff-Schenken vom 09.10.2026. Fuer die Verlagerung des Buttons ist keine Serveraenderung erforderlich.
+Die neue Weltkarte mit Landschaft und Pergamentrand ist im regulären Client
+aktiv. Enthalten sind auch die Escape-Korrekturen, die korrigierte nordische
+Kirche und die Treant-Animationen aus dem zusammengeführten Atlasstand.
+Alle bisherigen Clientfunktionen einschließlich Schiffsgeschenken und
+Bugmeldung im Esc-Menü bleiben enthalten.
+
+Zusätzliche Regionen werden nur nach den bestätigten Entdeckungen des
+jeweiligen Spielers angezeigt. Mitgeliefert wird zunächst die Basisregion;
+neue Reiseziele wurden auf dem Server nicht angelegt.
+
+Die unveränderten 3D-Datenpakete sind bewusst nicht erneut enthalten.
+Keine Spieldaten, Zugangsdaten oder Serverkonfigurationen im Patch.

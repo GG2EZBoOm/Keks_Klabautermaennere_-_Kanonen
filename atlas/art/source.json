@@ -1,0 +1,15 @@
+{
+  "sha256": "731db6ee58c29df4e3f872b7f4b2c38c9f510b8231ae831a95a13c3fc7328d2b",
+  "renderer": "bergfried.LICHT/MATERIAL, boden.wiese/strand, natur.Maler",
+  "mountains": "continuous height field, no individual mountain sprites",
+  "stone": [
+    136,
+    132,
+    122
+  ],
+  "projected_light": [
+    -0.77,
+    -0.47,
+    0.77
+  ]
+}

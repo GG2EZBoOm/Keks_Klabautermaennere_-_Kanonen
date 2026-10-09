@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "regions": [
+    {
+      "id": "base",
+      "name": "Die bekannte Welt",
+      "source": "basiskarte_ohne_namen.png",
+      "water": "wassermaske_manuell.png",
+      "forest": "waldmaske_manuell.png",
+      "mountains": "hochgebirgsmaske_manuell.png",
+      "legacy_frame": true
+    }
+  ]
+}

@@ -137,7 +137,12 @@ BEI PROBLEMEN
 - Windows N: fuer Video und Ton wird das Windows Media Feature Pack benoetigt.
   Voraussetzung fuer diese Ausgabe ist Windows 10/11 (64 Bit) mit Direct3D 11.
 
-NEUER KOMPLETTCLIENT — 09.10.2026
+NEUER KOMPLETTCLIENT — SCHIFFSAUSBAU UND GESELLSCHAFTEN
+Sichtbare Schiffsausruestung auf Karte und im Hafen. Getrennte Ausbaukategorien.
+Seemonster mit Wasserlinie. Reichsuebersicht laesst sich wieder verlassen.
+Klare Rueckmeldung beim Anlegen von Handelsgesellschaften.
+Server: Gesellschaften ohne Fuenfergrenze, KI-Frachtauftraege und hoehere Ausbaupreise.
+Bestehende Strassenverlaeufe wurden auf dem Server erneuert.
 Enthaelt Weltkarte und Wolkenvarianten, den neuen Windkompass,
 kleinere Schiffe/Seemonster, Grafikoptionen und Schiffsausbau.
 Gepruefte Update-Downloads bleiben bei einem Fehler fuer den naechsten Versuch erhalten.

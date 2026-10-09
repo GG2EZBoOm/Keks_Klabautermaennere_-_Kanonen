@@ -1,19 +1,24 @@
-CLIENT-KORREKTUR WELTKARTE – 09.10.2026
+WELTKARTE: FPS, WETTER, SEEMONSTER UND WINDKOMPASS - 09.10.2026
 
-Voraussetzung: Vorhandener vollständiger Client mit dem Weltkarten-Patch
-Die-Hanse-Client-Patch-Weltkarte-20261009.zip.
+Voraussetzung: vollständiger Client mit dem zuletzt gelieferten Patch
+Die-Hanse-Client-Patch-Wolken-Schiffe-20261009.zip.
 
-Spiel schließen. Diesen ZIP-Inhalt in den bestehenden Clientordner neben
-abbild_client.exe entpacken und Dateien ersetzen. Danach normal starten.
-DirectX 11 und Vulkan sind enthalten.
+Spiel schließen. ZIP-Inhalt neben abbild_client.exe entpacken und Dateien
+ersetzen. DirectX 11 und Vulkan sind enthalten. Nur geänderte Dateien.
 
-Änderungen:
-- Animierte Wellenebene der Weltkarte entfernt.
-- Treant wieder als altes Einzelbild in seiner früheren Darstellung.
-- Karte und Steintisch werden gemeinsam gezoomt und verschoben. Bei starkem
-  Reinzoomen verschwindet der Tisch aus dem Sichtbereich; auch die zuvor
-  verdeckten Kartenbereiche reagieren auf Maus und Verschieben.
+- Acht dauerhaft zugeordnete Varianten je Wolkentyp, Sturm und Nebel.
+- Fünf neue Seemonster mit jeweils 72 Animationsbildern aus dem Chat
+  Treant im Burgenzeichner animieren. Kein Austausch des Treants.
+- Keine abgeschnittenen Seemonsterkörper an Küsten; Tauchanimation bleibt.
+- Neu gezeichneter Windkompass an seiner ursprünglichen Kartenposition.
+  Über die Legende ein-/ausblendbar; die Auswahl wird gespeichert.
+- Wiederverwendung fertiger Beschriftungen und weniger Zeichenarbeit
+  außerhalb des sichtbaren Bereichs; Schreibanimation bleibt erhalten.
+- Die vier Himmelsrichtungsbeschriftungen wurden entfernt.
+- Entfernte Wellen, voller Zoom und kleinere Schiffssymbole bleiben.
 
-Reiner Dateidelta: Nur die beiden geänderten Programme, diese Anleitung und
-das aktualisierte vollständige Manifest. Keine unveränderten Grafiken,
-Spieldatenbanken oder Serverdateien.
+Straßennetz, Baukosten, Geländeumwege und Kekingens Küstenposition sind
+Serverregeln. Dafür gehört das separate Paket
+Die-Hanse-Server-Patch-Strassennetz-Kekingen-20261009.zip auf den Server,
+nicht in den Client. Ohne diesen Serveranteil bleiben die gespeicherten
+Straßenverläufe und die alte Stadtposition zunächst sichtbar.

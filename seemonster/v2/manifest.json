@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "art_revision": "ink-4",
+  "width": 384,
+  "height": 288,
+  "frames": 72,
+  "columns": 8,
+  "creatures": {
+    "kraken_1": {
+      "name": "Skorox, der Verschlinger",
+      "fps": 24,
+      "atlas": "kraken_1_swim.png",
+      "still": "kraken_1.png"
+    },
+    "kraken_2": {
+      "name": "Nyala, die Wankelmütige",
+      "fps": 20,
+      "atlas": "kraken_2_swim.png",
+      "still": "kraken_2.png"
+    },
+    "wal": {
+      "name": "Der Alte Wanderer",
+      "fps": 18,
+      "atlas": "wal_swim.png",
+      "still": "wal.png"
+    },
+    "schlange": {
+      "name": "Nidhogg-Schlange",
+      "fps": 18,
+      "atlas": "schlange_swim.png",
+      "still": "schlange.png"
+    },
+    "sirene": {
+      "name": "Die Singende",
+      "fps": 18,
+      "atlas": "sirene_swim.png",
+      "still": "sirene.png"
+    }
+  }
+}

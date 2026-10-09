@@ -136,3 +136,20 @@ BEI PROBLEMEN
 - Anzeigeprobleme: im Hauptmenue Optionen oeffnen und Fenstermodus waehlen.
 - Windows N: fuer Video und Ton wird das Windows Media Feature Pack benoetigt.
   Voraussetzung fuer diese Ausgabe ist Windows 10/11 (64 Bit) mit Direct3D 11.
+
+NEUER KOMPLETTCLIENT — 09.10.2026
+Enthaelt Weltkarte und Wolkenvarianten, den neuen Windkompass,
+kleinere Schiffe/Seemonster, Grafikoptionen und Schiffsausbau.
+Gepruefte Update-Downloads bleiben bei einem Fehler fuer den naechsten Versuch erhalten.
+
+INSTALLATION
+Das gesamte ZIP in einen neuen Ordner entpacken und abbild_client.exe starten.
+Bestehende persoenliche Verbindungs- und Einstellungsdateien bei Bedarf aus dem
+bisherigen Spielordner uebernehmen. Dieses Paket enthaelt keine Zugangsdaten.
+
+GITHUB-UPDATER
+Zum Veroeffentlichen den gesamten entpackten Paketinhalt einschliesslich aller
+Unterordner und manifest.json in einem gemeinsamen Stand hochladen.
+Nur die ZIP hochzuladen aktualisiert die vom Updater gelesenen Einzeldateien nicht.
+Dateien nicht nachtraeglich bearbeiten: Groessen und SHA-256 muessen zum Manifest passen.
+Insbesondere nebel.png, sturm.png und wolken/*.png vollstaendig ersetzen.

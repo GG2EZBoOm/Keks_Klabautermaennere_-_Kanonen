@@ -1,25 +1,19 @@
-CLIENT-PATCH WELTKARTE – 09.10.2026
+CLIENT-KORREKTUR WELTKARTE – 09.10.2026
 
-Für den aktuellen regulären Client mit dem Update
-Die-Hanse-Client-Update-Bugmeldung-Esc-20261009.zip.
-Dieses ZIP enthält ausschließlich neue/geänderte Dateien gegenüber diesem Stand.
-Eine vollständige vorhandene Clientinstallation ist erforderlich.
+Voraussetzung: Vorhandener vollständiger Client mit dem Weltkarten-Patch
+Die-Hanse-Client-Patch-Weltkarte-20261009.zip.
 
-1. Spiel schließen.
-2. ZIP vollständig in den bestehenden Clientordner neben abbild_client.exe
-   entpacken und vorhandene Dateien ersetzen.
-3. Wie gewohnt abbild_client.exe starten. Die Grafikauswahl in den Optionen
-   startet weiterhin DirectX 11 oder Vulkan.
+Spiel schließen. Diesen ZIP-Inhalt in den bestehenden Clientordner neben
+abbild_client.exe entpacken und Dateien ersetzen. Danach normal starten.
+DirectX 11 und Vulkan sind enthalten.
 
-Die neue Weltkarte mit Landschaft und Pergamentrand ist im regulären Client
-aktiv. Enthalten sind auch die Escape-Korrekturen, die korrigierte nordische
-Kirche und die Treant-Animationen aus dem zusammengeführten Atlasstand.
-Alle bisherigen Clientfunktionen einschließlich Schiffsgeschenken und
-Bugmeldung im Esc-Menü bleiben enthalten.
+Änderungen:
+- Animierte Wellenebene der Weltkarte entfernt.
+- Treant wieder als altes Einzelbild in seiner früheren Darstellung.
+- Karte und Steintisch werden gemeinsam gezoomt und verschoben. Bei starkem
+  Reinzoomen verschwindet der Tisch aus dem Sichtbereich; auch die zuvor
+  verdeckten Kartenbereiche reagieren auf Maus und Verschieben.
 
-Zusätzliche Regionen werden nur nach den bestätigten Entdeckungen des
-jeweiligen Spielers angezeigt. Mitgeliefert wird zunächst die Basisregion;
-neue Reiseziele wurden auf dem Server nicht angelegt.
-
-Die unveränderten 3D-Datenpakete sind bewusst nicht erneut enthalten.
-Keine Spieldaten, Zugangsdaten oder Serverkonfigurationen im Patch.
+Reiner Dateidelta: Nur die beiden geänderten Programme, diese Anleitung und
+das aktualisierte vollständige Manifest. Keine unveränderten Grafiken,
+Spieldatenbanken oder Serverdateien.

@@ -1,21 +1,7 @@
-LOKALES CLIENT-UPDATE – 08.10.2026
+CLIENT-UPDATE - 09.10.2026
 
-DirectX 11 und Vulkan. Ressourcen als mittig zentrierte horizontale Leiste, Ereignisoption,
-Stadtstatistiken einschließlich Arbeitslosenquote, Kontorproduktion und
-Lagerlimits, Matrosenverluste.
-Die früheren Reise-, Denkmal-, Beitritts-, Stadtgründungs-, Hanse- und
-Kirchenänderungen sind enthalten.
+DirectX 11 und Vulkan. Im Menue Handelsgesellschaften koennen eigene Hafenschiffe an aktive Gesellschaften verschenkt werden. Matrosen, Ladung und Ausruestung gehen mit; der Kapitaen bleibt beim bisherigen Besitzer. Keine Goldzahlung und keine neuen Anteile. Auswahl und ausdrueckliche Bestaetigung vor der Uebergabe.
 
-Voraussetzung: vorhandener vollständiger Client. Spiel beenden, dieses
-kumulative ZIP neben abbild_client.exe entpacken und Dateien ersetzen.
-Einstellungen, Zugangsdaten und Spielstände werden nicht ersetzt.
+Spiel beenden, dieses kumulative ZIP neben abbild_client.exe entpacken und Dateien ersetzen. Vorhandener vollstaendiger Client erforderlich. Einstellungen und Zugaenge bleiben erhalten.
 
-WICHTIG: Ein Upload dieses ZIPs auf GitHub aktualisiert nur die Clients.
-Kontor- und Rathausmenüs werden vom laufenden Spielserver geliefert.
-Die Spielregeln und neuen Gebäudemenüs benötigen zusätzlich die passenden
-Serverquellen und einen Neustart des Serverprozesses. Quellen und Paket sind hier nur lokal vorbereitet.
-Keine Veröffentlichung, kein Zugriff auf den VPS, kein Serverupdate.
-
-Bekannter übernommener Quellstand: Die 43 neuen Reise- und Denkmalgegenstände
-haben Bilder und Browsermodelle; ihre eigenen nativen 3D-Modelle und die
-native Vorauswahl anhand recommended_slot fehlen noch in den Quellarbeiten.
+Enthaelt alle Aenderungen des Client-Updates Kontor-Rathaus vom 08.10.2026. Die passende Serverergaenzung wird separat auf dem VPS installiert. Kein automatischer GitHub-Upload durch diesen Build.

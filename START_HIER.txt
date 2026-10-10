@@ -137,7 +137,9 @@ BEI PROBLEMEN
 - Windows N: fuer Video und Ton wird das Windows Media Feature Pack benoetigt.
   Voraussetzung fuer diese Ausgabe ist Windows 10/11 (64 Bit) mit Direct3D 11.
 
-NEUER KOMPLETTCLIENT — HANDEL UND SCHIFFSAUSBAU
+NEUER KOMPLETTCLIENT - UPDATE UND NIEDERLASSUNG
+Materialkarten funktionieren auch direkt in der Stadtansicht.
+Neue Paketzeitstempel lassen GitHub Desktop auch gleich grosse Aenderungen erkennen.
 FPS-Anzeige: Optionen > Grafik > FPS anzeigen (dauerhaft oben rechts).
 Schiffsreparatur: Stadtmarkt oder eigenes Lager am Liegehafen als Materialquelle.
 Niederlassung: Bauvorhaben einzeln mit Warensymbolen, Materialbedarf und Lagerbestand.
@@ -169,6 +171,7 @@ bisherigen Spielordner uebernehmen. Dieses Paket enthaelt keine Zugangsdaten.
 GITHUB-UPDATER
 Zum Veroeffentlichen den gesamten entpackten Paketinhalt einschliesslich aller
 Unterordner und manifest.json in einem gemeinsamen Stand hochladen.
+In GitHub Desktop muss auch manifest.json Teil des Updates sein.
 Nur die ZIP hochzuladen aktualisiert die vom Updater gelesenen Einzeldateien nicht.
 Dateien nicht nachtraeglich bearbeiten: Groessen und SHA-256 muessen zum Manifest passen.
 Insbesondere nebel.png, sturm.png und wolken/*.png vollstaendig ersetzen.

@@ -8,6 +8,36 @@ Ohne Vulkan 1.3 startet das Spiel mit DirectX 11 und meldet das einmal.
 Umschalttaste beim Start gedrueckt halten: zurueck zu DirectX 11.
 libSkiaSharp.dll, dxcompiler.dll und vulkan-runtime.json neben den EXEs lassen.
 
+DIRECTX 11 UND VULKAN
+Dieses Paket enthaelt beide Grafikausgaben:
+  abbild_client.exe         DirectX 11 (Standard)
+  abbild_client_vulkan.exe  natives Vulkan (schneller, Vulkan 1.3 noetig)
+Gestartet wird immer abbild_client.exe. Die Grafikausgabe waehlt man unter
+Optionen > Anzeige > Grafik; sie gilt ab dem naechsten Spielstart.
+Ohne Vulkan 1.3 startet das Spiel mit DirectX 11 und meldet das einmal.
+Umschalttaste beim Start gedrueckt halten: zurueck zu DirectX 11.
+libSkiaSharp.dll, dxcompiler.dll und vulkan-runtime.json neben den EXEs lassen.
+
+DIRECTX 11 UND VULKAN
+Dieses Paket enthaelt beide Grafikausgaben:
+  abbild_client.exe         DirectX 11 (Standard)
+  abbild_client_vulkan.exe  natives Vulkan (schneller, Vulkan 1.3 noetig)
+Gestartet wird immer abbild_client.exe. Die Grafikausgabe waehlt man unter
+Optionen > Anzeige > Grafik; sie gilt ab dem naechsten Spielstart.
+Ohne Vulkan 1.3 startet das Spiel mit DirectX 11 und meldet das einmal.
+Umschalttaste beim Start gedrueckt halten: zurueck zu DirectX 11.
+libSkiaSharp.dll, dxcompiler.dll und vulkan-runtime.json neben den EXEs lassen.
+
+DIRECTX 11 UND VULKAN
+Dieses Paket enthaelt beide Grafikausgaben:
+  abbild_client.exe         DirectX 11 (Standard)
+  abbild_client_vulkan.exe  natives Vulkan (schneller, Vulkan 1.3 noetig)
+Gestartet wird immer abbild_client.exe. Die Grafikausgabe waehlt man unter
+Optionen > Anzeige > Grafik; sie gilt ab dem naechsten Spielstart.
+Ohne Vulkan 1.3 startet das Spiel mit DirectX 11 und meldet das einmal.
+Umschalttaste beim Start gedrueckt halten: zurueck zu DirectX 11.
+libSkiaSharp.dll, dxcompiler.dll und vulkan-runtime.json neben den EXEs lassen.
+
 Keks, Klabautermänner & Kanonen – Die Hanse
 PORTABLER WINDOWS-CLIENT
 
@@ -137,41 +167,60 @@ BEI PROBLEMEN
 - Windows N: fuer Video und Ton wird das Windows Media Feature Pack benoetigt.
   Voraussetzung fuer diese Ausgabe ist Windows 10/11 (64 Bit) mit Direct3D 11.
 
-NEUER KOMPLETTCLIENT - UPDATE UND NIEDERLASSUNG
-Materialkarten funktionieren auch direkt in der Stadtansicht.
-Neue Paketzeitstempel lassen GitHub Desktop auch gleich grosse Aenderungen erkennen.
-FPS-Anzeige: Optionen > Grafik > FPS anzeigen (dauerhaft oben rechts).
-Schiffsreparatur: Stadtmarkt oder eigenes Lager am Liegehafen als Materialquelle.
-Niederlassung: Bauvorhaben einzeln mit Warensymbolen, Materialbedarf und Lagerbestand.
-Fehlmengen sind rot markiert; Baukosten und Fertigstellung sind getrennt aufgefuehrt.
-Geisterschiffe in der Kartenlegende unabhaengig von eigenen/fremden Schiffen schaltbar.
-Abgebrochene Logistikauftraege verschwinden aus der Auftragsliste.
-Expeditionen: verbleibende Reisezeit folgt der Serverzeit und aktualisiert sich im offenen Menue.
-Ferne Lande: lesbare, umbrechende Logbucheintraege statt ueberlappender Textzeilen.
-Leertaste in der Stadtinfo oeffnet Stadtmarkt und lokales Lager.
-Kleine Haemmer zeigen eigene Produktion; separat im Handelsmenue abschaltbar.
-Ausbauauswahl nach Kategorie; Zusatzmasten beruecksichtigen die Grundausstattung.
-Galionsfiguren mit sichtbarer Befestigung am Bug.
-Serverkorrekturen: Kurswechsel und sofortige Heimkehr, abgeschlossene Geistermeldungen,
-Frachtvorbereitung und Landhandel an allen eigenen Kontorstandorten.
-Sichtbare Schiffsausruestung auf Karte und im Hafen. Getrennte Ausbaukategorien.
-Seemonster mit Wasserlinie. Reichsuebersicht laesst sich wieder verlassen.
-Klare Rueckmeldung beim Anlegen von Handelsgesellschaften.
-Server: Gesellschaften ohne Fuenfergrenze, KI-Frachtauftraege und hoehere Ausbaupreise.
-Bestehende Strassenverlaeufe wurden auf dem Server erneuert.
-Enthaelt Weltkarte und Wolkenvarianten, den neuen Windkompass,
-kleinere Schiffe/Seemonster, Grafikoptionen und Schiffsausbau.
-Gepruefte Update-Downloads bleiben bei einem Fehler fuer den naechsten Versuch erhalten.
 
-INSTALLATION
-Das gesamte ZIP in einen neuen Ordner entpacken und abbild_client.exe starten.
-Bestehende persoenliche Verbindungs- und Einstellungsdateien bei Bedarf aus dem
-bisherigen Spielordner uebernehmen. Dieses Paket enthaelt keine Zugangsdaten.
+WELTATLAS UND KARTENDARSTELLUNG - 10.10.2026
+31 Regionen mit Frostfjorden und Eiskrone im Norden, einer gemaessigten Mitte,
+Subtropen, Savanne und Tropen. Der Aequator liegt weit suedlich bei Welt-y=2400.
+Die Kuesten und Orte der kleinen Ausgangskarte bleiben erhalten. Auf Wunsch
+ist ihr oestlicher Wuestenbereich jetzt Grasland und Wald. Vier kleine
+Inselgruppen liegen im Saphirmeer. Der noerdliche Schnee geht weicher in
+die Tundra ueber; Wuestenfluesse bleiben auf ein Drittel der frueheren Zahl reduziert.
 
-GITHUB-UPDATER
-Zum Veroeffentlichen den gesamten entpackten Paketinhalt einschliesslich aller
-Unterordner und manifest.json in einem gemeinsamen Stand hochladen.
-In GitHub Desktop muss auch manifest.json Teil des Updates sein.
-Nur die ZIP hochzuladen aktualisiert die vom Updater gelesenen Einzeldateien nicht.
-Dateien nicht nachtraeglich bearbeiten: Groessen und SHA-256 muessen zum Manifest passen.
-Insbesondere nebel.png, sturm.png und wolken/*.png vollstaendig ersetzen.
+Regionen werden je Spieler durch Expeditionen entdeckt: hoechstens 25 Prozent
+Chance, abhaengig von Schiff, Ausruestung, Mannschaft und Kapitaen. Der Austritt
+aus der bekannten Karte bestimmt die angrenzende Region. Die Vorschaugrafik
+zeigt alle Regionen; im Spiel bleibt der persoenliche Entdeckungsstand erhalten.
+Kolonieplaetze sind vorbereitet; Koloniegruendung und Ausbau sind noch nicht aktiv.
+
+Der passende Serverpatch Weltatlas-Klimazonen-Ostkueste-R2 ist am 10.10.2026
+installiert und geprueft worden. Er migriert auch bereits bestehende Spielwelten.
+
+Die Windnadel zeigt in die Richtung, in die der Wind weht. Ihr leuchtender Anteil
+entspricht der Windstaerke, daneben steht der Prozentwert. Der Schalter in der
+Legende bleibt erhalten. Seemonster liegen mit engerer Wasserlinie im Wasser.
+Reiseereignisse verwenden Pergament und haben keinen Knopf Alle Ereignismenues.
+Der Kartenkopf unterscheidet Spielzeit und Alter des letzten Datenabgleichs.
+Die Spielzeit pausiert waehrend Serverunterbrechungen und kann daher hinter
+der Uhrzeit liegen; die Anzeige behauptet keinen festen Aktualisierungstakt mehr.
+
+VEROEFFENTLICHUNG
+Zum Verteilen den gesamten ZIP-Inhalt inklusive manifest.json uebernehmen.
+Laufzeitdateien wie Updateprotokolle und lokale Pruefcaches gehoeren nicht dazu.
+Dieses Paket wird nicht automatisch zu GitHub hochgeladen.
+
+
+WELTATLAS ERGAENZT UND HANDELSMENUE - 10.10.2026
+Alle bisherigen Leerflaechen sind jetzt Teil der 31 Entdeckungsregionen.
+Neue Polarinseln, Kuesten, tropische Inselketten und unbesiedelte Kolonieplaetze
+setzen die weltweiten Klimazonen fort. 52 gemeinsame Seegrenzen sind befahrbar.
+Die Basiskarte, bisherigen Regions-IDs und persoenlichen Entdeckungen bleiben
+bestehen. Die Gesamtvorschau zeigt alles; im Spiel gelten eigene Entdeckungen.
+Passender Serverpatch: Weltatlas-31-Regionen.
+
+Die Schalter Preisfarben und Eigene Produktion stehen in einer eigenen Zeile
+unter dem Handelstitel und umbrechen bei Bedarf. Das Hammerzeichen ist jetzt
+18 Pixel gross (halbe Warensymbolgroesse) und hat einen hellen Hintergrund.
+Beide Schalter bleiben separat bedienbar und gespeichert.
+
+
+
+VERSION 0.4.1
+Die bewohnten Atlas-Koenigreiche haben jetzt echte Staedte, Buergermeister
+und eigene Grafen, Herzoege und Koenige. Amtstraeger lassen sich in den
+Stadtinformationen und der Regionsuebersicht mit ihrer 3D-Figur oeffnen.
+Bestehende Besitzverhaeltnisse und persoenliche Entdeckungen bleiben erhalten.
+Koloniegebiete besitzen Hafen- und Binnenburgplaetze sowie Stammesgebiete.
+Neue Burgen koennen benannt, gebaut und als Grafschaft beansprucht werden.
+Hansegruendungen bleiben in bekannten, bewohnten, nichtpolaren Regionen.
+Geisterschiffe werden pro Region ausgewuerfelt; Seemonster nutzen das Weltmeer.
+Passender Serverpatch: Atlas-0.4.1.

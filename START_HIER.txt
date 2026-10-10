@@ -137,7 +137,21 @@ BEI PROBLEMEN
 - Windows N: fuer Video und Ton wird das Windows Media Feature Pack benoetigt.
   Voraussetzung fuer diese Ausgabe ist Windows 10/11 (64 Bit) mit Direct3D 11.
 
-NEUER KOMPLETTCLIENT — SCHIFFSAUSBAU UND GESELLSCHAFTEN
+NEUER KOMPLETTCLIENT — HANDEL UND SCHIFFSAUSBAU
+FPS-Anzeige: Optionen > Grafik > FPS anzeigen (dauerhaft oben rechts).
+Schiffsreparatur: Stadtmarkt oder eigenes Lager am Liegehafen als Materialquelle.
+Niederlassung: Bauvorhaben einzeln mit Warensymbolen, Materialbedarf und Lagerbestand.
+Fehlmengen sind rot markiert; Baukosten und Fertigstellung sind getrennt aufgefuehrt.
+Geisterschiffe in der Kartenlegende unabhaengig von eigenen/fremden Schiffen schaltbar.
+Abgebrochene Logistikauftraege verschwinden aus der Auftragsliste.
+Expeditionen: verbleibende Reisezeit folgt der Serverzeit und aktualisiert sich im offenen Menue.
+Ferne Lande: lesbare, umbrechende Logbucheintraege statt ueberlappender Textzeilen.
+Leertaste in der Stadtinfo oeffnet Stadtmarkt und lokales Lager.
+Kleine Haemmer zeigen eigene Produktion; separat im Handelsmenue abschaltbar.
+Ausbauauswahl nach Kategorie; Zusatzmasten beruecksichtigen die Grundausstattung.
+Galionsfiguren mit sichtbarer Befestigung am Bug.
+Serverkorrekturen: Kurswechsel und sofortige Heimkehr, abgeschlossene Geistermeldungen,
+Frachtvorbereitung und Landhandel an allen eigenen Kontorstandorten.
 Sichtbare Schiffsausruestung auf Karte und im Hafen. Getrennte Ausbaukategorien.
 Seemonster mit Wasserlinie. Reichsuebersicht laesst sich wieder verlassen.
 Klare Rueckmeldung beim Anlegen von Handelsgesellschaften.

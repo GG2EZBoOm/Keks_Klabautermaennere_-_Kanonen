@@ -88,6 +88,16 @@ Ohne Vulkan 1.3 startet das Spiel mit DirectX 11 und meldet das einmal.
 Umschalttaste beim Start gedrueckt halten: zurueck zu DirectX 11.
 libSkiaSharp.dll, dxcompiler.dll und vulkan-runtime.json neben den EXEs lassen.
 
+DIRECTX 11 UND VULKAN
+Dieses Paket enthaelt beide Grafikausgaben:
+  abbild_client.exe         DirectX 11 (Standard)
+  abbild_client_vulkan.exe  natives Vulkan (schneller, Vulkan 1.3 noetig)
+Gestartet wird immer abbild_client.exe. Die Grafikausgabe waehlt man unter
+Optionen > Anzeige > Grafik; sie gilt ab dem naechsten Spielstart.
+Ohne Vulkan 1.3 startet das Spiel mit DirectX 11 und meldet das einmal.
+Umschalttaste beim Start gedrueckt halten: zurueck zu DirectX 11.
+libSkiaSharp.dll, dxcompiler.dll und vulkan-runtime.json neben den EXEs lassen.
+
 Keks, Klabautermänner & Kanonen – Die Hanse
 PORTABLER WINDOWS-CLIENT
 
@@ -269,7 +279,21 @@ Beide Schalter bleiben separat bedienbar und gespeichert.
 
 
 
-VERSION 0.4.7
-Schmalere, ruhigere Strassen mit weicheren Kurven und zwischengespeicherter Geometrie.
-Schiffsmenue schliessen waehlt das Schiff ab; Kartenabgleich waehlt keines automatisch.
-Serverkorrektur: Echtzeittakt holt Serverpausen nach, noerdlicher Stadtanschluss ohne Eistal-Umweg.
+
+VERSION 0.4.8
+Kleinere Hand-, Ochsen- und Pferdekarren passend zur Strassenbreite.
+Kleinere Bodenmarkierungen; beim Herauszoomen bleiben die Karren erkennbar.
+Truppen auf der Weltkarte sind um 15 Prozent kleiner.
+Karrenverkauf: Nur gueltige Angebote sind auswaehlbar, mit dem geprueften Preis.
+F oeffnet die Ortssuche mit Vorschlaegen; Enter oder Klick springt zum Ort.
+Schiffssymbole werden im Grafikspeicher wiederverwendet; unsichtbare Schiffe werden ausgelassen.
+Reichsgrenzen sind geglaettet. Die zusaetzliche Box Reiche der Welt entfaellt.
+Klick auf fremde Figuren oder Wappen zeigt den Charakter unten rechts.
+Rechtsklick oeffnet ein schmales Diplomatiemenue neben der Figur; Erklaerungen erscheinen nur beim Hovern.
+Geschenke, Beeinflussen, Krieg, Frieden, Buendnisse und gemeinsame Handelsgesellschaften nach ihren Voraussetzungen.
+Goldbuch: Neue Handelsbuchungen zeigen Ort, Ressourcensymbol und Menge.
+Hansegruendungsauftraege nennen die konkret benoetigten Wohnplaetze und Gebaeude.
+Tag-/Nachtbeleuchtung kann unter Einstellungen > Spiel ausgeschaltet werden.
+Die Hafenschiffsliste erscheint nur bei aktivierter Legende und eigenen Schiffen im Hafen.
+Die neuen Diplomatie- und Buchungsfunktionen benoetigen auch den aktualisierten Serverteil.
+Enthaelt weiterhin alle Korrekturen aus Version 0.4.7.

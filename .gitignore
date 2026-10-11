@@ -1,0 +1,8 @@
+
+
+# Local client settings, update cache and smoke-test output
+/.update-downloads/
+/.update-pruefung.json
+/abbild-oberflaeche.json
+/abbild_update.log
+/client-smoke.*

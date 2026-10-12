@@ -118,6 +118,16 @@ Ohne Vulkan 1.3 startet das Spiel mit DirectX 11 und meldet das einmal.
 Umschalttaste beim Start gedrueckt halten: zurueck zu DirectX 11.
 libSkiaSharp.dll, dxcompiler.dll und vulkan-runtime.json neben den EXEs lassen.
 
+DIRECTX 11 UND VULKAN
+Dieses Paket enthaelt beide Grafikausgaben:
+  abbild_client.exe         DirectX 11 (Standard)
+  abbild_client_vulkan.exe  natives Vulkan (schneller, Vulkan 1.3 noetig)
+Gestartet wird immer abbild_client.exe. Die Grafikausgabe waehlt man unter
+Optionen > Anzeige > Grafik; sie gilt ab dem naechsten Spielstart.
+Ohne Vulkan 1.3 startet das Spiel mit DirectX 11 und meldet das einmal.
+Umschalttaste beim Start gedrueckt halten: zurueck zu DirectX 11.
+libSkiaSharp.dll, dxcompiler.dll und vulkan-runtime.json neben den EXEs lassen.
+
 Keks, Klabautermänner & Kanonen – Die Hanse
 PORTABLER WINDOWS-CLIENT
 
@@ -302,14 +312,8 @@ Beide Schalter bleiben separat bedienbar und gespeichert.
 
 
 
-VERSION 0.4.10
-Neue Gegenstaende werden nach dem Inventarabgleich in einem Fundfenster vorgestellt.
-Echte 3D-Modelle: ziehen zum Drehen, Mausrad zum Zoomen, Weiter fuer den naechsten Fund.
-Der erste Inventarstand ist eine stille Basis; vorhandene Gegenstaende werden nicht erneut gezeigt.
-Neue Sounds fuer Diplomatie, Stadt/Burg, Familiensitzsaal, Truppen und Bauplatzierung.
-Nachrichten: neue rote, gelbe und gruene Klangzuordnung.
-Glaubensaktionen: einheitlicher Klick mit 80 Prozent Lautstaerke.
-Belagerungen und Turniere: Treffer passend zur Animation, wechselnde Kampfkulisse.
-Keine Mehrfachausloesung durch Datenabgleich; hoechstens vier gleichzeitige Kampf-Effekte.
-Musik: Calm Spirit, The Mighty Seas und The Swashbuckler ergaenzen die zufaellige Playlist.
-Enthaelt alle bisherigen Aenderungen aus Version 0.4.9.
+
+VERSION 0.4.11
+Diplomatie: neuer Hover-Klick beim Betreten eines Aktionsknopfs.
+Der Klang wird pro Betreten einmal abgespielt; Musik und vorhandene Klicksounds bleiben erhalten.
+Enthaelt alle bisherigen Aenderungen aus Version 0.4.10.

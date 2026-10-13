@@ -168,6 +168,16 @@ Ohne Vulkan 1.3 startet das Spiel mit DirectX 11 und meldet das einmal.
 Umschalttaste beim Start gedrueckt halten: zurueck zu DirectX 11.
 libSkiaSharp.dll, dxcompiler.dll und vulkan-runtime.json neben den EXEs lassen.
 
+DIRECTX 11 UND VULKAN
+Dieses Paket enthaelt beide Grafikausgaben:
+  abbild_client.exe         DirectX 11 (Standard)
+  abbild_client_vulkan.exe  natives Vulkan (schneller, Vulkan 1.3 noetig)
+Gestartet wird immer abbild_client.exe. Die Grafikausgabe waehlt man unter
+Optionen > Anzeige > Grafik; sie gilt ab dem naechsten Spielstart.
+Ohne Vulkan 1.3 startet das Spiel mit DirectX 11 und meldet das einmal.
+Umschalttaste beim Start gedrueckt halten: zurueck zu DirectX 11.
+libSkiaSharp.dll, dxcompiler.dll und vulkan-runtime.json neben den EXEs lassen.
+
 Keks, Klabautermänner & Kanonen – Die Hanse
 PORTABLER WINDOWS-CLIENT
 
@@ -204,7 +214,7 @@ Die Datei muss in einem beschreibbaren Ordner liegen. Daneben speichert die EXE
 offene Auftraege (.outbox.json) und den bestaetigten Stand (.state.json).
 Diese Dateien beim Aktualisieren oder Wiederaufnehmen nicht loeschen.
 
-Doppelklick startet Hersteller-Video, Hanse-Intro und danach das Hauptmenue.
+Doppelklick startet Kek-Engine-Intro, Hersteller-Video, Hanse-Intro und danach das Hauptmenue.
 Leertaste oder Esc ueberspringt jeweils das aktuelle Video beim Loslassen.
 Im Hauptmenue einmal Discord verbinden, danach Mehrspieler waehlen.
 Das Konto bleibt auf diesem Windows-PC gespeichert. Der Spielserver ist vorgegeben.
@@ -371,3 +381,7 @@ VERSION 0.5.2
 Ratssaal: Beim Aufstehen steht die gewaehlte Person vor dem Stuhl, zwischen Stuhl und Tisch.
 Der Stuhl wird dafuer nach hinten geschoben. Figur, Stuhl und Tisch ueberlappen nicht.
 Der Serverstand 0.5.1 bleibt kompatibel.
+
+VERSION 0.5.3
+Beim Spielstart laufen drei Videos: Kek-Engine, Kekish Games, Hanse-Intro.
+Leertaste oder Esc ueberspringen jeweils das aktuelle Video.

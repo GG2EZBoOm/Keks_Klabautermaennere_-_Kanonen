@@ -1,0 +1,781 @@
+{
+  "origin": "Files supplied by the user on 2026-10-14; keep original provider names for attribution.",
+  "format": "48 kHz PCM16 WAV; processed locally; no originals modified.",
+  "listening_review": "Technical validation only: this session cannot listen to audio. Airport, traffic and toy-wheel recordings excluded. Reception ambience and cloth/mortar substitutes need human listening review.",
+  "files": [
+    {
+      "file": "jagd_woelfin_aufgedeckt.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "audio_hero_Wolf_DIGIC05-01.wav",
+          "member": null,
+          "source_sha256": "e7136a7993ba8b8fb4473bd528f2bdd333683c95a14cd16831efa413a2e98b87",
+          "start": 0,
+          "duration": 9,
+          "speed": 1,
+          "band_hz": [
+            80,
+            9000
+          ]
+        }
+      ],
+      "seconds": 8.289,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -4.0,
+      "rms_db": -27.69,
+      "sha256": "d0f9028f736b8ff18a77cfda347180507af0f53f477fd2c381894f2d728dae22"
+    },
+    {
+      "file": "jagd_adler_aufgedeckt.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "smartsound_ANIMAL_BIRD_OF_PREY_Offspring_Eagle_Call_03.wav",
+          "member": null,
+          "source_sha256": "76e0c1193678510935347413af3339106e0ddeca0c995fcfdd5a6af584b0b09c",
+          "start": 0,
+          "duration": 4.25,
+          "speed": 1,
+          "band_hz": [
+            80,
+            9000
+          ]
+        },
+        {
+          "source": "zapsplat_animals_bird_small_fly_past_wings_flap.wav",
+          "member": null,
+          "source_sha256": "9a5ebeea2c4aa28995b1d14a1bc061426bf865815632cb9bb7b69a4394e3f2c8",
+          "start": 0,
+          "duration": 2.26,
+          "speed": 1,
+          "band_hz": [
+            80,
+            9000
+          ]
+        }
+      ],
+      "seconds": 4.158,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -7.93,
+      "rms_db": -20.0,
+      "sha256": "e4bff0addd928a563d50ef24a18def45f8fd1213b3115d518c5df431360e2603"
+    },
+    {
+      "file": "jagd_sumpfdrache_aufgedeckt.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "zapsplat_pack_monster_sounds_wav.zip",
+          "member": "zapsplat_pack_monster_sounds_wav/zapsplat_horror_monster_growl_lower_pitched_66466.wav",
+          "source_sha256": "6587443913a62f361d3610b3e0ced46f181bbdfb66735346fe40447df67fc6ec",
+          "start": 0,
+          "duration": null,
+          "speed": 0.88,
+          "band_hz": [
+            80,
+            6500
+          ]
+        }
+      ],
+      "seconds": 3.669,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -4.0,
+      "rms_db": -23.12,
+      "sha256": "ad079682d2459a5fa00fdaae5e5ddc384492cb9df8077711ab8b3d8ae2948c10"
+    },
+    {
+      "file": "raum_kerker.wav",
+      "loop": true,
+      "sources": [
+        {
+          "source": "zapsplat_horror_dungeon_amb_dark_eerie_water_trickle_drips_44128.wav",
+          "member": null,
+          "source_sha256": "cf559fb215dc910680bd948dc9db422c072721723cb3b0058a18b8e06c4fe496",
+          "start": 12,
+          "duration": 49,
+          "speed": 1,
+          "band_hz": [
+            80,
+            5000
+          ]
+        }
+      ],
+      "seconds": 48.2,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -11.18,
+      "rms_db": -28.0,
+      "sha256": "9bb2943129077d35e49aa4f9f3e581599dcc2cecdeed336a46ff402579b17566"
+    },
+    {
+      "file": "raum_labor.wav",
+      "loop": true,
+      "sources": [
+        {
+          "source": "zapsplat_lab_test_tube_bubble_room_reverb_004_107540.wav",
+          "member": null,
+          "source_sha256": "2012326a7f9bf3008b615f46cce1b92b3c7f397cebc03016b543f54876f36d53",
+          "start": 0,
+          "duration": null,
+          "speed": 1,
+          "band_hz": [
+            80,
+            7000
+          ]
+        }
+      ],
+      "seconds": 20.7,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -8.07,
+      "rms_db": -26.0,
+      "sha256": "53cb9216df2e57add84cef258a7c5f5bebdd5546fc3758410b3ecc52c33c8fbd"
+    },
+    {
+      "file": "raum_fest.wav",
+      "loop": true,
+      "sources": [
+        {
+          "source": "aaj_0032_Reception_02.wav",
+          "member": null,
+          "source_sha256": "f8f3a79e9386ce93b2331b0615ac9a5944c235f452def9d63e9987e36efae7f4",
+          "start": 2,
+          "duration": 42,
+          "speed": 1,
+          "band_hz": [
+            80,
+            2600
+          ]
+        }
+      ],
+      "seconds": 41.2,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -11.45,
+      "rms_db": -29.0,
+      "sha256": "8c53501e3a975b276a589c450f20d9bd552eb61d46e61184bb3a692a04241616"
+    },
+    {
+      "file": "raum_applaus.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "aaj_0030_BnquetChrng01.wav",
+          "member": null,
+          "source_sha256": "5c3280dd0fc5240f27c47e3a7e8b1b3e63057ffa83ef4d7b38270ec355cf21cd",
+          "start": 0,
+          "duration": 12,
+          "speed": 1,
+          "band_hz": [
+            80,
+            6500
+          ]
+        }
+      ],
+      "seconds": 11.848,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -6.01,
+      "rms_db": -24.0,
+      "sha256": "4f32132cfc67326ed5ff3dff6e2930a1dd61b24d46985d025582fc3780fb678b"
+    },
+    {
+      "file": "raum_moerser.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "zapsplat_pack_pepper_mill_sounds_wav.zip",
+          "member": "zapsplat_pack_pepper_mill_sounds_wav/zapsplat_food_pepper_mill_plastic_turn_grind_003_39582.wav",
+          "source_sha256": "85562d4ba7d61eae8022a24967fa88c74f2bc46a23b2346b92dd533c57506fc5",
+          "start": 0,
+          "duration": null,
+          "speed": 0.85,
+          "band_hz": [
+            80,
+            5000
+          ]
+        }
+      ],
+      "seconds": 5.744,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -4.0,
+      "rms_db": -33.68,
+      "sha256": "963c9fed7f28a7932d5aab356f5969d62797ed4913f5bc4f397ce4c3c1936e33"
+    },
+    {
+      "file": "raum_flasche.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "zapsplat_food_drink_pour_small_amount_from_jug_into_small_glass_19426.wav",
+          "member": null,
+          "source_sha256": "b331f420f0fa94bfa9d69a4faaa1e5b8cd725547b715f3760c68c804c5ef7f19",
+          "start": 0,
+          "duration": null,
+          "speed": 1,
+          "band_hz": [
+            80,
+            8000
+          ]
+        },
+        {
+          "source": "zapsplat_foley_cork_pull_from_glass_bottle_pop_002_108599.wav",
+          "member": null,
+          "source_sha256": "0925593a3215ade0a0dc0c384e5e05800636b41493315345e91fe31b5495f503",
+          "start": 0,
+          "duration": null,
+          "speed": 1,
+          "band_hz": [
+            80,
+            6500
+          ]
+        }
+      ],
+      "seconds": 1.385,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -4.0,
+      "rms_db": -25.84,
+      "sha256": "16ef7bc9a7e5ce5b7c2c40a268447967d27f224a74f4f7218035a83def520844"
+    },
+    {
+      "file": "raum_teppich.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "zapsplat_pack_paper_towel_cleaning_wav.zip",
+          "member": "zapsplat_pack_paper_towel_cleaning_wav/zapsplat_household_cleaning_paper_towel_rub_scrub_carpet_slowly_31790.wav",
+          "source_sha256": "993678e01f7998cd7cbfc517be0f54816f47c5460deac174a0696550c4c73c84",
+          "start": 0,
+          "duration": 2,
+          "speed": 0.75,
+          "band_hz": [
+            80,
+            3500
+          ]
+        }
+      ],
+      "seconds": 2.667,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -9.69,
+      "rms_db": -25.0,
+      "sha256": "972f0f0ad7be57579580cf7c940514685179dbb62ed0f258ae61c1a6335371b8"
+    },
+    {
+      "file": "raum_gitter.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "pmsfx_METLFric_Metal_Friction_Groan_Old_Rusty_Blade_High_Pitch_13_PMSFX_MFDE_2462.wav",
+          "member": null,
+          "source_sha256": "4f4e0a0c456b990087516f160e73690771e2a49faf2ec9951be76672a26143d4",
+          "start": 0,
+          "duration": null,
+          "speed": 0.7,
+          "band_hz": [
+            80,
+            4000
+          ]
+        },
+        {
+          "source": "zapsplat_pack_various_doors_wav.zip",
+          "member": "zapsplat_pack_various_doors_wav/Sonic_Soundfx_household_door_metal_latch_open.wav",
+          "source_sha256": "1a45ddccf45e6ada06bdfb119db2ded64637c769b5b00fe8db6091fa4ebb3875",
+          "start": 0,
+          "duration": null,
+          "speed": 1,
+          "band_hz": [
+            80,
+            5000
+          ]
+        },
+        {
+          "source": "zapsplat_pack_chains_wav.zip",
+          "member": "zapsplat_pack_chains_wav/zapsplat_industrial_short_but_thick_metal_chain_jingle_rattle_73124.wav",
+          "source_sha256": "7aee55e303d3ad1a4dda3658f65f13e782e0c4b65b9cfc440be79ae6523a0136",
+          "start": 0,
+          "duration": 2,
+          "speed": 1,
+          "band_hz": [
+            80,
+            5000
+          ]
+        }
+      ],
+      "seconds": 2.524,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -4.0,
+      "rms_db": -28.54,
+      "sha256": "bfb120457ce72fc543279eaa6ccddbd8100ab9298878546110982ceae4661c8d"
+    },
+    {
+      "file": "raum_ketten_0.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "zapsplat_pack_chains_wav.zip",
+          "member": "zapsplat_pack_chains_wav/zapsplat_industrial_chain_small_movements_jingle_58794.wav",
+          "source_sha256": "95e6f51cfd550b1880a163a2bb0d0a9bf0a2863f652ce0b32bf90e7e7eb35bbb",
+          "start": 0,
+          "duration": 5,
+          "speed": 1,
+          "band_hz": [
+            80,
+            4000
+          ]
+        }
+      ],
+      "seconds": 4.513,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -5.18,
+      "rms_db": -29.0,
+      "sha256": "79e384af6bdc71d96468f66ef89000c57b7c2afaf765ae6e9629b15be85665fa"
+    },
+    {
+      "file": "raum_ketten_1.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "zapsplat_pack_chains_wav.zip",
+          "member": "zapsplat_pack_chains_wav/zapsplat_industrial_short_but_thick_metal_chain_jingle_rattle_73124.wav",
+          "source_sha256": "7aee55e303d3ad1a4dda3658f65f13e782e0c4b65b9cfc440be79ae6523a0136",
+          "start": 0,
+          "duration": 5,
+          "speed": 1,
+          "band_hz": [
+            80,
+            4000
+          ]
+        }
+      ],
+      "seconds": 4.978,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -4.0,
+      "rms_db": -36.64,
+      "sha256": "8070af658d983bf055d15037dfd36bc68955cc1bccd28163b13570113467c20b"
+    },
+    {
+      "file": "raum_ratte_0.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "zapsplat_animal_mouse_run_by_on_carpet.wav",
+          "member": null,
+          "source_sha256": "0923ce155421bdb64fbc557a1921d98980ae8fc9a110b7bda41944b25552e69d",
+          "start": 0,
+          "duration": 3,
+          "speed": 1,
+          "band_hz": [
+            80,
+            6000
+          ]
+        },
+        {
+          "source": "zapsplat_animal_rodent_squeak_single_001.wav",
+          "member": null,
+          "source_sha256": "38b619f3aa5bc56a0d7717b04c21a66ddf58db96d46cbdfcdb094e542e916479",
+          "start": 0,
+          "duration": 2,
+          "speed": 1,
+          "band_hz": [
+            80,
+            8500
+          ]
+        }
+      ],
+      "seconds": 1.62,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -12.46,
+      "rms_db": -31.0,
+      "sha256": "d01c20c2699a83bf5326dc075a6ccec476d34f8f89469433780bab6a28271dea"
+    },
+    {
+      "file": "raum_ratte_1.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "zapsplat_animal_mouse_run_by_on_carpet.wav",
+          "member": null,
+          "source_sha256": "0923ce155421bdb64fbc557a1921d98980ae8fc9a110b7bda41944b25552e69d",
+          "start": 0,
+          "duration": 3,
+          "speed": 1,
+          "band_hz": [
+            80,
+            6000
+          ]
+        },
+        {
+          "source": "zapsplat_animals_mouse_squeak_002_24957.wav",
+          "member": null,
+          "source_sha256": "8a98173844a37a791974ec87eea0d2a0b3bc55c9d84af2f6b45e7a18cdf1e8a8",
+          "start": 0,
+          "duration": 2,
+          "speed": 1,
+          "band_hz": [
+            80,
+            8500
+          ]
+        }
+      ],
+      "seconds": 1.62,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -12.41,
+      "rms_db": -31.0,
+      "sha256": "a6058b0767031a1116fc08b396d8587b0327f10894f1f20a4adeee668e2e57f9"
+    },
+    {
+      "file": "raum_ratte_2.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "zapsplat_animal_mouse_run_by_on_carpet.wav",
+          "member": null,
+          "source_sha256": "0923ce155421bdb64fbc557a1921d98980ae8fc9a110b7bda41944b25552e69d",
+          "start": 0,
+          "duration": 3,
+          "speed": 1,
+          "band_hz": [
+            80,
+            6000
+          ]
+        },
+        {
+          "source": "zapsplat_animals_mouse_squeak_001_25019.wav",
+          "member": null,
+          "source_sha256": "c0fa5d66e0dc88c1af607f6967e6d2b4de0a5572c021fc8039eeacac0c9d88c5",
+          "start": 0,
+          "duration": 2,
+          "speed": 1,
+          "band_hz": [
+            80,
+            8500
+          ]
+        }
+      ],
+      "seconds": 1.62,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -12.49,
+      "rms_db": -31.0,
+      "sha256": "feff22e4c8f7fb4b55a46a57b3cb52176eb985bb4c9fdc9f5f4cf0d1239c07f3"
+    },
+    {
+      "file": "raum_ruf_0.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "master_of_dreams_male_screams_1_473.wav",
+          "member": null,
+          "source_sha256": "0443f9169893c971b352a63df639c89357d6f632887a541803da36cdb1397fe5",
+          "start": 0,
+          "duration": null,
+          "speed": 1,
+          "band_hz": [
+            180,
+            1250
+          ]
+        }
+      ],
+      "seconds": 2.313,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -23.38,
+      "rms_db": -35.0,
+      "sha256": "1b5824edbfde89e5ad1a18983ada7bd88ee912c5f2fa29e6ff5a947aed8991cb"
+    },
+    {
+      "file": "raum_ruf_1.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "master_of_dreams_male_screams_2_474.wav",
+          "member": null,
+          "source_sha256": "af735c7b1b3da2efc5d95951acc274e9e7b78c84734431399e49d2e397bd9549",
+          "start": 0,
+          "duration": null,
+          "speed": 1,
+          "band_hz": [
+            180,
+            1250
+          ]
+        }
+      ],
+      "seconds": 3.414,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -22.89,
+      "rms_db": -35.0,
+      "sha256": "65151094259e836c361c1f9ba744aeede3e24c2c71270d788f862358a6889ac9"
+    },
+    {
+      "file": "raum_ruf_2.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "soundbits_SotD+2013-10-30+(Female+Scream).wav",
+          "member": null,
+          "source_sha256": "a0dd10f92ca32b025e51f7705fba6bff80ecd99bca1215b6e947a3339547c006",
+          "start": 0,
+          "duration": null,
+          "speed": 1,
+          "band_hz": [
+            180,
+            1250
+          ]
+        }
+      ],
+      "seconds": 1.93,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -20.75,
+      "rms_db": -35.0,
+      "sha256": "8a84645121b11101154f28421720088db2272bace9dd5a6b9ef83a29133bf987"
+    },
+    {
+      "file": "raum_ruf_3.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "344_audio_VOXScrm_Female_Screaming_Intensely_2_344_Audio_Screaming_1903.wav",
+          "member": null,
+          "source_sha256": "e9dcc9c5832df07363c63fe14f8c719fdbb14074e1898fac2a078419c91a8279",
+          "start": 0,
+          "duration": null,
+          "speed": 1,
+          "band_hz": [
+            180,
+            1250
+          ]
+        }
+      ],
+      "seconds": 0.93,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -24.02,
+      "rms_db": -35.0,
+      "sha256": "f7dd0c5c793a44524f608f568caa9c03ced5c642e47eefd26f277ba7c545ce0d"
+    },
+    {
+      "file": "raum_lachen_0.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "sound_ex_machina_open_hearted_male_laughter_04_529.wav",
+          "member": null,
+          "source_sha256": "08f9e02ecf4d857fa4c5f561c17800fc8a100889741f1dbe00d71ffd67c91d84",
+          "start": 0,
+          "duration": 6,
+          "speed": 1,
+          "band_hz": [
+            80,
+            4500
+          ]
+        }
+      ],
+      "seconds": 4.607,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -4.0,
+      "rms_db": -29.67,
+      "sha256": "5dc734ccc7f1d69ebdbd29bdbedc902389aab9d6f17cf251a625a56c93ce3015"
+    },
+    {
+      "file": "raum_lachen_1.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "sound_ex_machina_open_hearted_male_laughter_03_528.wav",
+          "member": null,
+          "source_sha256": "06efba7ed4e045a010a069d78cc189cb714161cb356972f53f66e886fe7db996",
+          "start": 0,
+          "duration": 6,
+          "speed": 1,
+          "band_hz": [
+            80,
+            4500
+          ]
+        }
+      ],
+      "seconds": 4.224,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -4.0,
+      "rms_db": -31.23,
+      "sha256": "9740421b94aadd20e3a6643c13675f039246fd0448a83a48c75974d206907422"
+    },
+    {
+      "file": "raum_lachen_2.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "sound_ex_machina_open_hearted_male_laughter_02_527.wav",
+          "member": null,
+          "source_sha256": "c4d228fe805de18b328f6548b116e31de8a97f8d5e2fc97a88cb30d20478440b",
+          "start": 0,
+          "duration": 6,
+          "speed": 1,
+          "band_hz": [
+            80,
+            4500
+          ]
+        }
+      ],
+      "seconds": 6.0,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -4.0,
+      "rms_db": -28.6,
+      "sha256": "17363d878fa051f7e793404b6fcdf80f500f58afeb313747ef638517ed17dbe7"
+    },
+    {
+      "file": "raum_lachen_3.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "sound_ex_machina_young_male_kind_laughter_636.wav",
+          "member": null,
+          "source_sha256": "ab43ffb07a1f32adf9433548450e4d64362598cc7f50ad2938b4420945e60c15",
+          "start": 0,
+          "duration": 6,
+          "speed": 1,
+          "band_hz": [
+            80,
+            4500
+          ]
+        }
+      ],
+      "seconds": 5.805,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -6.08,
+      "rms_db": -28.0,
+      "sha256": "7b35d367671b4bd0e66a33ccb845dfe96af12c55876800f70450e86e90883ffe"
+    },
+    {
+      "file": "raum_lachen_4.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "sound_ex_machina_young_male_joyful_laughter_635.wav",
+          "member": null,
+          "source_sha256": "f2e54111a29c6bf663ce40b3687b3b4a5c9664abfcbad816821803be10f94f58",
+          "start": 0,
+          "duration": 6,
+          "speed": 1,
+          "band_hz": [
+            80,
+            4500
+          ]
+        }
+      ],
+      "seconds": 5.86,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -4.0,
+      "rms_db": -32.59,
+      "sha256": "04023c687ea82ad70663a1fcc1f62bd28105ababd7be0ac04cbb34136c5dc7ac"
+    },
+    {
+      "file": "raum_lachen_5.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "sound_ex_machina_old_male_belly_laughter_525.wav",
+          "member": null,
+          "source_sha256": "da14ae8e196960ea9384ba6cc2b49dfa7138eae2661a2799b520d3663fe99744",
+          "start": 0,
+          "duration": 6,
+          "speed": 1,
+          "band_hz": [
+            80,
+            4500
+          ]
+        }
+      ],
+      "seconds": 5.816,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -4.0,
+      "rms_db": -28.57,
+      "sha256": "19d4db33bae5544abc69f740c62e5f568c6a5bb5b4c5620f42662e3aadb201b7"
+    },
+    {
+      "file": "raum_narr_0.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "zapsplat_foley_jester_hat_bells_jingle_movement_shake_001_72694.wav",
+          "member": null,
+          "source_sha256": "8410f9214b288a3e72d57c40e2e301e99afb8609cd9c90e87f37e68d0f03c0fe",
+          "start": 0,
+          "duration": null,
+          "speed": 1,
+          "band_hz": [
+            80,
+            8000
+          ]
+        }
+      ],
+      "seconds": 5.413,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -6.33,
+      "rms_db": -27.0,
+      "sha256": "04d096bb1ded787668f79f166bb68c40c5836c69e6e8c84c2bcc572de9227ead"
+    },
+    {
+      "file": "raum_narr_1.wav",
+      "loop": false,
+      "sources": [
+        {
+          "source": "zapsplat_foley_jester_hat_bells_jingle_movement_shake_004_72697.wav",
+          "member": null,
+          "source_sha256": "fdea7e5517904681044e241362daf2776cefcb9d685d57db166ae0da4e60a0d7",
+          "start": 0,
+          "duration": null,
+          "speed": 1,
+          "band_hz": [
+            80,
+            8000
+          ]
+        }
+      ],
+      "seconds": 1.448,
+      "channels": 1,
+      "rate": 48000,
+      "peak_db": -6.49,
+      "rms_db": -27.0,
+      "sha256": "2c5c7d80dae112b6bcc3217f32d8e4ea4aed382aa49a722a36bcf694fe2a4a52"
+    }
+  ],
+  "unused": [
+    "master_of_dreams_funny_laughter_4_408.wav",
+    "zapsplat_public_places_airport_arrivals_hall_quiet_people_talk_brisbane_australia_83971.wav",
+    "zapsplat_lab_test_tube_bubble_room_reverb_001_107537.wav",
+    "zapsplat_lab_test_tube_bubble_room_reverb_005_107541.wav",
+    "skyclad_sound_AMBCnst_Window+Frame+Remove+Dynamic,+Perspective+Interior,+Hammer+Sequence+Multiple+Intensity+Varies,+Splinter+Crunch+Faint,+Traffic+Faint_SCSNONE_1033.wav",
+    "skyclad_sound_AMBCnst_Construction+Interior+light,+Hammer+material+perspective+and+Inetensity+vary,+file,+Tool+and+Material+discard,+Traffic+Faint_SCS_NONE_1034.wav",
+    "audio_hero_Wolf_DIGIC05_02_398.wav",
+    "audio_hero_Wolf_DIGIP03-77.wav",
+    "skyclad_sound_TOYMisc_Vehicle+Large,+Carpet+over+Floorboards,+Push+Left+to+Right+then+Right+to+Left,+Wheel+squeak+Loud_SCS_CT_793.wav",
+    "zapsplat_foley_paper_letter_envelope_pick_up_from_carpet_001_115426.wav",
+    "zapsplat_foley_paper_letter_envelope_pick_up_from_carpet_002_115427.wav",
+    "zapsplat_foley_paper_letter_envelope_pick_up_from_carpet_004_115429.wav",
+    "zapsplat_foley_paper_letter_envelope_pick_up_from_carpet_003_115428.wav",
+    "344_audio_VOXScrm_Female_Screaming_Intensely_1_344_Audio_Screaming_1902.wav",
+    "Blastwave_FX_DungeonAmbience_HV.207.wav",
+    "zapsplat_horror_dungeon_amb_howling_wind_outside_water_drips_44129.wav"
+  ]
+}

@@ -36,16 +36,78 @@
     "curve": 34
   },
   {
-    "text": "Frigida Via",
-    "x": 856,
-    "y": 231,
-    "size": 29,
-    "angle": -12,
-    "width": 195,
-    "curve": -28
+    "text": "Keketisches Hochgebirge",
+    "x": 675,
+    "y": 335,
+    "size": 23,
+    "angle": 0,
+    "width": 370,
+    "curve": 0,
+    "path": [
+      [
+        520,
+        432
+      ],
+      [
+        548,
+        411
+      ],
+      [
+        571,
+        394
+      ],
+      [
+        589,
+        376
+      ],
+      [
+        609,
+        356
+      ],
+      [
+        625,
+        333
+      ],
+      [
+        638,
+        318
+      ],
+      [
+        658,
+        310
+      ],
+      [
+        678,
+        304
+      ],
+      [
+        700,
+        288
+      ],
+      [
+        719,
+        276
+      ],
+      [
+        741,
+        269
+      ],
+      [
+        764,
+        257
+      ],
+      [
+        793,
+        245
+      ],
+      [
+        825,
+        239
+      ]
+    ]
   },
   {
-    "text": "Magna Silva",
+    "text": "Schattenwald",
     "x": 602,
     "y": 516,
     "size": 22,
@@ -54,7 +116,7 @@
     "curve": -24
   },
   {
-    "text": "Terra\nMediana",
+    "text": "Keketien",
     "x": 442,
     "y": 527,
     "size": 32,
@@ -63,7 +125,7 @@
     "curve": 32
   },
   {
-    "text": "Mare Nostrum\nTenebrosum",
+    "text": "Kekisches Meer",
     "x": 1036,
     "y": 495,
     "size": 31,
@@ -72,7 +134,16 @@
     "curve": 26
   },
   {
-    "text": "Aurelien",
+    "text": "Kekische Bucht",
+    "x": 813,
+    "y": 455,
+    "size": 18,
+    "angle": -29,
+    "width": 115,
+    "curve": 30
+  },
+  {
+    "text": "Desertum Magnum",
     "x": 1447,
     "y": 482,
     "size": 34,

@@ -769,3 +769,9 @@ Diplomatie: gesperrte Aktionen sind ausgegraut und zeigen den Grund.
 Beleidigung schicken mit Beziehungseffekten und drei Spieltagen Abklingzeit.
 Eigene Anteilsangebote stehen oben in Handelsgesellschaften und lassen sich zurueckziehen.
 Expedition: Nach der Endhafen-Ankunft verschwindet das Schiffsymbol; der Bericht bleibt zwei Spieltage. Zwischenhaefen behalten das Symbol.
+
+
+VERSION 0.5.27
+Charakterreisen: gleichmaessige Figurenbewegung zwischen Serveraktualisierungen.
+Reiseereignisse: Szenen werden im Hintergrund geladen und gerendert; Entscheidungen bleiben bedienbar.
+Geldgesuche verwenden die Froemmigkeit aus dem Charakterblatt.

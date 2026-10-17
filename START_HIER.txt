@@ -775,3 +775,7 @@ VERSION 0.5.27
 Charakterreisen: gleichmaessige Figurenbewegung zwischen Serveraktualisierungen.
 Reiseereignisse: Szenen werden im Hintergrund geladen und gerendert; Entscheidungen bleiben bedienbar.
 Geldgesuche verwenden die Froemmigkeit aus dem Charakterblatt.
+
+
+VERSION 0.5.28
+Werftfinder: Bauauftraege werden korrekt an den Server gesendet und bei Verbindungsunterbrechung dauerhaft vorgemerkt.

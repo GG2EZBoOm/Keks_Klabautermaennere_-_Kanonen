@@ -783,3 +783,11 @@ Werftfinder: Bauauftraege werden korrekt an den Server gesendet und bei Verbindu
 
 VERSION 0.5.29
 Neue Bildlaufleisten in Holz und Messing. Seeschlachten auf Pergament, nur aktuelle Kaempfe. Hafenburgen sind als Schiffsziele erreichbar. Kirchen haben ein gemeinsames verwaltetes Konto und keine weltlichen Herrscher als Oberhaeupter. Kirchenhandel nur in eigenen Glaubensgebieten; neues Gezeitenkloster Talwacht. Honigverbrauch fuer alle Bevoelkerungsklassen; Honigproduktion ruht im Winter. Staedtische Grundproduktion von Getreide, Wein und Hanf ruht ebenfalls im Winter. Fertige Strassen werden korrekt freigegeben.
+
+
+VERSION 0.5.30
+Die verirrte Beschriftung Rosa Ventorum im Meer wurde entfernt.
+
+
+VERSION 0.5.31
+Erfolgreich heimgekehrte Expeditionen decken die erreichte neue Kartenregion auf, ohne Zufallswurf. Die Freischaltung erfolgt erst bei Heimkehr.

@@ -791,3 +791,7 @@ Die verirrte Beschriftung Rosa Ventorum im Meer wurde entfernt.
 
 VERSION 0.5.31
 Erfolgreich heimgekehrte Expeditionen decken die erreichte neue Kartenregion auf, ohne Zufallswurf. Die Freischaltung erfolgt erst bei Heimkehr.
+
+
+VERSION 0.5.32
+Schiffe lassen sich per Rechtsklick in entdeckte Kartenregionen und direkt zu Kolonie-Hafenplätzen schicken.

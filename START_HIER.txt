@@ -803,3 +803,7 @@ Kartenregionen laden ihre Geländedetails im Hintergrund. Kartenteilung gilt nur
 
 VERSION 0.6
 Erweiterte Welt mit Globus und Südhalbkugel. Kirchenmenü, tägliches Gebet und Armenspeisung. Burggründung direkt am angekommenen Schiff nahe freier Kolonieplätze; Ladung eigener Schiffe vor Ort wird zusammengezählt. Aktualisiertes Handbuch.
+
+
+VERSION 0.6.1
+Kirchengebäude öffnen das Kirchenmenü korrekt. Burggründungen benötigen 80 Holz, 40 Ziegel, 20 Eisenwaren, 15 Hanf und 25.000 Gold; kein Getreide.

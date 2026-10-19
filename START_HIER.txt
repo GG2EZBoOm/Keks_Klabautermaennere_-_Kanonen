@@ -807,3 +807,7 @@ Erweiterte Welt mit Globus und Südhalbkugel. Kirchenmenü, tägliches Gebet und
 
 VERSION 0.6.1
 Kirchengebäude öffnen das Kirchenmenü korrekt. Burggründungen benötigen 80 Holz, 40 Ziegel, 20 Eisenwaren, 15 Hanf und 25.000 Gold; kein Getreide.
+
+
+VERSION 0.6.2
+Burgbauplaetze werden sofort uebernommen. Bergfried, Markt, Wohnhaeuser, Burglager und Befestigungen werden einzeln mit Material und Bauzeit errichtet. Bereits bezahlte laufende Gruendungen werden ohne weitere Gruendungsgebuehr umgestellt. Bestehende Staedte ausserhalb der Heimatregion erhalten fehlende Startimporte einmalig wie die urspruenglichen Handelsorte.

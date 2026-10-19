@@ -827,3 +827,7 @@ Angelegte Schiffe lassen sich auch in der Ansicht einer Hafenburg oder eines Bur
 
 VERSION 0.6.8
 Hafenliste zeigt auch Schiffe an Hafenburgen und Kolonieplaetzen. Waren umladen ist ab Besiedlung direkt am Schiff verfuegbar. Unfertige Burgmaerkte zeigen Restbauzeit und Fertigstellung.
+
+
+VERSION 0.6.9
+Burgausbau als kompakte Bauauswahl auf Pergament, mit Warensymbolen auch fuer laufende Bauauftraege und Restbauzeit. Standortabhaengige, abwechslungsreiche Rohstoffvorkommen fuer Atlasstaedte.

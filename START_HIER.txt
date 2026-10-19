@@ -823,3 +823,7 @@ WASD und Pfeiltasten verschieben die Weltkarte auch mit geoeffneter Schiffsrolle
 
 VERSION 0.6.7
 Angelegte Schiffe lassen sich auch in der Ansicht einer Hafenburg oder eines Burgkolonieplatzes anklicken. Die Schiffsrolle oeffnet den richtigen Burg-Liegeplatz.
+
+
+VERSION 0.6.8
+Hafenliste zeigt auch Schiffe an Hafenburgen und Kolonieplaetzen. Waren umladen ist ab Besiedlung direkt am Schiff verfuegbar. Unfertige Burgmaerkte zeigen Restbauzeit und Fertigstellung.

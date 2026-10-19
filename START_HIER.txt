@@ -831,3 +831,7 @@ Hafenliste zeigt auch Schiffe an Hafenburgen und Kolonieplaetzen. Waren umladen 
 
 VERSION 0.6.9
 Burgausbau als kompakte Bauauswahl auf Pergament, mit Warensymbolen auch fuer laufende Bauauftraege und Restbauzeit. Standortabhaengige, abwechslungsreiche Rohstoffvorkommen fuer Atlasstaedte.
+
+
+VERSION 0.6.10
+Kirchengebaeude als kompakte Pergamentkarte. Staedte neben Familiensitzen bleiben anklickbar. Serverseitig: Rueckfahrt bei Unterbesetzung mit verringerter Geschwindigkeit.

@@ -811,3 +811,7 @@ Kirchengebäude öffnen das Kirchenmenü korrekt. Burggründungen benötigen 80 
 
 VERSION 0.6.2
 Burgbauplaetze werden sofort uebernommen. Bergfried, Markt, Wohnhaeuser, Burglager und Befestigungen werden einzeln mit Material und Bauzeit errichtet. Bereits bezahlte laufende Gruendungen werden ohne weitere Gruendungsgebuehr umgestellt. Bestehende Staedte ausserhalb der Heimatregion erhalten fehlende Startimporte einmalig wie die urspruenglichen Handelsorte.
+
+
+VERSION 0.6.5
+Weltkarte: Linke Maustaste halten und einen Rahmen um eigene Schiffe ziehen. Rechtsklick gibt allen ausgewaehlten Schiffen dasselbe Hafen- oder Wasserziel. Mit gedrueckter mittlerer Maustaste wird die Karte verschoben. Gegruendete Hafenburgen werden als Anlegestellen angesteuert, auch bei einer veralteten Kolonieplatz-Markierung.

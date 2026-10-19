@@ -795,3 +795,11 @@ Erfolgreich heimgekehrte Expeditionen decken die erreichte neue Kartenregion auf
 
 VERSION 0.5.32
 Schiffe lassen sich per Rechtsklick in entdeckte Kartenregionen und direkt zu Kolonie-Hafenplätzen schicken.
+
+
+VERSION 0.5.33
+Kartenregionen laden ihre Geländedetails im Hintergrund. Kartenteilung gilt nur für eine ausgewählte Region.
+
+
+VERSION 0.6
+Erweiterte Welt mit Globus und Südhalbkugel. Kirchenmenü, tägliches Gebet und Armenspeisung. Burggründung direkt am angekommenen Schiff nahe freier Kolonieplätze; Ladung eigener Schiffe vor Ort wird zusammengezählt. Aktualisiertes Handbuch.

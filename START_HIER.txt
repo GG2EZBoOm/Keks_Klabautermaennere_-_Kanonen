@@ -819,3 +819,7 @@ Weltkarte: Linke Maustaste halten und einen Rahmen um eigene Schiffe ziehen. Rec
 
 VERSION 0.6.6
 WASD und Pfeiltasten verschieben die Weltkarte auch mit geoeffneter Schiffsrolle. Mausrad gedrueckt halten und ziehen verschiebt die Karte; Linksklick-Ziehen waehlt eigene Schiffe im Rahmen aus. Enge Heimathaefen wie Falhafen sind mit der erweiterten Seekarte in beiden Richtungen verbunden.
+
+
+VERSION 0.6.7
+Angelegte Schiffe lassen sich auch in der Ansicht einer Hafenburg oder eines Burgkolonieplatzes anklicken. Die Schiffsrolle oeffnet den richtigen Burg-Liegeplatz.

@@ -839,3 +839,11 @@ Kirchengebaeude als kompakte Pergamentkarte. Staedte neben Familiensitzen bleibe
 
 VERSION 0.6.11
 Sofortiger Versand von Stadt- und Schiffshandel: Karten- und Atlasabfragen blockieren Handelsauftraege nicht mehr.
+
+
+VERSION 0.6.12
+Burgkolonie-Bauauftraege ohne zweite Bestaetigung. Korrigierte Zeichenreihenfolge benachbarter Burggebaeude.
+
+
+VERSION 0.6.13
+Burgfried beginnt bei Besiedlung; weiterer Ausbau direkt am Burgfried. Einheitlicher Baukatalog in Stadt und Burg mit Warensymbolen. Serverseitig: kuerzere Seerouten, aktuelle Fluesse, Mauerbau fuer neue Staedte.

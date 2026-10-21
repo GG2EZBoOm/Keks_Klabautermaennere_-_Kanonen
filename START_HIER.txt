@@ -855,3 +855,11 @@ Burg-Wohnhaeuser und Produktionsbetriebe verwenden die Stadt-Detailkarten. Garni
 
 VERSION 0.6.15
 Kultur- und Religionskarten verwenden die aktuellen Atlasgrenzen. Musik pausiert beim Heraustabben und setzt denselben Titel fort.
+
+
+VERSION 0.6.16
+Stadtbaumenüs übernehmen nach Bauaufträgen nur neue Serverantworten. Bereits bestellte Gebäude werden mit ihrem aktuellen Baustatus angezeigt.
+
+
+VERSION 0.6.17
+WASD und Pfeiltasten bewegen die Weltkarte bei geöffneter Stadtübersicht. Nach der automatischen Sonntagsabrechnung wartet ein stehender Steuerbote mit dem Bericht im Familiensitzsaal bis zur Bestätigung. Enthält die Stadtbaukorrektur aus 0.6.16.

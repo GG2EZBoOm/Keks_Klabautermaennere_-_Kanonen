@@ -863,3 +863,7 @@ Stadtbaumenüs übernehmen nach Bauaufträgen nur neue Serverantworten. Bereits 
 
 VERSION 0.6.17
 WASD und Pfeiltasten bewegen die Weltkarte bei geöffneter Stadtübersicht. Nach der automatischen Sonntagsabrechnung wartet ein stehender Steuerbote mit dem Bericht im Familiensitzsaal bis zur Bestätigung. Enthält die Stadtbaukorrektur aus 0.6.16.
+
+
+VERSION 0.6.18
+Die Sterne auf der Weltkarte wurden entfernt. Reise-Sanduhren verwenden jetzt eine eigene Grafik aus dem Burg-Zeichner mit Holzrahmen und Messingbeschlägen. Gedrücktes WASD und die Pfeiltasten bewegen die Kamera jetzt gleichmäßig, auch mit Stadt- oder Schiffsmenü. Beim Loslassen und Fokuswechsel hält sie an. Eigenständige KI-Charaktere außerhalb der Handelsgesellschaften erhalten serverseitig einmalig ein Flussschiff, sofern sie noch kein Schiff haben. Automatisch nummerierte Atlas-Charakternamen werden serverseitig durch unterscheidbare Namen mit aktuellen Ortsbezeichnungen ersetzt.

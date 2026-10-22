@@ -867,3 +867,7 @@ WASD und Pfeiltasten bewegen die Weltkarte bei geöffneter Stadtübersicht. Nach
 
 VERSION 0.6.18
 Die Sterne auf der Weltkarte wurden entfernt. Reise-Sanduhren verwenden jetzt eine eigene Grafik aus dem Burg-Zeichner mit Holzrahmen und Messingbeschlägen. Gedrücktes WASD und die Pfeiltasten bewegen die Kamera jetzt gleichmäßig, auch mit Stadt- oder Schiffsmenü. Beim Loslassen und Fokuswechsel hält sie an. Eigenständige KI-Charaktere außerhalb der Handelsgesellschaften erhalten serverseitig einmalig ein Flussschiff, sofern sie noch kein Schiff haben. Automatisch nummerierte Atlas-Charakternamen werden serverseitig durch unterscheidbare Namen mit aktuellen Ortsbezeichnungen ersetzt.
+
+
+VERSION 0.6.19
+Die Reichsübersicht zeichnet unveränderte Gebietsflächen und Grenzen aus einem begrenzten Kachelspeicher. Verschieben, Zoomen, Gebietswechsel sowie Kultur- und Religionsfilter aktualisieren die Darstellung weiterhin.

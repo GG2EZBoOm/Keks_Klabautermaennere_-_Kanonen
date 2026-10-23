@@ -875,3 +875,7 @@ Die Reichsübersicht zeichnet unveränderte Gebietsflächen und Grenzen aus eine
 
 VERSION 0.6.20
 Die Wahl des Handelssitzes beim Gründen einer Handelsgesellschaft zeigt die aktuelle Weltkarte mit den entdeckten Regionen. Ortsmarkierungen und Karte verwenden dieselben Weltkoordinaten.
+
+
+VERSION 0.6.21
+Neues Spielintro: Keks, Klabautermänner & Kanonen. Die Videos der Kek-Engine und von Kekish Games bleiben erhalten.

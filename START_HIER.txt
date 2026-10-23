@@ -871,3 +871,7 @@ Die Sterne auf der Weltkarte wurden entfernt. Reise-Sanduhren verwenden jetzt ei
 
 VERSION 0.6.19
 Die Reichsübersicht zeichnet unveränderte Gebietsflächen und Grenzen aus einem begrenzten Kachelspeicher. Verschieben, Zoomen, Gebietswechsel sowie Kultur- und Religionsfilter aktualisieren die Darstellung weiterhin.
+
+
+VERSION 0.6.20
+Die Wahl des Handelssitzes beim Gründen einer Handelsgesellschaft zeigt die aktuelle Weltkarte mit den entdeckten Regionen. Ortsmarkierungen und Karte verwenden dieselben Weltkoordinaten.
